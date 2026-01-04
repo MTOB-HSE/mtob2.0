@@ -1,0 +1,226 @@
+LP,Target Language Name,ISO639-3,ISO 15924 Script,Glottocode,Continent,Endonym,Alternate names,N Smoldoc,N SmolSent,N Gatitos
+am_ar,Arabic,ara,Arab,stan1269,Asia,اللُّغَة العَرَبِيّة,Arabic (MSA); Arabic (Standard); Arabic (Fusha); fuṣḥā; MSA,329,0,0
+am_zh,Mandarin Chinese,zho,Hans,mand1415,Asia,汉语,,329,0,0
+en_aa,Afar,aar,Latn,afar1241,Africa,Qafar,,66,863,3990
+en_ab,Abkhaz,abk,Cyrl,abkh1244,Asia,Аҧсуа,Abkhazian,0,0,3976
+en_ace,Acehnese,ace,Latn,aceh1245,Asia,Aceh,Achinese; Dayan; Aceh,0,0,4001
+en_ach,Acholi,ach,Latn,acol1240,Africa,Acholi,Luo; Acoli,66,863,4001
+en_ady,West Circassian,ady,Cyrl,adyg1241,Europe,Черкес,Adyghe,0,0,4001
+en_aeb,Tunisian Arabic,aeb,Arab,tuni1253,Africa,اللغة العربيّة التونسيّة,Arabic (Tunisia); Tounsi,66,862,3998
+en_af,Afrikaans,afr,Latn,afri1274,Africa,Afrikaans,,130,863,0
+en_ahr,Ahirani,ahr,Deva,ahir1247,Asia,"खान्देशी, अहिराणी",,457,0,0
+en_aii,Assyrian Neo-Aramaic,aii,Syrc,assy1244,Asia,ܣܘܪܝܬ,Assyrian; Assyrian Neo–Aramaic; Sureth; Suret,0,0,3717
+en_ak,Twi,aka,Latn,akan1250,Africa,Twi,Akan (includes Akuapem + Fante); Asante,260,863,4000
+en_alz,Alur,alz,Latn,alur1245,Africa,Lur,,66,863,3992
+en_am,Amharic,amh,Ethi,amha1245,Africa,አማርኛ,,584,863,0
+en_apc,North Levantine Arabic,apc,Arab,nort3190,Asia,شامي‎,,0,0,3998
+en_apd,Sudanese Arabic,apd,Arab,suda1253,Africa,عربي سوداني,Arabic (Sudan),66,855,3995
+en_ar-MA,Morrocan Arabic,ara,Arab,stan1269,Africa,الدارجة,Arabic (Morocco); Darija,260,863,3989
+en_arn,Mapudungun,arn,Latn,mapu1245,Americas,Mapudungun,Mapuche,0,0,4001
+en_arz,Egyptian Arabic,arz,Arab,egyp1253,Africa,اللهجة المصرية,Arabic (Egypt); Masri; Masry,260,863,4001
+en_as,Assamese,asm,Beng,assa1263,Asia,অসমীয়া,,0,0,3975
+en_av,Avar,ava,Cyrl,avar1255,Europe,магӏарул мацӏ,Avaric,0,0,4001
+en_awa,Awadhi,awa,Deva,awad1243,Asia,अवधी,Audhi,0,0,3999
+en_ay,Aymara,aym,Latn,cent2131,Americas,Aymar aru,,0,863,3990
+en_ayl,Libyan Arabic,ayl,Arab,liby1242,Africa,العربية الليبية,Arabic (Libya); Sulaimitian Arabic,66,863,3999
+en_ba,Bashkir,bak,Cyrl,bash1264,Europe,Башҡорт,Bashkort,0,0,3986
+en_bal,Baluchi,bal,Arab,balo1260,Asia,بلوچی,Balochi,0,0,3994
+en_ban,Balinese,ban,Latn,bali1278,Asia,Basa Bali,,0,0,3992
+en_bbc,Batak Toba,bbc,Latn,bata1315,Asia,Batak Toba,,0,0,3993
+en_bci,Baoulé,bci,Latn,baou1244,Africa,wawle,Baoule; Baule,66,863,3998
+en_bem,Bemba (Zambia),bem,Latn,bemb1251,Africa,Ichibemba,Bemba; chiBemba,66,863,3977
+en_ber,Tamazight (Tifinagh Script),ber,Tfng,cent2136,Africa,ⵜⴰⵎⴰⵣⵉⵖⵜ,Berber; Amazigh,130,862,4000
+en_ber-Latn,Tamazight (Latin Script),ber,Latn,cent2136,Africa,Tamaziɣt,Tamazight; Berber; Amazigh,130,862,4001
+en_bew,Betawi,bew,Latn,beta1263,Asia,Betawi,Betawi Malay; Jakartan Malay; Batavian Malay,0,0,4001
+en_bfq,Badaga,bfq,Taml,bada1255,Asia,படக,,457,0,0
+en_bfy,Bagheli,bfy,Deva,bagh1245,Asia,बघेली,,457,0,0
+en_bgq,Bagri,bgq,Deva,bagr1244,Asia,बागड़ी,,457,0,0
+en_bho,Bhojpuri,bho,Deva,bhoj1242,Asia,भोजुरी,,0,0,3991
+en_bik,Bikol,bcl,Latn,cent2238,Asia,Sentral Bikol,Bicol; Bicolano,0,0,3993
+en_bjn,Banjar,bjn,Latn,banj1253,Asia,Banjar,Banjarese,0,0,3996
+en_bjn-Arab,Banjar (Arabic script),bjn,Arab,banj1253,Asia,بنجر; ڤندير بنجر,,0,0,3999
+en_bm,Bambara,bam,Latn,bamb1269,Africa,Bámánánkán,,260,863,4000
+en_bns,Bundeli,bns,Deva,bund1257,Asia,बुन्देली,,456,0,0
+en_bo,Tibetan,bod,Tibt,tibe1279,Asia,བོད་མི།; བོད་ཀྱི།; བོད་སྐད།; བོ་ཡིག།,Lhasa Tibetan; Standard Tibetan; Baykha; Kham; Baykay,0,863,3994
+en_br,Breton,bre,Latn,bret1244,Europe,brezhoneg,Brezhoneg,0,0,4001
+en_bra,Braj,bra,Deva,braj1239,Asia,ब्रजभाषा,,457,0,0
+en_brx,Bodo (India),brx,Deva,bodo1262,Asia,बोडो,Bodo; Boro,0,863,3994
+en_bts,Batak Simalungun,bts,Latn,bata1312,Asia,Bahasa Simalungun,Simalungun; Simalungunese,0,0,3999
+en_btx,Batak Karo,btx,Latn,bata1314,Asia,Batak Karo,Karonese; Karo; Bahasa Karo,0,0,3997
+en_bua,Buryat,bua,Cyrl,bury1248,Asia,Буряад,,0,0,3976
+en_bug,Buginese,bug,Latn,bugi1246,Asia,basa Ugi,,0,0,3759
+en_ccp-Latn,Chakma (Latin script),ccp,Latn,chak1271,Asia,Changhma Bhach,,457,0,0
+en_ce,Chechen,che,Cyrl,chec1245,Europe,Нохчийн,,0,0,3997
+en_cgg,Kiga,cgg,Latn,kiga1247,Africa,Kiga,Chiga; Orukiga; Rukiga; Ruchiga,66,863,4001
+en_ch,Chamorro,cha,Latn,cham1313,Oceania,Finuʼ Chamoru,CHamoru,0,0,4001
+en_chk,Chuukese,chk,Latn,chuu1241,Oceania,Trukese,Trukese,0,0,3889
+en_chm,Meadow Mari,chm,Cyrl,east2391,Asia,олык марий,Eastern Mari,0,0,4001
+en_ckb,Kurdish (Sorani),ckb,Arab,cent2243,Asia,سۆرانی,Central Kurdish; Sorani,0,863,3986
+en_cnh,Hakha Chin,cnh,Latn,hakh1239,Asia,Laica,Zomi; Laiholh; Lai,0,0,3999
+en_crh,Crimean Tatar (Cyrillic script),crh,Cyrl,crim1257,Europe,Крымскотатарский,Crimean Tatar,0,0,3990
+en_crh-Latn,Crimean Tatar (Latin script),crh,Latn,crim1257,Europe,qırımtatar tili,,0,0,3990
+en_crs,Seychellois Creole,crs,Latn,seyc1242,Africa,kreol seselwa,kreol; Seselwa Creole French,0,0,3989
+en_ctg,Chittagonian,ctg,Beng,chit1278,Asia,Chittagonian,,0,0,3996
+en_cv,Chuvash,chv,Cyrl,chuv1255,Europe,Чăваш,,0,0,3985
+en_dhd,Dhundari,dhd,Deva,dhun1238,Asia,ढूंढाड़ी,,456,0,0
+en_din,Dinka,din,Latn,dink1262,Africa,Thuɔŋjäŋ,,66,863,4001
+en_dje,Zarma,dje,Latn,zarm1239,Africa,,,66,863,4001
+en_doi,Dogri,doi,Deva,dogr1251,Asia,डोगरी,,454,0,3997
+en_dov,Dombe,dov,Latn,dovv1238,Africa,ChiDombe,Chidombe; Zambezi; Tonga,66,863,3998
+en_dv,Dhivehi,div,Thaa,dive1238,Asia,ދިވެހި,"Maldivian, Divehi",0,0,3973
+en_dyu,Dyula,dyu,Latn,dyul1238,Africa,Julakan,Dioula; Jula,66,863,3997
+en_dz,Dzongkha,dzo,Tibt,dzon1238,Asia,རྫོང་ཁ,Bhutanese,0,0,3997
+en_ee,Ewe,ewe,Latn,ewee1241,Africa,Eʋegbe,,130,863,3990
+en_efi,Efik,efi,Latn,efik1245,Africa,Usem mbom Efik; Ikɔ-efik,,66,863,4001
+en_es,Spanish,spa,Latn,span1260,Europe,"español, castellano",,0,863,3991
+en_fa-AF,Dari,fas,Arab,dari1249,Asia,دری,Persian (Afghanistan),0,0,4000
+en_ff,Fulani,ful,Latn,fula1264,Africa,Fulɓe; Fulfulde; Pular; Pulaar,Fulfulde; Fula; Fulah; Pular; Pulaar; Peul (French),260,862,3998
+en_fj,Fijian,fij,Latn,fiji1243,Oceania,Vosa Vaka-Viti,Bauan,0,0,4001
+en_fo,Faroese,fao,Latn,faro1244,Europe,Føroysk,,0,0,3999
+en_fon,Fon,fon,Latn,fonn1241,Africa,fɔ̀ngbè; fongbē,,66,863,3998
+en_fr,French,fra,Latn,fren1241,Europe,français,,0,0,3998
+en_fr-CA,French (Canada),fra,Latn,fren1241,Americas,français canadien,,0,0,4001
+en_fur,Friulian,fur,Latn,friu1241,Europe,Furlan,,0,0,3985
+en_gaa,Ga,gaa,Latn,gaaa1245,Africa,Gã,,66,863,4000
+en_gn,Guarani,grn,Latn,guar1295,Americas,avañeʼẽ,,0,863,3991
+en_gom,Goan Konkani,gom,Deva,goan1237,Asia,कोंकणी,,0,0,3999
+en_grt-Latn,Garo (Latin script),grt,Latn,garo1249,Asia,A·chikku,,457,0,0
+en_gv,Manx,glv,Latn,manx1243,Europe,Gaelg,Gaelic,0,0,3999
+en_ha,Hausa,hau,Latn,haus1257,Africa,Hausa,,584,863,0
+en_hi,Hindi,hin,Deva,hind1269,Asia,हिन्दी,,0,0,3984
+en_hil,Hiligaynon,hil,Latn,hili1241,Asia,Hiligaynon,Ilonggo; Binisaya; Bisaya nga Hiniligaynon; Inilonggo,0,0,4001
+en_hne,Chhattisgarhi,hne,Deva,chha1248,Asia,छत्तीसगढ़ी,,0,0,4000
+en_hoc-Wara,Ho (Warang Chiti script),hoc,Wara,hooo1242,Asia,𑢹𑣉𑣉 𑣎𑣋𑣜,,457,0,0
+en_hrx,Hunsrik,hrx,Latn,huns1243,Americas,Hunsrik,Riograndenser Hunsrik,0,0,3932
+en_iba,Iban,iba,Latn,iban1266,Asia,Iban,Sea Dayak,0,0,3997
+en_ig,Igbo,ibo,Latn,igbo1258,Africa,Asụsụ Igbo,,391,863,0
+en_ilo,Ilocano,ilo,Latn,iloc1242,Asia,Iloko,Iloko; Ilokano,0,0,3993
+en_is,Icelandic,isl,Latn,icel1247,Europe,Íslenska,,0,863,3995
+en_iso,Isoko,iso,Latn,isok1244,Africa,Isoko,,0,0,4001
+en_iu,Inuktut (Syllabics),iku,Cans,east2532,Americas,ᐃᓄᒃᑎᑐᑦ,Inuktitut; Inuktut,0,0,3999
+en_iu-Latn,Inuktut (Latin),iku,Latn,east2532,Americas,Inuktut,Inuktitut; Inuktut,0,0,4001
+en_jam,Jamaican Patois,jam,Latn,jama1263,Americas,Patwa,Patois; Jamaican Creole English,0,0,3996
+en_kaa,Karakalpak,kaa,Cyrl,kara1499,Asia,Қарақалпақ; Қарақалпақша,Kara-Kalpak; Qaraqalpaq,0,0,3970
+en_kac,Jingpo,kac,Latn,jing1258,Asia,Jinghpaw,Kachin; Jingpho; Jingphaw; Wunpawng,0,0,3941
+en_kbd,East Circassian,kbd,Cyrl,kaba1278,Europe,Къэбэрдей; Адыгэ,Kabardian,0,0,3976
+en_kek,Q'eqchi',kek,Latn,qeqc1239,Americas,Qʼeqchiʼ,Kekchi; Kekchi'; Kekchí,0,0,4001
+en_kfy,Kumaoni,kfy,Deva,kuma1271,Asia,कुमाऊँनी,,457,0,0
+en_kg,Kongo,kon,Latn,kong1295,Africa,Kikongo,Kikongo,66,863,3998
+en_kha,Khasi,kha,Latn,khas1265,Asia,khasi,Khasian,0,0,4001
+en_ki,Kikuyu,kik,Latn,kiku1242,Africa,Gĩgĩkũyũ,Gikuyu,66,863,3994
+en_kl,Kalaallisut,kal,Latn,kala1399,Americas,Kalaallisut,Greenlandic,0,863,3943
+en_kr,Kanuri,kau,Latn,kanu1282,Africa,Kànùrí,,66,863,4000
+en_kri,Krio,kri,Latn,krio1253,Africa,Krio,,130,863,4020
+en_kru,Kurukh,kru,Deva,kuru1263,Asia,कुँड़ुख़,,457,0,0
+en_ks,Kashmiri,kas,Arab,kash1277,Asia,كٲشُر,Koshur,0,863,4001
+en_ks-Deva,Kashmiri (Devanagari script),kas,Deva,kash1277,Asia,कॉशुर,Koshur,0,863,4001
+en_ktu,Kituba (DRC),ktu,Latn,kitu1242,Africa,Kituba,Kituba,66,863,3999
+en_kv,Komi,kom,Cyrl,komi1269,Asia,Коми,Zyryan; Komi-Zyryan,0,0,3980
+en_lep,Lepcha,lep,Lepc,lepc1242,Asia,ᰛᰩᰵᰛᰧᰵᰶ‎,,456,0,0
+en_lg,Luganda,lug,Latn,gand1255,Africa,Oluganda,Ganda,260,863,3998
+en_li,Limburgish,lim,Latn,limb1264,Europe,Limburgs,Limburgian; Limburg; Limburgs,0,0,3999
+en_lif-Limb,Limbu (Limbu script),lif,Limb,limb1265,Asia,ᤕᤠᤰᤌᤢᤱ ᤐᤠᤴ,,457,0,0
+en_lij,Ligurian,lij,Latn,ligu1248,Europe,Ligure,Genoese,66,863,4332
+en_lmo,Lombard,lmo,Latn,lomb1257,Europe,lombard,,0,0,3983
+en_ln,Lingala,lin,Latn,ling1261,Africa,Lingála,Ngala,260,863,3994
+en_ltg,Latgalian,ltg,Latn,latg1249,Europe,latgalīšu,,0,0,3984
+en_lu,Kiluba (Luba-Katanga),lub,Latn,luba1252,Africa,Kiluba,Luba-Katanga; Luba; Tshiluba,66,863,0
+en_lua,Tshiluba (Luba-Lulua),lua,Latn,luba1253,Africa,"Tshiluba, Ciluba","Luba-Kasai; Luba; Tshiluba; Cilubà; Tshilubà, Luba-Lulua",0,0,3998
+en_luo,Luo,luo,Latn,luoo1242,Africa,Luo,Dholuo,260,863,3941
+en_lus,Mizo,lus,Latn,lush1249,Asia,Mizo ṭawng,,0,863,3998
+en_mad,Madurese,mad,Latn,madu1252,Asia,Madurâ,,0,0,3999
+en_mag,Magahi,mag,Deva,maga1259,Asia,मगही,,456,0,3997
+en_mai,Maithili,mai,Deva,mait1250,Asia,मैथिली,Maitili,0,0,3989
+en_mak,Makassar,mak,Latn,maka1312,Asia,Mangkasara,Makasar; Makassarese; Mangkasara; Macassar,0,0,3994
+en_mam,Mam,mam,Latn,nort2932,Americas,Ta yol Mam,,0,0,3902
+en_meo,Kedah Malay,meo,Latn,keda1251,Asia,Siti,Malay (Kedah),0,0,3995
+en_mfe,Mauritian Creole,mfe,Latn,maur1252,Africa,Morisien,Morisien; Morisyen,66,863,3997
+en_mg,Malagasy,mlg,Latn,mala1288,Africa,Fiteny malagasy,,391,863,0
+en_mh,Marshallese,mah,Latn,mars1254,Oceania,Majol,Ebon,0,0,3977
+en_min,Minang,min,Latn,mina1264,Asia,Minangkabau,Minangkabau,0,0,3999
+en_mjl,Mandeali,mjl,Deva,mand1417,Asia,मण्डियाली,,457,0,0
+en_mni-Mtei,Meiteilon (Manipuri),mni,Mtei,mani1293,Asia,ꯃꯤꯇꯩꯂꯣꯟ,"Meitei, Meetei, Meitheilon, Meeteilon",0,863,3923
+en_mos,Mooré,mos,Latn,moor1244,Africa,Moaaga; Mòoré,Mossi; Moore; More; Mõore; Mossé,66,863,4000
+en_ms-Arab,Malay (Jawi Script),msa,Arab,stan1293,Asia,ملايو,,0,0,4000
+en_mtr,Mewari,mtr,Deva,mewa1253,Asia,मेवाड़ी,,457,0,0
+en_mwr,Marwadi,mwr,Deva,marw1261,Asia,मारवाड़ी,Marwari; Rajasthani,0,0,3999
+en_nd,North Ndebele,nde,Latn,nort2859,Africa,IsiNdebele,Ndebele (North),66,863,3694
+en_ndc,Ndau,ndc,Latn,ndau1241,Africa,,,0,0,0
+en_ne,Nepali,nep,Deva,nepa1254,Asia,नेपाली,,456,0,0
+en_new,Nepalbhasa (Newari),new,Deva,newa1241,Asia,नेवाः,Newari; Nepalbhasa; Nepal Bhasa; Newar,0,0,4001
+en_nhe,Eastern Huasteca Nahuatl,nhe,Latn,east2338,Americas,Nahuatlajtoli Kuextekan ikisayo,Nahuatl (Eastern Huasteca),0,0,4000
+en_noe,Nimadi,noe,Deva,nima1244,Asia,निमाड़ी,,315,0,0
+en_nqo,NKo,bam,Nkoo,bamb1269,Africa,ߓߡߊߣߊ߲ߞߊ߲,N'Ko,0,0,0
+en_nr,South Ndebele,nbl,Latn,sout2831,Africa,isiNdebele seSewula,Ndebele (South); Transvaal Ndebele; Southern Ndebele,66,863,4001
+en_nso,Sepedi,nso,Latn,nort2827,Africa,Sepedi,Northern Sotho; Pedi,130,863,3996
+en_nus,Nuer,nus,Latn,nuer1246,Africa,Thok Naath,,0,0,4001
+en_nv,Navajo,nav,Latn,nava1247,Americas,Diné; Naabeehó,Navaho; Diné,0,0,3992
+en_ny,Chichewa,nya,Latn,nyan1308,Africa,Chilankhulo cha Chichewa,,260,863,0
+en_oc,Occitan,oci,Latn,occi1239,Europe,Occitan,Provençal,0,0,3998
+en_om,Oromo,orm,Latn,orom1259,Africa,Afaan Oromoo,Afaan Oromoo,391,863,3992
+en_os,Ossetian,oss,Cyrl,osse1243,Europe,Ирон,Ossetic; Iron,0,0,3915
+en_pa-Arab,Lahnda Punjabi (Pakistan),pan,Arab,west2341,Asia,لہندا پنجابی,Punjabi (Lahnda); Punjabi (Western); Punjabi (India); Punjabi (Shahmukhi),0,863,4001
+en_pag,Pangasinan,pag,Latn,pang1290,Asia,Pangasinan,Pangasinense,0,0,3994
+en_pam,Kapampangan,pam,Latn,pamp1243,Asia,Kapampangan,Pampango; Capampáñgan,0,0,3993
+en_pap,Papiamento,pap,Latn,papi1254,Americas,Papiamento,Papiamento in Aruba; Papiamentu in Bonaire and Curaçao,0,0,4001
+en_pcm,Nigerian Pidgin,pcm,Latn,nige1256,Africa,"Naijá, Pidgin for Nigerian",Naija; Naijá; Pijin; Brokun; Broken,130,863,4001
+en_pt-PT,Portuguese (Portugal),por,Latn,port1283,Europe,português,,0,0,3995
+en_qu,Quechua,que,Latn,quec1387,Americas,Runa Simi,,0,863,3861
+en_quc,K'iche',quc,Latn,kich1262,Americas,K'iche',Quiche; Quiché,0,0,3992
+en_rhg-Latn,Rohingya (Latin script),rhg,Latn,rohi1241,Asia,Ruháingga,Rohingya,0,0,3999
+en_rn,Rundi,run,Latn,rund1242,Africa,Ikirundi,Kirundi,66,863,3999
+en_rom,Romani,rmy,Latn,roma1271,Europe,Rromani ćhib,Romany; Romanes; Roma,0,0,3988
+en_rw,Kinyarwanda,kin,Latn,kiny1244,Africa,Ikinyarwanda,,260,863,0
+en_sa,Sanskrit,san,Deva,sans1269,Asia,संस्कृतम्,Samskrit; Samskrt; Samskritam,0,863,3998
+en_sah,Yakut,sah,Cyrl,sakc1242,Europe,Саха,Sakha; Saxa; Saqa; Yakutian,0,0,3983
+en_sat,Santali (Ol Chiki script),sat,Olck,sant1265,Asia,ᱥᱟᱱᱛᱟᱲᱤ,Santali; Santhali; Hor,0,863,4001
+en_sat-Latn,Santali (Latin Script),sat,Latn,sant1265,Asia,Santali,Santali; Santhali; Hor,0,863,4000
+en_scl,Shina,scl,Arab,shin1264,Asia,ݜݨیاٗ زبان,,457,0,0
+en_scn,Sicilian,scn,Latn,sici1248,Europe,Sicilianu,,100,0,3997
+en_sd-Deva,Sindhi (Devanagari script),snd,Deva,sind1279,Asia,सिन्धी,,456,0,0
+en_se,Northern Sami,sme,Latn,nort2641,Europe,davvisámegiella,North Saami; North Sámi; Sami (North),0,0,3980
+en_sg,Sango,sag,Latn,sang1327,Africa,Sango,,0,0,3994
+en_sgj,Surgujia,sgj,Deva,surg1242,Asia,सरगुजिया,,356,0,0
+en_shn,Shan,shn,Mymr,shan1277,Asia,တႆး; လိၵ်ႈတႆး,Tai longe,0,0,4001
+en_sjp,Surjapuri,sjp,Deva,surj1242,Asia,सुरजापुरी‎,,299,0,0
+en_skr,Saraiki,skr,Arab,sara1261,Asia,سرائیکی,Multani,0,0,4001
+en_sn,Shona,sna,Latn,shon1249,Africa,ChiShona,,260,863,0
+en_so,Somali,som,Latn,soma1255,Africa,Af-Soomaali,,260,862,0
+en_spv,Sambalpuri,spv,Orya,samb1314,Asia,ସମ୍ବଲପୁରୀ,,457,0,0
+en_ss,Swati,ssw,Latn,swat1253,Africa,Siswati,siSwati,66,863,3924
+en_st,Sesotho,sot,Latn,sout2824,Africa,seSotho,,260,863,0
+en_sus,Susu,sus,Latn,susu1255,Africa,Sosokhui,,66,863,4000
+en_sw,Swahili,swa,Latn,swah1253,Africa,Kiswahili,Kiswahili,584,863,0
+en_syl,Sylheti,syl,Beng,sylh1242,Asia,সিলেটি,Siloti,0,0,4001
+en_szl,Silesian,szl,Latn,sile1255,Europe,Ślůnski,,0,0,3997
+en_tcy,Tulu,tcy,Knda,tulu1257,Asia,ತುಳು,,451,0,4000
+en_tet,Tetum,tet,Latn,tetu1246,Asia,Tetun,Tetun,0,0,4001
+en_ti,Tigrinya,tir,Ethi,tigr1271,Africa,ትግርኛ,Tigrigna,260,863,4000
+en_tiv,Tiv,tiv,Latn,tivv1240,Africa,Tiv,,66,863,4001
+en_tn,Tswana,tsn,Latn,tswa1253,Africa,Setswana,Batswana; Setswana,66,863,3995
+en_to,Tonga (Tonga Islands),ton,Latn,tong1325,Oceania,Tonga,Tongan; Tonga; Lea Faka-Tonga,0,0,4001
+en_tpi,Tok Pisin,tpi,Latn,tokp1241,Oceania,Tok Pisin,Papua New Guinea Pidgin,0,0,4001
+en_trp,Kokborok,trp,Latn,kokb1243,Asia,Kokborok; Kókborok,"Tripuri; Tiprakok; Kok Borok; Kókborok; Tripura, Tipra, Tippera; ককবক‎; Kókborok",457,0,3997
+en_ts,Tsonga,tso,Latn,tson1249,Africa,Xitsonga,,66,863,3994
+en_tum,Tumbuka,tum,Latn,tumb1254,Africa,Chitumbuka,,66,863,3983
+en_ty,Tahitian,tah,Latn,tahi1242,Oceania,Reo Tahiti; Tahiti,,0,0,4001
+en_tyv,Tuvan,tyv,Cyrl,tuvi1241,Asia,тувинский,Tuvinian; Tyvan,0,0,3984
+en_udm,Udmurt,udm,Cyrl,udmu1245,Europe,Удмурт кыл,,0,0,3992
+en_unr-Deva,Mundari (Devanagari script),unr,Deva,mund1335,Asia,मुंडारी,,457,0,0
+en_ve,Venda,ven,Latn,vend1247,Africa,Tshivenḓa,Tshivenda; Luvenda; Bavenda,66,863,3984
+en_vec,Venetian,vec,Latn,vene1256,Europe,Veneto,Vèneto,0,0,4000
+en_war,Waray (Philippines),war,Latn,wara1293,Asia,Waray,Waray; Waray-Waray,0,0,3963
+en_wbr,Wagdi,wbr,Deva,wagd1238,Asia,वाग्दी‎,,455,0,0
+en_wo,Wolof,wol,Latn,wolo1247,Africa,Wolof,,260,863,4001
+en_xh,Xhosa,xho,Latn,xhos1239,Africa,isiXhosa,,260,863,0
+en_xnr,Kangri,xnr,Deva,kang1292,Asia,कांगड़ी,,457,0,0
+en_xsr-Tibt,Sherpa (Tibetan script),xsr,Tibt,sher1258,Asia,ཤར་པའི་སྐད་ཡིག,,457,0,0
+en_yo,Yoruba,yor,Latn,yoru1245,Africa,Èdè Yorùbá,,584,863,0
+en_yua,Yucatec Maya,yua,Latn,yuca1254,Americas,Maayat'aan,Mayan; Yucateco,0,0,3959
+en_yue,Cantonese,yue,Hant,yuee1245,Asia,廣東話; 粵語; 廣州話; 白話;,Yue Chinese,584,863,4201
+en_zap,Zapotec,zap,Latn,zapo1270,Americas,Diidxazá,,0,0,3777
+en_zu,Zulu,zul,Latn,zulu1248,Africa,isiZulu,,260,863,0
+en_zza,Zazaki,diq,Latn,zaza1245,Asia,Zazakî,Zaza; Kurdish (Zazaki); Dimli,0,0,3978
+sw_ar,Arabic,ara,Arab,stan1269,Asia,اللُّغَة العَرَبِيّة,Arabic (MSA); Arabic (Standard); Arabic (Fusha); fuṣḥā; MSA,330,0,0
+sw_zh,Mandarin Chinese,zho,Hans,mand1415,Asia,汉语,,330,0,0
+yue_zh,Mandarin Chinese,zho,Hans,mand1415,Asia,汉语,,0,0,4201

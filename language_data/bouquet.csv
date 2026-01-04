@@ -1,0 +1,55 @@
+ISO 639-3,Secondary ISO 639-3,ISO 15924,Glottocode,Language,Family,Subgroup,Class
+aar,,Latn,,Afar,Afro-Asiatic,Cushitic,P1-LR
+agr,,Latn,,Aguaruna,Chicham,,P1-LR
+ami,,Latn,,Amis,Austronesian,East Formosan,P1-LR
+arz,arb,Arab,,Egyptian Arabic + Modern Standard Arabic,Afro-Asiatic,Central Semitic,Pivot
+arz,arb,Latn,,Romanized Egyptian Arabic + Modern Standard Arabic,Afro-Asiatic,Semitic,P1-HR
+bak,,Cyrl,,Bashkir,Turkic,Kipchak,Community
+ben,,Beng,,Bengali,Indo-European,Indo-Aryan,P1-HR
+ces,,Latn,,Czech,Indo-European,Balto-Slavic,P1-HR
+che,,Cyrl,,Chechen,Nakh-Daghestanian,Nakh,Community
+cmn,,Hans,,Mandarin Chinese,Sino-Tibetan,Sinitic,Pivot
+crk,,Cans,,Plains Cree,Algic,Algonquian,P1-LR
+deu,,Latn,,German,Indo-European,West Germanic,Pivot
+dje,,Latn,,Zarma,Songhay,Eastern Songhay,P1-LR
+ell,,Grek,,Modern Greek,Indo-European,Hellenic,P1-HR
+eng,,Latn,,English,Indo-European,Germanic,Pivot
+fra,,Latn,,French,Indo-European,Italic,Pivot
+gaz,,Latn,,West Central Oromo,Afro-Asiatic,Cushitic,P1-LR
+gil,,Latn,,Gilbertese,Austronesian,Micronesian,P1-LR
+guc,,Latn,,Wayuu,Arawakan,Caribbean Arawakan,P1-LR
+hin,,Deva,,Hindi,Indo-European,Indo-Aryan,Pivot
+hin,,Latn,,Romanized Hindi,Indo-European,Indo-Aryan,P1-HR
+hrv,,Latn,,Croatian,Indo-European,Balto-Slavic,P1-HR
+hun,,Latn,,Hungarian,Uralic,Hungaric,P1-HR
+ind,,Latn,,Indonesian,Austronesian,Malayic,Pivot
+ita,,Latn,,Italian,Indo-European,Italic,P1-HR
+jav,,Latn,,Javanese,Austronesian,Javanesic,P1-HR
+jpn,,Jpan,,Japanese,Japonic,,P1-HR
+kaa,,Cyrl,,Karakalpak,Turkic,Kipchak,P1-LR
+kal,,Latn,,Kalaallisut,Eskimo-Aleut,Eskimo,P1-LR
+khm,,Khmr,,Central Khmer,Austroasiatic,Mon-Khmer,P1-HR
+kor,,Kore,,Korean,Korean,Koreanic,P1-HR
+kru,,Deva,,Kurukh,Dravidian,North Dravidian,P1-LR
+lij,,Latn,,Ligurian,Indo-European,Italic,P1-LR
+lin,,Latn,,Kinshasa Lingala,Atlantic-Congo,Central West. Bantu,P1-LR
+mya,,Mymr,,Burmese,Sino-Tibetan,Burmo-Qiangic,P1-LR
+nld,,Latn,,Standard Dutch,Indo-European,West Germanic,P1-HR
+pes,,Arab,,Western Persian,Indo-European,Iranian,P1-HR
+pol,,Latn,,Polish,Indo-European,Balto-Slavic,P1-HR
+por,,Latn,braz1246,Portuguese (Brazilian),Indo-European,Italic,P1-HR
+ron,,Latn,,Romanian,Indo-European,Italic,P1-HR
+rus,,Cyrl,,Russian,Indo-European,Balto-Slavic,Pivot
+sba,,Latn,,Ngambay,Central Sudanic,Sara-Bongo-Bagirmi,P1-LR
+spa,,Latn,,Spanish,Indo-European,Italic,Pivot
+swe,,Latn,,Swedish,Indo-European,North Germanic,P1-HR
+swh,,Latn,,Coastal Swahili,Atlantic-Congo,N.E. Coastal Bantu,P1-HR
+tgl,,Latn,,Tagalog,Austronesian,Greater Central Philippine,P1-HR
+tha,,Thai,,Thai,Tai-Kadai,Southwestern Tai,P1-HR
+tir,,Ethi,,Tigrinya,Afro-Asiatic,Semitic,P1-LR
+tur,,Latn,,Turkish,Turkic,Oghuz,P1-HR
+ukr,,Cyrl,,Ukrainian,Indo-European,Balto-Slavic,P1-HR
+urd,,Arab,,Urdu,Indo-European,Indo-Aryan,P1-HR
+vie,,Latn,,Vietnamese,Austroasiatic,Vietic,P1-HR
+yor,,Latn,,Yoruba,Atlantic-Congo,Defoid,P1-LR
+zlm,zsm,Latn,,Colloquial Malay + Standard Malay,Austronesian,Malayic,P1-HR
