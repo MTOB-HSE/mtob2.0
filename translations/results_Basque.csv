@@ -1,0 +1,101 @@
+Lang,Index,Source,Reference,LLM_Translation,ChrF
+Basque,0,eman diegu,we have given it to them,We have given it to them.,92.74
+Basque,1,MIRENI erosi diote liburua?,Did they buy MARY the book?,Did they buy Miren the book?,70.08
+Basque,2,"Baina oraingoan ez zaigu Bardem kontatzen hasi, noiz eta nola konta badakiela erakusteko.","But on this occasion, Bardem has not started telling stories just to show us that he knows to tell when and how.","But this time Bardem hasn’t started telling us, to show that he knows when and how to tell it.",55.41
+Basque,3,Ezer ez dio inork inori eman.,No one gave anything to Mikel.,Nobody gave anything to anyone.,56.64
+Basque,4,Hori nere ohea da.,That is my bed.,That is my bed.,100.0
+Basque,5,Zure laguna *pozik/*gure aurrean/aberats(a)/indartsu(a) bihurtu da.,Your friend became happy/in front of us/rich/strong.,Your friend has become happy/in front of us/rich/strong.,86.26
+Basque,6,Mikelek besoa hautsi du.,Mikel broke his arm.,Mikel has broken his arm.,59.07
+Basque,7,"eta baldin halatan eta orduan, bat ere gozo-rik edo zaphore-rik edirei-ten ba-diozu, zeren hura guzti-a Iaingoiko-aganik heldu bai-tateke, eta ez ene-ganik falta baizen, hari eskerr-ak errenda iatzotzu, eta ni-tzaz ere othoi-z egi-te-az, arren othoi, orhoit zaitezi.","And if thus and then, you find in it some sweetness of flavor, because all of that may come from God, and from me only its flaws, give thanks to Him, and please, I pray, remember me when you pray.","And if so and then you find in it any sweetness or savor at all, since all of that would come from God and not from me except for what is lacking, render thanks to Him; and, I beg you, remember me too in your prayers.",48.45
+Basque,8,Babestu gara.,We protected ourselves.,We protected ourselves.,100.0
+Basque,9,Urik ga.be ondo loratzea zaila da.,It is difficult to bloom without water.,It is difficult to bloom well without water.,91.84
+Basque,10,zabal eta luzera,width and length,wide and long,26.49
+Basque,11,Garaiz oheratzea eta berandu arte ohean egotea dut nik gustuko.,I like to go to bed early and to be in bed until late.,I like going to bed early and staying in bed until late.,66.04
+Basque,12,etxe baten aurrean,in front of a house,in front of a house,100.0
+Basque,13,Ordu biak dira.,It is two o'clock.,It is two o’clock.,69.53
+Basque,14,"Jonek badaki, denek dakite.","If Jon knows, everybody does.",Jon knows it; everyone knows it.,37.29
+Basque,15,Nork ikusi ahal zaitu?,Who can see you?,Who could have seen you?,34.65
+Basque,16,"ekarriko balit, emango nizueke","if he brought it to me, I would give it to you-pl","If I brought it, I would give it to you (pl.).",64.14
+Basque,17,Hain argia zaren horrek jakin beharko zenuke.,"You, who are so clever, ought to know.","You, being so smart, should know.",23.14
+Basque,18,Ni herrira ere joango naiz bihar.,I will go also to the village tomorrow.,I will also go to the village tomorrow.,80.59
+Basque,19,Leihoak zikindu dira.,The windows soiled.,The windows have gotten dirty.,49.86
+Basque,20,Zure lanari interesgarria deritzot.,I think your work is interesting.,I consider your work interesting.,64.03
+Basque,21,Mikelek liburua apurtuta ekarri zuen.,Mikel brought the book broken.,Mikel brought the book broken.,100.0
+Basque,22,Patatak batzetik nator.,I'm coming from gathering potatoes.,I’m coming from one of the potatoes.,56.87
+Basque,23,Atzoko bileran zutaz mintzatu zen.,You were spoken about in yesterday's meeting.,He spoke about you at yesterday’s meeting.,53.45
+Basque,24,"Nik ez daukat dirurik orain zuretzat, bai, ordea, maitasuna.","I don't have any money for you now, but [I have] love, instead.","I don’t have any money for you right now, but I do have love.",55.42
+Basque,25,Batzuetan lotsatu egiten nau neure buruak.,"Sometimes, myself embarrasses me.",Sometimes I am ashamed of myself.,41.36
+Basque,26,Jon dantzarazi dute.,They made Jon dance,They made Jon dance.,98.52
+Basque,27,Telefonoz deitu didate?,Did they (=anyone) phone me?,Did they call me on the phone?,38.52
+Basque,28,"Baina emagun auzotik auzora doala, batek bertzea kotsatuz-","But let's assume that it goes from neighborhood to neighborhood, one contaminating the other.","But suppose he is going from neighborhood to neighborhood, one pushing the other—",57.99
+Basque,29,Liburua NORK idatzi duen galdetu dit Jonek.,It is WHO wrote the book that Jon asked me.,Jon asked me who wrote the book.,57.42
+Basque,30,etorri ez den gizona,the man who didn't come,the man who didn’t come,77.46
+Basque,31,Bi urthe eta erdi zituen ni gerlarat joaitean.,He was two and half years old upon my going to war.,He was two and a half years old when I went to war.,57.97
+Basque,32,mando eta mendibide,mule- and mountain trails,mule and mountain path,54.27
+Basque,33,Epik eta Blasek bakoitzak badakite bestearen berri.,Ernie and Bert each have informatin about the other.,Epi and Blas each know about the other.,39.5
+Basque,34,Xabier zerbitzari dago kafetegi horretan.,Xabier is working as a waiter in that cafe.,Xabier is a waiter in that café.,64.73
+Basque,35,"Ene arimak ez du sekulan hartuko pausurik honda dadin artean jainkotasunaren itsasoan, [zeina baita haren iturburua].","My soul will take no rest until it is lost in the sea of divinity, which is its source.","My soul will never take rest until it is submerged in the sea of divinity, which is its source.",78.35
+Basque,36,Amak es totzü esan ori etxeko.,Mother has not told you to do that.,Mother didn’t tell that to the people at home.,28.28
+Basque,37,Debekatu egin diot Alberdiri karta berak idaztea.,I forbade Alberdi to write the letter himself.,I forbade Alberdi to write the same letters.,75.81
+Basque,38,Joxeren liburu eta Mirenen aldizkari berriak.,Joxe's (new) book(s) and Miren's new magazines.,Joxe’s books and Miren’s new magazines.,54.98
+Basque,39,Mikel Inakirekin eta Jonekin joango da antzerkira.,Mikel will go to the theatre with Inaki and with Jon.,Mikel will go to the theatre with Iñaki and Jone.,75.24
+Basque,40,Nori/nork zer iruditu zaio esan duela?,To whom does it seem that who said what?,Who does it seem to whom that (someone) has said what?,61.73
+Basque,41,Eta zure prestutasunaz... nork zer erranen du?,And who will say what on your virtue?,And about your willingness... who will say what?,50.66
+Basque,42,"Liburu hau irakurtzean, zutaz gogoratu nintzen.",I remembered you upon reading this book.,"While reading this book, I remembered you.",75.36
+Basque,43,Ordaindu egin gäbe utzi zituen bere zorrak.,He left his debts unpaid (without paying).,He left his debts unpaid.,57.76
+Basque,44,Emakume batek ez luke nahi alabari gerta lekion berari gertatua.,A woman would not wish that the same thing that happened to her might happen to her daughter.,A woman would not want what happened to her to happen to her daughter.,63.19
+Basque,45,"Loteria irabazten denean, bere lagunak inguratzen dira.","When one wins in the lottery, his friends get close to him.","When you win the lottery, your friends gather around you.",42.32
+Basque,46,Joxe-eta etorri garalzarete.,??Joxe-and etorri garalzarete.,Joxe and the others have come.,16.17
+Basque,47,Miren beldur/gose/ροζ da/dago.,Miren is frightened/hungry/happy.,Miren is afraid/hungry/pink.,43.84
+Basque,48,Txakurra den baino handiagoa iruditu zait.,The dog has seemed to me bigger than it is.,The dog seemed bigger to me than it is.,61.85
+Basque,49,Ane etxera iritsi zen eta Mirenek ireki zion atea.,Ane arrived home and Miren opened the door.,Ane arrived home and Miren opened the door for her.,94.55
+Basque,50,Ez du jende gutxik ezer egin.,Few people didn't do anything (intended).,Not few people did nothing.,39.84
+Basque,51,Zinemara joan nahi duzu ala?,You want to go to the movies or what?,Do you want to go to the cinema or what?,65.5
+Basque,52,Gizonaren semeak ez du bere burua non pausa.,‘The Son of man has nowhere to lay his head.’,The Son of Man has nowhere to lay his head.,84.28
+Basque,53,Gorpua desagertarazi dute.,They have made the corpse disappear.,They made the body disappear.,49.7
+Basque,54,hetarik joaki den kea,the smoke which is going from them.,the smoke that has gone out of them,33.03
+Basque,55,Hango dirua galdu dut.,I lost the money from there.,I lost the money from there.,100.0
+Basque,56,Zerekin ikusi dituzu zure lagunak lasai?,What did you see your friends relaxed with?,What did you see your friends relaxed with?,100.0
+Basque,57,"Dantza, Jonek EGITEN du.","As for dancing, Jon does dance.",Jon DOES dance.,20.6
+Basque,58,Nire zereginak zureak baino astunagoak dira.,‘My tasks are harder than yours.’,My tasks are heavier than yours.,71.15
+Basque,59,Iazko kontabilitatea ikertu dute?,Last year's accounts from where did they examine?,Did they investigate last year’s accounts?,40.0
+Basque,60,...ez dut zuei erran beharrik nori eman behar diogun gure boza.,...I need not tell you who we should give our vote to.,...I don’t need to tell you who we should give our vote to.,80.7
+Basque,61,punturik gehienak auzi bihur-tu-a-k ditugu,we have made [of] most topics controversial issues ('we have them turned into issues'),We have turned most points into a dispute.,20.78
+Basque,62,"Giire amona eldii da-nen, amä(g)ana jiin ge(r)a.","When our grandma arrived, we went to our mother.","When our grandmother got old, we went to (our) mother.",61.26
+Basque,63,Ez da erraz esaten zer egin duen.,It's not easy to say what he has done.,It’s not easy to say what he/she has done.,84.38
+Basque,64,"Abenduko eguna, argitu orduko iluna.","Days of December, darkness as soon as there is light.","A December day: as soon as it gets light, it’s dark again.",41.57
+Basque,65,Gothortzearekin batak bertzeari traba eginen dio.,"As they develop, they will hinder each other.","With the crowding, one will get in the other’s way.",22.79
+Basque,66,"Diogu-n ere, gaztelu hurbil-gaitz-ean baino are-ago pasabide-ko lurralde-an mintza-tu-a de-n-ez, beste edozein-ek hainbat harreman iza-n du-ela gure-a-k bi mila urte-otan zehar bederen.","Let us also say that, since it is spoken in a territory that is more a thoroughway than an unapproachable castle, ours [i.e. our language] has had as much contact as any other, at least in the last two thousand years.","Even so, since what we are talking about is a land of passage even more than that hard-to-reach nearby castle, any other [land/people] has had as much contact as ours, at least over the course of these two thousand years.",45.94
+Basque,67,ezin joan ahal izatea,not to be able to go,not being able to go,52.52
+Basque,68,Emakumeek hiruna ogi erosi zituzten.,The women bought three loaves of bread apiece.,The women bought three loaves of bread each.,83.4
+Basque,69,Etorri handiko bertsolaria da Iturriaga.,Iturriaga is a verse-improviser of great inspiration.,Iturriaga is a bertsolari with a great future.,32.85
+Basque,70,"Behin lana amaituz gero, gustatzen zaio lagunekin ardo pare bat hartzea.","After having finished work, she/he likes having a couple of glasses of wine with her/his friends.","Once the work is finished, he/she likes to have a couple of glasses of wine with friends.",57.78
+Basque,71,Amodioa zein den zoroa mundu guztiak badaki.,Everybody knows how crazy love is.,Everyone knows how crazy love is.,76.1
+Basque,72,haurrek etxean liburuak sarri irakurtze-an/-tik/-agatik...,upon/from/because of children's often reading books at home...,…when/from/because children often read books at home…,62.49
+Basque,73,Hilario d-en gogorr-arekin!,Hilario is so strong!,With Hilario’s toughness!,36.23
+Basque,74,Kotxe berri bat erosi nahi dut.,I want to buy a new car.,I want to buy a new car.,100.0
+Basque,75,Leihoa apurtuta dago.,The window is broken.,The window is broken.,100.0
+Basque,76,minutu eta segunduro,every minute and second,every minute and every second,80.06
+Basque,77,Oihu(ka) egin dute.,"They screamed, yelled.",They shouted.,20.39
+Basque,78,JONEK esan du GAUR dela merkatu eguna.,JON said that TODAY is market day.,JON said that TODAY is market day.,100.0
+Basque,79,Zu ikustearren etorri dira.,They have come with the purpose of seeing you.,They came to see you.,17.69
+Basque,80,"Ceren basco-ac bai-tira abil, animos eta gentil eta hetan ϊςα-η bai-ta eta bai-ta sciencia guci-etan lettratu handi-rik mira-z nago, iaun-a, nola batere ez-ten assaya-tu bere lengoage proprio-aren fauore-tan heuscara-z cerbait obra egui-te-ra eta scribu-tan imei-te-ra;","Since the Basques are skillful, courageous and genteel, and among them there have been and there are great scholars in all sciences, I am surprised, my lord, how no one has tried, in favor if his own language, to do some work in Basque and to offer it in writing.","For since the Basques are capable, spirited and noble, and since among them there are—and there are—great learned men, well lettered in all the sciences, I marvel, sir, that they have not at all tried, in favor of their own proper language, to make some work in Basque and to set it down in writing;",51.76
+Basque,81,Nik Pello eta Mikeli deitu diet.,I have called Pello and Mikel.,I called Pello and Mikel.,81.22
+Basque,82,Lekuederrak daude Bizkaian.,There are beautiful places in Bizkaia.,There are beautiful places in Biscay.,81.81
+Basque,83,Ohi bezala dena amaitzeko dagoenean heldu zarete!,"As usual, you have arrived when everything is about to finish.","As usual, you’ve arrived when everything is still to be finished!",70.18
+Basque,84,Lankideek erretzeak buruhauste franko ematen dit.,My workmates' smoking gives me a lot of headaches.,My coworkers smoking gives me a lot of headaches.,76.01
+Basque,85,laguntzat dauzkate,they consider them friends,They consider them (as) help.,60.96
+Basque,86,Nork erosi nahi du kotxe hori?,Who wants to buy that car?,Who wants to buy that car?,100.0
+Basque,87,Nork ekarri dio nori etxera zer?,Who brought what to whom home?,Who brought what home to whom?,73.51
+Basque,88,"Zer uste duzu, ergelak garela ala?","What do you think, that we are stupid or what?","What do you think, that we’re idiots or what?",69.97
+Basque,89,Elkarren kitzikatzen hari ziren.,They were teasing each other.,They were teasing each other.,100.0
+Basque,90,Ikastolaren aitzinean ikusi zintudan.,I saw you in front of the Basque school.,I saw you in front of the ikastola.,61.12
+Basque,91,Zu eta biok elkarrekin joango gara.,You and I will go together.,You and I will go together.,100.0
+Basque,92,Nolatan ahal dateke hori horrela?,How can be this so?,How can that be so?,40.43
+Basque,93,Garazi irakaslerik onen-a da.,Garazi is the best teacher.,Garazi is the best teacher.,100.0
+Basque,94,Zure bila joan dira mendira.,They went to the mountain to look for you.,They went to the mountains to look for you.,91.17
+Basque,95,A zan nik euki neban atsegina!,That was the pleasure I had! What a pleasure I had!,"Oh, what a pleasure I had!",42.8
+Basque,96,Konpainia ez zagoken buruzagirik gäbe.,The company couldn't stay without a leader.,The company was not without a leader.,62.5
+Basque,97,Mikel diru eske etorri zait.,Mikel came up to me asking for money.,Mikel came to me asking for money.,84.41
+Basque,98,"Zenbat eta gehiago ikasten dut hortaz, orduan eta interesatuagoa nago.","‘The more I learn about that, the more interested I am.’","The more I learn about it, the more interested I am.",84.12
+Basque,99,Elkarren lehian dabiltza.,They are in competition with each other.,They are competing with each other.,67.07

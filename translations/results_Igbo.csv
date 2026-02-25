@@ -1,0 +1,101 @@
+Lang,Index,Source,Reference,LLM_Translation,ChrF
+Igbo,0,O gà-àzụ̀rụ̀ ya,He is going to buy it for himself.,He will buy it for himself.,59.81
+Igbo,1,m/mū nà unù,I and you(pl.),I and you (pl.),100.0
+Igbo,2,mÙkpu` àla,landscraper,the whole land,18.0
+Igbo,3,Achòrò m ìtùpòsì akwa à,I want to put spots on this cloth.,I want to put spots on this cloth.,100.0
+Igbo,4,lìdebe nnī,stop eating,Eat food.,7.15
+Igbo,5,Ō gàala ngwa ǹgwa,He has been there (and back) quickly.,He has gone quickly.,31.57
+Igbo,6,a sìrì,An unidentified person has said…,we said,8.11
+Igbo,7,M̄mū kwa nū,What of me!,I myself,5.81
+Igbo,8,Ejèrè hà,They went,They went.,96.17
+Igbo,9,îfùk ífûk,He counted.,He counted.,100.0
+Igbo,10,NÙgi` nà nwunyè i wà/wè kà wa chò`,"They want you and your wives, in particular/especially",You and the woman you are with are the ones we want.,19.27
+Igbo,11,O mààrà ihe,He is well informed.,He knew something.,14.08
+Igbo,12,O bù ihe nà e mè ème,This is something worth doing.,It is something that is done.,43.69
+Igbo,13,O bìela ebè a.,He had (once) lived here.,He has come here.,25.3
+Igbo,14,Àdâ mà mma,Ada is beautiful.,Ada was beautiful.,73.21
+Igbo,15,isī n’EBE,to come from a PLACE,to be at a place,6.66
+Igbo,16,I kwèsì`rì` i`laÛ ùgbu à,You ought to go by now.,You ought to have gone by now.,67.1
+Igbo,17,Ò nwèrè onye sī ebe ahù bi a?,Did anybody come from there?,Is there anyone who lives there?,22.9
+Igbo,18,Wèta nÙke dī` mmaÛ,Bring that which is good.,Bring that which is good.,100.0
+Igbo,19,O` gà-àla echī,He will go tomorrow.,He will go tomorrow.,100.0
+Igbo,20,Nwatà zàrà ulo à,A child swept this house.,The child swept this house.,92.53
+Igbo,21,O kpòsàrà yà èkpòsa,He really threw it over.,He really threw it upon him.,70.4
+Igbo,22,Igwè bù ike,Unity is strength,Strength is power.,37.59
+Igbo,23,m/mū nà gī,I and you,I and you.,95.15
+Igbo,24,Kèdu ya /ha ?,How about him/them?,How is he/she/it / they?,19.78
+Igbo,25,Chike jèrè ahīa.,Chike went to the market!,Chike went to the market.,94.55
+Igbo,26,Èbee kà o gàrà?,Where did he go to?,Where did he go?,80.44
+Igbo,27,Wèrue anya gị àlà,Watch out carefully.,Look down.,2.06
+Igbo,28,"Ngo`zi, ò ri`bèlà igwè, o zu`Ûru`","As for Ngo`zi, she has not bought any bicycle.","Ngozi, if she had eaten the bicycle, it would have been enough.",31.19
+Igbo,29,Ì màkwààrà ihe i nà-ème o nwe gī ?,Do you realize what you are doing to yourself?,Do you realize what you are doing to yourself?,100.0
+Igbo,30,"E zugbuole mmàdù, n’ohī, n’ebe à","People have tormented others, by stealing their things, here.","Someone has really killed a person, in the bush, in this place.",20.39
+Igbo,31,"O kwèsì`rì` nà o` làrà, ùgbu à","It is expected that he leaves, now.",He ought to have left by now.,17.22
+Igbo,32,wèdàrù anya àlà,Watch out very carefully.,He looked down at the ground.,9.74
+Igbo,33,O` gà nrī nri ahù,He must eat that food.,He will eat that food.,63.64
+Igbo,34,Kèdu ole je re ù nyàahù ?,How many were there who went Yesterday?,How many people went yesterday?,44.52
+Igbo,35,… àba mÛ na àcho` aÛ …,… and then I was looking for it …,… and then I was looking for it …,100.0
+Igbo,36,Kemgbe ūtūtù kà ō bīàrà,He came since morning.,It’s been a long time since he came.,40.41
+Igbo,37,O rìrì nrī,He ate food.,He ate food.,100.0
+Igbo,38,ike kwe,perhaps,Probably; presumably.,8.68
+Igbo,39,Ō zūga ahīa ùgbu à,He is right now buying and selling.,He is right now selling and buying.,76.8
+Igbo,40,Àda nà Uzo jèrè ahīa.,Ada and Uzo went to market.,Ada and Uzo went to the market.,83.74
+Igbo,41,Ì nà-àbì a kà ò bu ì naghī àbi a?,Are you coming or are you not coming?,Which one are you saying: are you coming or are you not coming?,83.56
+Igbo,42,O gà-ème ya.,He will do it.,He will do it.,100.0
+Igbo,43,Ò jèrè ahīa?,Did he go market?,Did he go to the market?,69.56
+Igbo,44,īkwu n’ EBE,to stand at a PLACE,to speak in a place,11.44
+Igbo,45,Ò jighì motò bu ya,He did not use a car to carry it.,He used a car to carry it.,61.02
+Igbo,46,ulo agu,the leopard’s den,Agu’s house,7.23
+Igbo,47,O jì uchè kpata ego ya,He amassed his wealth with sense (cleverly).,He used his intelligence to earn his money.,20.43
+Igbo,48,ajo`Û ihe,bad thing,bad thing,100.0
+Igbo,49,"O mèrè ya, òtùmàsìghì, nà ò jighī ahū",He did it in spite of the fact that he was not well.,"He did it, no matter what, even though he was not well.",46.27
+Igbo,50,"O tòsìrì nà o` làrà, ùgbu à","It is expected that he leaves, now.",He ought to have left by now.,17.22
+Igbo,51,O gbùrù ewu,He killed a goat.,He killed a goat.,100.0
+Igbo,52,Òtu Sùbakwanù Ìgbò,Society for Promoting Igbo Language and Culture (SPILC),One Igbo Subakwanù,7.32
+Igbo,53,Nwatā à àmaala mma.,This child has become beautiful.,This child has become beautiful.,100.0
+Igbo,54,u`nò` ewuÛ,house of goat,goat’s house,43.19
+Igbo,55,Azù niīle bù azù,All fish are fish.,All fish are fish.,100.0
+Igbo,56,Àdâ nwè ego,Ada has money.,Ada has money.,100.0
+Igbo,57,gī nà ya,you and they,You and him/her.,31.73
+Igbo,58,A nà-èji ūchu àga n’ihu,People use hard work to progress.,People keep moving forward with determination.,25.41
+Igbo,59,Chumo onye me re ihe a?,I wonder who did this?,I wonder who did this?,100.0
+Igbo,60,"Kà o sìrì kwù, kà o sìrì me.","The way he said, it is the way it happened","As he said it, so he did it.",19.83
+Igbo,61,ihīri isi,to lay the head against,laying one’s head down (resting one’s head),21.25
+Igbo,62,akwaÛ èdò,yellow cloth,yellow cloth,100.0
+Igbo,63,Ò bù gī niì dì ife à.,Is this the same old you?,It is you who is this thing.,31.97
+Igbo,64,Òkeèke jèrè Kanò,Okeke went to Kano.,Okeke went to Kano.,100.0
+Igbo,65,Òlee ebe o nò ?,Where is she?,Where is he/she?,63.46
+Igbo,66,O tòsìrì nà o laàla ùgbu à,"It is expected that he has left, by now.",He ought to have left by now.,22.45
+Igbo,67,O gà-adàpu ìte à,It will cause this pot to leak.,He will cover this pot.,34.58
+Igbo,68,"Ì chò rò egwu, kà ò bù m gba, kà ò bù ò gù ?",Do you want play or a wrestle or a fight?,"Do you want play, wrestling, or a fight?",68.26
+Igbo,69,O ka àbi̠a ǹnyàa,He should have come yesterday.,He came yesterday.,48.07
+Igbo,70,O` gà nrī ya,He will certainly eat it.,He will eat it.,40.26
+Igbo,71,"Ànọ nà ìse, hà pùtàrà òle?",How many do four and five add up to?,"Four and five, how much do they make?",37.58
+Igbo,72,Ūzò ghèrè ònu,The door is open.,The door was left open.,54.35
+Igbo,73,Nwaànyì ahù lùrù nwoke naàbò.,That woman married two men.,That woman married two men.,100.0
+Igbo,74,Ò di`bèghì` mmaÛ,It is not yet good.,It is not good.,63.25
+Igbo,75,Agà mÙ nri nrī,I will certainly eat the food.,I will eat food.,28.17
+Igbo,76,"Ò tutu tu u m u okorob i à enwe ghi nwaànyì ùgbu à, n’ihi ego",Many young men have no wives now because of money.,It is because of money that young men don’t have women nowadays.,51.8
+Igbo,77,Ihe gī ama si ghi Ada; ò bù kwà ya?,Ada does not love you; is it correct?,Ada does not love you; is it so?,74.63
+Igbo,78,Ndi à kò kù ǹkè m,These are also mine.,These are not mine.,54.83
+Igbo,79,(N ke à bù ) ònye?,Who (is this)?,(And this is) who?,29.63
+Igbo,80,O gòrò nrī,He bought food.,He ate food.,28.41
+Igbo,81,izu n’ohia,to take without permission,a week in the bush,9.47
+Igbo,82,Àtô̄ dì̄ mma,Three are good.,Three is good.,44.17
+Igbo,83,Ó mo` Èkó.,He knows Lagos.,He knows Eko.,45.54
+Igbo,84,efere ntà,"a small-sized type of plate/dish (e.g., a salad plate or saucer)",small plate,11.41
+Igbo,85,ọ bụlà,whatever it is,even if,11.48
+Igbo,86,Wà à(ni`)kwadosigea?,Are they now fully prepared?,Are they fully prepared?,75.72
+Igbo,87,uri/akwu`kwo` mmu`o`,different indigenous writing systems,Spirit writing / spirit book.,19.52
+Igbo,88,Adâ nò̄ n’ù̄lò̄,Ada is at home.,Ada is at home.,100.0
+Igbo,89,"Nù̄lū onu anyī̄ o Chuukwù nù̄ù̄lū onu anyī̄ o Nù̄lū onu ànyī o Chukwù nù̄lū onu anyī̄ o, Ò̄ nwerō mʌ̀gbè ike mmàdù̄ gà-àkalī ike Chukwu Ō nwèrò̄ mgbe ike mmàdū gà-àkalī ike Chukwu Nnà nù̄lū o, onye kèle ūwà nù̄lū onu anyī̄ o Nnà nù̄lū o, onye kèle ù̄wà nù̄lū onu anyī̄ o","Hear our voices o God, hear our voices (twice) Man’s strength can never be greater than that of God (twice) Father, hear, us. The Creator of the world hear our voices (twice).","Let us praise the name of God; let us praise the name of God—there is never a time when human strength can surpass God’s strength. Father, let us praise him, the one who created the world.",29.42
+Igbo,90,Oso ndù nà-àgwu ike.,The race for life is tiring.,The race for life is tiring.,100.0
+Igbo,91,O jì ihe à na-èhiri isī,He uses this for laying his head on.,He is using it for laying his head on.,67.41
+Igbo,92,O gà-azà u̠lo à,He will sweep this house.,He is going to sweep this house.,66.89
+Igbo,93,m/mū nà ha,I and they,I am they,31.85
+Igbo,94,gī nà ha,you and she/he,You and they,30.64
+Igbo,95,Nnukwu mmiri gà-ezò n’àbàlị.,"Heavy rain will fall, at night.",Heavy rain will fall at night.,85.22
+Igbo,96,wâ sì/kwù,An unidentified person has said (Anioma dialect)…,They said/spoke.,7.26
+Igbo,97,ūnoꜜ īse,the fifth house,five houses,28.41
+Igbo,98,"Àda nà Uzo, hà jèrè ahīa?",Did Ada and Uzo go to market?,Did Ada and Uzo go to the market?,84.55
+Igbo,99,O jì azà u̠yo à,He usually sweeps this house.,He used a broom to sweep this house.,49.45
