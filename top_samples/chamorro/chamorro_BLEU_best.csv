@@ -1,0 +1,6 @@
+,Lang,Source,Reference,LLM_Translation,BLEU
+1,Chamorro,i Chamorro na nasion,the Chamorro nation,the Chamorro nation,100.00000000000004
+31,Chamorro,Yan-ñiha kumassi i famalåo’an si Juan.,The women like teasing Juan.,The women like teasing Juan.,100.00000000000004
+26,Chamorro,Ha tutuhun humomhum gi sanhiyung.,It began to get dark outside.,It began to get dark outside.,100.00000000000004
+17,Chamorro,Pumåra hu sienti i taotåo siha gi uriyå-hu.,I stopped feeling the people around me.,I stopped feeling the people around me.,100.00000000000004
+72,Chamorro,Ginin håyi nai un risibi i katta?,From whom did you receive the letter?,From whom did you receive the letter?,100.00000000000004

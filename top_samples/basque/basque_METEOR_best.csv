@@ -1,0 +1,6 @@
+,Lang,Source,Reference,LLM_Translation,METEOR
+94,Basque,Zure bila joan dira mendira.,They went to the mountain to look for you.,They went to the mountains to look for you.,99.95
+56,Basque,Zerekin ikusi dituzu zure lagunak lasai?,What did you see your friends relaxed with?,What did you see your friends relaxed with?,99.93141289437585
+78,Basque,JONEK esan du GAUR dela merkatu eguna.,JON said that TODAY is market day.,JON said that TODAY is market day.,99.90234375
+74,Basque,Kotxe berri bat erosi nahi dut.,I want to buy a new car.,I want to buy a new car.,99.90234375
+55,Basque,Hango dirua galdu dut.,I lost the money from there.,I lost the money from there.,99.85422740524781

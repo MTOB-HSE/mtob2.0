@@ -1,0 +1,6 @@
+,Lang,Source,Reference,LLM_Translation,BLEU
+40,Georgian,sa + it-k'ena-c,whither,and he/she/it used it too,0.0
+81,Georgian,gmert-i g-c'am-s,‘you believe in God’,God trusts you.,0.0
+38,Georgian,sa + na + m(de),"while, until, before",until,1.8315638888734187
+32,Georgian,"i+ma-s ver v-(Ø-)i-t'q'v-i, rom šuxart-i srul+i+ad ga-rk'v-e-ul-i-q'-o-s xan-is p'repiks-eb-ad xmar+eb-is sa+k'itx-Si",I shan't be able to say that Schuchardt gained a complete understanding of the question of the use as prefixes of xan (or hae),I couldn’t tell him that Shukharti had been completely clarified in the matter of using the prefix *xan-*.,2.140302754465299
+19,Georgian,k'rit'ik'-is u+k+on+1+oba čven-i lit'erat'ur-is u+šina+a+r+s+oba-s ar u+nd+a da-(Ø-)bral-d-e-s,the lack of criticism must not be blamed on the lack of content in our literature,The critic’s ignorance should not blame our literature’s timidity.,2.7385973411104616

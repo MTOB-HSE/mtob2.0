@@ -1,0 +1,6 @@
+,Lang,Source,Reference,LLM_Translation,BLEU
+61,Basque,punturik gehienak auzi bihur-tu-a-k ditugu,we have made [of] most topics controversial issues ('we have them turned into issues'),We have turned most points into a dispute.,2.480447707504303
+65,Basque,Gothortzearekin batak bertzeari traba eginen dio.,"As they develop, they will hinder each other.","With the crowding, one will get in the other’s way.",4.456882760699064
+50,Basque,Ez du jende gutxik ezer egin.,Few people didn't do anything (intended).,Not few people did nothing.,5.854497694024015
+36,Basque,Amak es totzü esan ori etxeko.,Mother has not told you to do that.,Mother didn’t tell that to the people at home.,5.934202609760488
+59,Basque,Iazko kontabilitatea ikertu dute?,Last year's accounts from where did they examine?,Did they investigate last year’s accounts?,6.495032985064742

@@ -1,0 +1,6 @@
+,Lang,Source,Reference,LLM_Translation,BLEU
+65,Korean,I pang un chwum chwuki cdh.ta,This room is good for dancing.,This room is good for dancing.,100.00000000000004
+73,Korean,chayk han kw€n,one book,one book,100.00000000000004
+38,Korean,path ey,in the field,in the field,100.00000000000004
+83,Korean,Yenge ya miil lo seykyey ey se kacang elyewun mal ita,English is really the most difficult language in the world.,English is the most difficult language in the world.,75.16501147964685
+20,Korean,hasikeyss.umyen hasipsio,"If you'd like to do it, please do so.","If you’re going to do it, please do so.",69.89307622784945
