@@ -1,0 +1,6 @@
+Language,Train_Examples,Train_Tokens,Test_Examples,Test_Tokens,Total_Tokens
+Igbo,849,7359,177,1982,9341
+Basque,2186,29049,695,9681,38730
+Georgian,833,15959,201,4913,20872
+Korean,394,5184,108,1472,6656
+Chamorro,1768,28293,537,9149,37442
