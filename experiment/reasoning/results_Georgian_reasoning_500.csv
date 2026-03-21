@@ -1,0 +1,279 @@
+Lang,Index,Source,Reference,LLM_Translation,Reasoning_Summary,ChrF
+Georgian,1,deda-s ra da-u-rč-a,what did mother have left?,What did the mother have left?,detailed,78.72
+Georgian,2,k'ac-ma še-(Ø-Ø-)a-q'var-eb-in-a tav-i kal-s da še-(Ø-)i-rt-o,the man got the woman to love him and married her.,The man made the woman fall in love with him and married her.,"**Translating Georgian phrases**
+
+I need to translate a Georgian phrase. It seems to start with ""k'ac-ma man-ERG,"" which suggests ""the man"" as the doer. The verb ""še-a-q'var-eb-in-a"" might be causative, related to love. It looks like it translates to: ""The man made the woman fall in love with him."" Moving on, “šei-rt-o” might refer to “marry,” indicating actions like “and married her.” Overall, the translation might end up being: ""The man made the woman fall in love with him and married her.""",61.69
+Georgian,3,švid+i-ode gogo-s/švid+i-ode-s v-(0-)xed-av,I see about 7 girls/about 7,I see about seven girls.,"**Analyzing Georgian translation**
+
+I need to translate a Georgian phrase: ""švid+i-ode"" could mean ""seven each"" or ""seven at a time."" I'm curious if ""-ode"" is a distributive or numeral adverb. The dative case seems relevant, since ""gogo-s"" refers to a girl. The verb ""v-xed-av"" means ""I see."" So, could ""švid+i-ode gogo-s"" imply ""I see seven girls""? But since ""gogo-s"" is singular, it might mean something like ""I see the girl seven times."" The structure is complex!
+**Translating Georgian phrase**
+
+I figure ""švidiode"" means ""about seven,"" which makes me wonder if ""gogo-s"" is singular or plural. It's dative singular for sure, but could it also be plural? Normally, the plural for ""girl"" is ""gogo-eb."" So, if I take this into account, the phrase might mean ""I see about seven girls."" It could also be interpreted in another way. However, the guidelines say I should just output the translation without reasoning.",45.88
+Georgian,5,sa+xalx+o me+urn+e+ob-is sc'rap zrd+a-s tan (?0-}s-d-ev-s m+šr+om+el-ta mat'erial+ur-i m+dg+om+are+ob-is ga+u+m+job+es+eb+a,the rapid growth in people's farming is accompanied by an improvement in the material circumstance of the workers,The rapid growth of the national economy is accompanied by an improvement in the workers’ material conditions.,detailed,63.53
+Georgian,6,xipat-s (gada-)(Ø-Ø-)rč-eb-i,you (will) survive the danger,You survive the danger.,detailed,64.67
+Georgian,7,šen me pul-i mo-(0-0-)m-e-c-i,‘you gave (the) money to me’,You gave me the money.,detailed,36.46
+Georgian,8,erek'le cxen-ze šven-od-a,Erek'le looked resplendent on the horse,Erekle looked splendid on horseback.,detailed,42.8
+Georgian,9,šv+il-ma mama-s da+u+zar+eb+1-ad mo-u-rb-en-in-a muguzal-i,the child rushed the firebrand hither to (his) father without hesitation,The child sent a messenger running to his father to call him.,detailed,25.48
+Georgian,10,v-(?Ø-)i-sa+rg+eb+l-eb a+m še+mtxv+ev-it,I shall take advantage of this occasion,I make use of it in this case.,detailed,18.7
+Georgian,11,pot-sa da odesa-s šoris gem-eb-i da-di-an,boats (regularly) journey between Poti and Odessa,Ships travel between Poti and Odessa.,detailed,48.04
+Georgian,12,si-garib-e-s mi-g-a-<5v-ev,I shall make you accustomed to poverty,You will get used to poverty.,detailed,36.29
+Georgian,13,m+sur+v+el-eb-ši moxuc-n-i-c k'i mravl+ad ga-mo-čn-d-a,among those shewing willing there appeared even old folk,"Among the applicants, there were many old men too.",detailed,27.01
+Georgian,14,gana ra ča-v-(Ø-)i-d-in-e i+s+e+t-i?,What on earth did I do of such a kind?!,Did I really do something like that?,"**Exploring language nuances**
+
+I'm considering the phrase ""What have I gotten myself into?"" and wondering how it relates to a similar idiomatic expression. ""Gana ra..."" could imply ""Why on earth did I...?"" but I'm not entirely sure. It seems ""chaviden"" might indicate something like 'to put in' or 'to insert,' which can relate to my earlier thoughts. I'm also questioning the reflexive forms and how they might change the meaning. There’s a lot of complexity in these verb forms!
+**Clarifying expression meanings**
+
+I'm breaking down the phrase ""ča-v-(Ø-)i-d-in-e"" to understand its components. It might involve a preverb and means something like ""I made (someone) put it in."" Without context, it feels rhetorical, almost asking, ""Did I really insert something like that?"" I think a better translation might be: ""Why did I do such a thing?"" though it includes 'what' instead of 'why.' Georgian ""gana ra"" might suggest ""what did I do?"" Overall, I’m leaning towards: ""Did I really do something like that?""",16.34
+Georgian,15,cot'a gvino (Ø-)gv-a-m+q'+op-in-a junc'-ma,the selfish one judged a little wine to be enough for us,Junts gave us a little wine.,detailed,25.86
+Georgian,16,kal-s lamaz-i surat-i (Ø-)u-k'id-i-a k'edel-ze,‘the woman has a pretty picture hanging on the wall’,The woman has hung a beautiful picture on the wall.,detailed,48.96
+Georgian,17,kal-s gul-i c'a-u-vid-a,the woman fainted,The woman fainted.,detailed,90.38
+Georgian,18,s-t'ir-i-an k'onpederaci-is da+šl+a-s,they mourn/weep over the break-up of the confederation,They are mourning the breakup of the Confederation.,detailed,52.49
+Georgian,19,k'rit'ik'-is u+k+on+1+oba čven-i lit'erat'ur-is u+šina+a+r+s+oba-s ar u+nd+a da-(Ø-)bral-d-e-s,the lack of criticism must not be blamed on the lack of content in our literature,The critic’s ignorance should not be blamed on the fearlessness of our literature.,detailed,48.34
+Georgian,20,ert+xel ber-eb-ma rust(a)vel-is c'ign-is c'a+rtm+ev+a mo-(0-)m-i'-nd+om-es,the monks once conceived a desire to snatch away from me Rust(a)veli's book,Once the monks wanted to confiscate Rustaveli’s book from me.,"**Translating Georgian roots**
+
+I need to translate a few Georgian phrases. For ""ertxel,"" maybe it's about a singular noun, and ""berebma"" refers to monks. ""Rustavelis cignis"" appears to be about a book by Rustaveli. Then there's ""cartmeva,"" which I’m interpreting as reading or translation, possibly linked to ""borrowing."" The root ""targmna"" suggests translation. I'm exploring other verbs like ""c'armt'neva,"" and discovering that ""c'arTmeva"" might relate to confiscation, fitting with ""seizing."" The verb ""mo-m-i'-nd-om-es"" seems to indicate wanting something for me.
+**Translating Georgian verbs**
+
+I’m analyzing the translation of a sentence that conveys a peasant's desire to learn writing and reading. The verb ""mo-i-ndoma"" means ""desired."" So when I see ""mo-m-i-ndomes,"" it might translate to ""they desired me,"" but the m- could indicate an indirect object. This gives me the sense that “they wanted for me” or “I wanted.” The verbs seem to change depending on singular and plural forms, and it’s a bit tricky with the dative structure. I’m exploring these nuances further!
+**Parsing Georgian verbs**
+
+I’m trying to break down the meaning of ""mo-m-i-ndomes."" The ""mo-"" seems like a preverb, and ""m-"" likely indicates a first-person object. The root ""ndom"" is about wanting, while ""-es"" suggests it’s in the aorist tense, meaning a past action from a plural subject. This might translate to ""they wanted for me."" I’m wondering if ""minda"" relates to dative construction, which confuses me about the direct object versus the indirect object. The complexities are really intriguing!
+**Interpreting verb constructions**
+
+I’m analyzing the grammatical structure to figure out the meaning of a sentence involving monks and Rustaveli's book. I realize ""berebma"" is ergative, not nominative; that’s important! I'm considering if this means the monks wanted to confiscate the book from me. ""Momindomes"" could imply they wanted it for me or asked me to do it. However, I'm puzzled about how the verb structure indicates the subject and object. The complexities of ergative versus nominative are really making me think!",34.76
+Georgian,21,delegat'-eb-i si+am+ovn+eb-it (Ø-)p'asux-ob-en q'ovel+gvar t'q'u+il-sa da mo+čven+eb+it še+k'itx+v-eb-s,the delegates provide answers with pleasure to every kind of lie and specious question,The delegates gladly answer all kinds of lies and questions with demonstrations.,"**Rephrasing responses**
+
+I'm thinking about how to present the delegates’ actions in a clear way. I want to say something like, ""The delegates gladly answer all kinds of lies and questions with demonstrations."" It's concise but captures the essence of their responsiveness. I’m aiming for a one-liner that reflects their willingness to engage with various inquiries. Simplifying the wording is key, so this phrasing feels effective and to the point!",39.91
+Georgian,22,sa-c'er-i mankana,typewriter (lit. machine for writing),typewriter,detailed,28.69
+Georgian,23,"mo-xar-ul-i v-a+r, rom še-mo-(Ø-?Ø-)i-a+r-e čem-tan",I am delighted that you have popped in at my place.,I’m glad that you came to see me.,detailed,23.23
+Georgian,24,čem-ma megobar-ma ert+man+et-s rom ga-gv-(Ø-)a-cn-o,when my friend introduced us to each other..,My friend introduced us to each other.,"**Translating Georgian sentences**
+
+I need to translate the Georgian sentence: ""čem-ma megobar-ma ertmanets rom gagv-a-cn-o."" Breaking it down, I see ""čem-ma"" means ""my friend"" and ""megobar-ma"" is also ""friend."" The term ""ertmanets"" means ""each other"" in dative form. ""Rom"" translates to ""that,"" while ""ga-gv-a-cn-o"" seems related to ""to introduce us,"" since ""a-cn"" appears to denote make known. The overall meaning might be ""my friend that introduced us to each other."" There's some confusion around the ergative subject and dative object, but that’s part of learning!
+**Understanding the sentence structure**
+
+I think the core meaning of the sentence is ""My friend introduced us to each other."" But I'm wondering why both ""ertmanets"" and ""gv"" are used. ""Ertmanets"" refers to ""each other,"" while ""gv"" indicates the 1st person plural object (us). I think ""rom"" might function as a complementizer or even in a causative context, like saying, “My friend said that he introduced us.” But since the sentence only has one clause, maybe it's more like ""My friend introduced us to each other."" I need to dig deeper into that!
+**Analyzing the subjunctive usage**
+
+In Georgian, ""rom"" typically introduces complement clauses, but here the only verb I see is ""gagvacno"" with the subjunctive ""-o."" This might mean the main verb is missing, giving it an ellipsis-like quality. I wonder if it implies ""My friend wanted us to get to know each other,"" even though the verb ""wanted"" isn't present. The ""-o"" suggests a subjunctive mood, possibly meaning ""let him introduce us"" or ""may he introduce us."" Therefore, it seems reasonable to interpret this as ""My friend told us to get acquainted with each other.""
+**Clarifying the meaning and structure**
+
+I’m realizing that ""gagvacno"" could be in the subjunctive mood, suggesting that ""rom gagvacno"" might relate to an omitted verb like ""asked."" However, if we look at the whole phrase ""čem-ma megobar-ma ... rom gagvacno,"" it can mean ""My friend introduced us to each other."" Here, ""rom"" might function as a resumptive or quotative element. In colloquial Georgian, ""rom"" can also act like a particle for emphasis. Still, the simplest translation appears to be ""My friend introduced us to each other.""",85.04
+Georgian,25,kmar-ma pul-i mo-(Ø-)m-c-a,‘(my) husband gave me (the) money’,The husband gave me the money.,detailed,53.55
+Georgian,26,dia+saxl+is-ma katam-i da-k'l-a da gv-a-č'am-a,the housewife killed the chicken (sc. by slitting its throat) and fed it to us,The master of the house killed the chicken and fed it to us.,"**Translating contextually**
+
+I'm figuring out some translation nuances. If we have “gv-”, it could mean ""fed us,"" which makes sense in the context: he killed the chicken and fed it to us. The direct object ""it"" might be omitted due to context. So my translation could be: ""The head of the household killed the chicken and fed it to us."" I’m thinking of using ""housemaster"" as a creative term for ""the house's (man)."" Let's finalize that!",53.14
+Georgian,28,"še k'arg-o k'ac-o, šena","you good man, you","Hey, you good man!",detailed,69.77
+Georgian,30,"(Ø-Ø-)i-c-i m+cn+eba-n-i: ar (Ø-)i-mušr-o, k'ac-i ar mo-(Ø-Ø-)k'l-a, ar mo-(Ø-Ø-)i-p'ar-o, ar (Ø-)i-q'-o cru-mo+c'm+e, nu mo-(Ø-Ø-)a-t'q'u-eb, p'at'iv-i (Ø-Ø-Ø-)e-c-i šen-s mama-s da deda-s.","You know the commandments: do not commit adultery, do not kIII, do not steal, do not bear false witness, do not lie, honour your father and mother.»","You know the commandments: Do not commit adultery, do not murder, do not steal, do not bear false witness, do not defraud, honor your father and mother.",detailed,83.17
+Georgian,31,m+š+ob+el-s (Ø-)u-q'var-s šv+il-i / šv+il-eb-i,The parent loves the child/children,The parent loves the child/children.,detailed,99.3
+Georgian,32,"i+ma-s ver v-(Ø-)i-t'q'v-i, rom šuxart-i srul+i+ad ga-rk'v-e-ul-i-q'-o-s xan-is p'repiks-eb-ad xmar+eb-is sa+k'itx-Si",I shan't be able to say that Schuchardt gained a complete understanding of the question of the use as prefixes of xan (or hae),I could not tell him that Schuchardt had fully clarified the question of the use of the “xan-” prefixes.,"**Translating Georgian Linguistics**
+
+I need to translate a Georgian sentence, likely from a linguistics text. Parsing it, I see ""i+ma-s"" could mean ""that-ERG,"" but actually, it seems to be ""im-as"" (that-DAT/ACC). ""ver"" means ""cannot/not,"" and ""v-it'q'v-i"" could be ""I said"" (aorist 1sg). ""rom"" translates to ""that,"" and ""šuxart-i"" might refer to the linguist Hugo Schuchardt. The phrase ""ga-rk'v-e-ul-i-q'-o-s"" suggests it's been clarified, and ""xan-is p'repiks-eb-ad"" pertains to ""khan's prefixes"" in Georgian linguistics.",42.16
+Georgian,33,"an+da, o+d+it+gan k'omp'as-s ra-d (Ø-)a-kv-s isar-i or-i?",Or why does a compass have two arrows to begin with?,"So then, why does a compass have two arrows?",detailed,69.38
+Georgian,35,"tu e+s varaud-i mart+eb+ul-i ag-mo-čn-d-eb-od-a, u+nd+a ga-rk'v-e-ul-i-q'+o","If this supposition had proved correct, it would have had to have been explained...","If this assumption turned out to be correct, it would have to be clarified.",detailed,41.29
+Georgian,36,m+gza+v+r-eb-ma pex-s/nabij-s a-(?Ø-Ø-)u-čkar-es,the travellers quickened their pace/step.,The travellers quickened their pace.,detailed,82.51
+Georgian,37,"tav-s (Ø-)i-kn-ev-s jagl-ik'a, uar-s (Ø-)a-cxad-eb-s","‘the little dog shakes its head, it indicates its refusal’",The little dog has a mind of its own; it refuses.,"**Translating Georgian Sentence**
+
+I need to translate a Georgian sentence that seems to be morphologically segmented. The interpretation might be, ""the dog will have a headache, refuses to heat up."" Parsing the elements: ""tav-s"" means ""head,"" and ""i-kn-ev-s"" might suggest it will have. Another example indicates ""it will be."" So perhaps ""tav-s i-kn-ev-s"" means ""it has a head."" The second clause involves refusal, indicating that ""he refuses"" could make sense. Overall, I'm concluding that it's saying, ""The little dog will have a headache; it declares refusal.""
+**Interpreting Georgian Proverb**
+
+I'm exploring a possible Georgian proverb: ""tavs iknevs jaglika, uars acxadebs,"" which might translate to ""The dog will get a head (mind); it will refuse."" The first verb ""i-kn-ev-s"" could suggest ""will be,"" given connections to ""iqneba,"" which means ""it will be."" It seems ""iqnevs"" refers to the present or future. Then, could ""i-kn-ev-s"" imply “keeps in mind”? There’s a lot of nuance in how these verbs are used; it’s intriguing!
+**Deciding on Translation**
+
+I need to focus on providing a clear translation based on what I've analyzed. I'm considering the phrase: ""The little dog will have its own way; it refuses."" Alternatively, I might also translate it as, ""The little dog has a mind of its own; it refuses."" I'm reflecting on whether ""iknevs"" conveys a present or future meaning, but it seems to fit well in these contexts either way. Let’s stick with one concise line!",33.06
+Georgian,38,sa + na + m(de),"while, until, before",until,detailed,21.65
+Georgian,40,sa + it-k'ena-c,whither,And where to?,detailed,20.92
+Georgian,41,mze u+pr+o da u+pr+o (?Ø-)a-cx+un-eb-d-a,the sun was getting hotter and hotter.,The sun was getting hotter and hotter.,detailed,96.6
+Georgian,42,"ert-i, abesa+je, ert-i, or-pr-ad áe-geb-il-i or-i bolo-ti, ga-sa-g-eb-i-a?","«One, Abesadze, one, with two ends coloured differently, understand?»","One thing, Abesadze, one: is it clear that it has two ends that open in both directions?",detailed,33.85
+Georgian,43,kart+v+el-eb-s p'at'iv-it mo-(Ø-Ø-Oe-p'q'ar-i-t da brj+ol-is dro-s gverd-it (Ø-Ø-)i-q'+ol+i-e-t,treat the GEORGI ANs with respect and in time of battle make sure to have them by your side,Treat the Georgians with respect and stand by their side in time of battle.,detailed,50.41
+Georgian,45,sardin-eb-i kila-ši (?Ø-)t'en-i-a,‘the sardines are crammed/stuffed in the tin’,The sardines weigh a kilo.,detailed,24.8
+Georgian,46,u+pr+o+s-ma vikt'or-s or-i me+brj+ol-i ga-to-Ø-)a-q'+ol-a mt'r-is banak'-i u+nd+a da-(Ø-)e-zver-a-t,the chief sent two warriors along with Victor ... they had to spy on the enemy-camp,The elder assigned Victor two fighters; they were to attack the enemy camp.,detailed,28.61
+Georgian,47,"še+čven+eb+ul-i v-i-q'v-e, tu v-t'q'u-od-e, tu ro+di+s+me bavšv-i h-q'+ol-od-e-s, da tu ro+di+s+me (Ø-)e-q'+ol-o-s ert-i","May I be cursed if it transpires that I am lying, if it transpires that she has ever had a child, and if it transpires that she ever does have one!","I would be surprised if I were to say that someday a child might be with him, and that someday he might have one.","**Translating and Clarifying**
+
+I'm working on translating ""šečvenebuli viq've"" and think it might mean ""I would be surprised."" Maybe it's really a conditional perfect? I want to put it into coherent English, but my attempts seem off. I'm considering the possibility that it's part of a larger sentence. 
+
+It could be phrased as, ""I would be surprised if I were to say that someday he would have a child."" I also need to remember that the developer wants only the result, while the user is looking for an explanation. That’s a bit of a conflict!",23.53
+Georgian,48,i+gi dambač-it xel-ši,he is standing in front of me with a pistol in his hand!,He has a whip in his hand.,detailed,22.24
+Georgian,49,ra+t'om ar ča-(Ø-?Ø-)e-c'er-eb-i p'olicia-i?,why won't you register at the police-station?,Why aren’t the police writing it down?,detailed,30.99
+Georgian,51,axal+ga+zrd-eb-i ert+man+et-s/ert+i+me+or+e-s (Ø-)u-q'ur-eb-en,the young people look at each other,The young people look at each other.,detailed,95.49
+Georgian,52,st'umar-ze zrun+v+a cicino-s da-(Ø-Ø-)a-val-a,X charged Tsitsino with caring for the guest,(He/She) assigned Cicino to take care of the guest.,"**Following instructions clearly**
+
+The developer's instruction is clear: I should only output the result. The user asked for a translation followed by an explanation, but I have to stick to what the developer has specified. So, I’ll make sure to provide just the translation in my output without any additional comments or reasoning. It's essential to comply with this direction to meet expectations!",27.98
+Georgian,53,"i+s mukta+xora m+gza+vr-ob-s xolme i+s+e, rom bilet-s ar (Ø-)q'id+ul-ob-s",That parasite usually travels without buying a ticket,"He usually travels for free, so that he doesn’t buy a ticket.",detailed,46.44
+Georgian,54,ert urem-s (?Ø-)g-e-vač'r-eb-i,I am bargaining with you over the price of one wagon,You will sell one wagon.,"**Explaining dative case in Georgian**
+
+I’m thinking about Georgian and its use of the dative case for direct objects in the present tense. For example, the sentences ""You will sell one cart"" or ""You will trade one cart"" work well to illustrate this. The phrase ""ert urem-s,"" which means ""one wagon"" in dative, fits perfectly here. So the translation would be ""You will sell one wagon."" Let’s go ahead and output that!",18.6
+Georgian,55,"sul ert-i-a Sen ra g-i-nd-a, i+gi tav-isa-s mainc (Ø-)i-zam-s","It's all the same what you want, X will still do his/her/its own thing",It’s all the same what you want; he’ll still do his own thing anyway.,detailed,66.92
+Georgian,57,čfern-it bevr-i u+si+amo+vn+eba gada-g-xd-a,because of me many unpleasant things have befallen you,You suffered a lot of unpleasantness because of the ink.,detailed,38.67
+Georgian,58,še+xvedr+a pre-d da-m+tav+r-d-a,The meeting ended in a draw,The meeting ended early.,detailed,66.02
+Georgian,59,"ai e + s k'ac-i-a, rom (Ø-)g-e-ubn-eb-od-i","look/lo, this is the man I was telling you about!",Here is the man that I was telling you about.,detailed,60.93
+Georgian,60,e+s beč'ed-i v-(Ø-)i-q'id-e at-as girvank-ad,"I bought this ring for 1,000 pounds",I bought this ring for a thousand girvanks.,detailed,59.26
+Georgian,61,ra bral-i mi-g-i-)gv-i-t kal-is si+k'vd+il-ši?,what fault lies with you(Pl) in the death of the woman?,What are you blaming us for in the woman’s death?,detailed,30.55
+Georgian,62,gverd-it m+q'+op-s ga-mo-(Ø-)e-lap'arak'-eb-a,you will start a conversation with someone at his side,He comes to beside me and starts talking.,detailed,19.05
+Georgian,64,prin+v+el-ta me+p+e (arc'iv-i),the king of birds (the eagle),The king of birds (the eagle).,detailed,94.44
+Georgian,65,elč-tan c'ar-m-a-dg-in-a. me čem-i mxr-iv iulius-i c'ar-v-(Ø-Ø-)u-dg-in-e k'lark'-k'er-s,"X prešented me to the ambassador. I, for my part, introduced Julius to Clark-Kerr","He introduced him to Elchi. As for me, I will introduce Julius to Clark Kerr.",detailed,37.83
+Georgian,66,c'ign-i da-v-(Ø-)c'er-e,‘I wrote the/a book’,I wrote the book.,detailed,56.81
+Georgian,67,kvevr-s sa+rk+v+el-s da-v-(0-0-)a-par-eb-t,‘we shall put a cover over the wine storage-jar’,We will cover the qvevri with its lid.,"**Translating morph strings**
+
+I need to translate a specific morph string. It looks like ""kvevr-s"" might refer to ""kvevri,"" a large clay wine jar, with the suffix indicating dative/accusative. The second part, ""sa+rk+v+el-s,"" could possibly be ""sarkvel,"" meaning ""cover."" It seems like ""da-v-par-av-t"" translates to ""we shall cover."" There’s a possibility of saying, ""We'll cover the qvevri with the lid,"" depending on the grammatical structures at play here.
+**Analyzing Georgian phrase structure**
+
+I think the phrase ""qvevris sarkvels"" likely translates to ""qvevri's lid,"" indicating possession with the genitive. However, with ""kvevr-s,"" there's no -is ending. Maybe ""kvevrs sarkvels"" means ""cover the qvevri lid""? ""Kvevr-s"" relates to a dative meaning, so it could mean ""to/for qvevri,"" while ""sarkvel-s"" acts as the lid in the accusative or dative case. I'm considering if the verb ""davapar"" (to cover) implies ""we will cover the qvevri with a lid,"" or if it's referring just to covering the lid itself.
+**Breaking down the verb usage**
+
+The Georgian verb ""parva"" means ""to cover,"" and it can take a direct object. It seems that ""sarkvels"" is the object being covered, and ""qvevri's lid"" could be what's covered over, like burying the lid. The phrase ""qvevris sarkvels davaparebt"" might mean ""we will cover the qvevri's lid,"" but it’s tricky without specifying the material. Alternatively, ""kvevrs sarkvels davaparebt"" could translate as ""we'll put a lid on the qvevri."" The way the verb agrees with the object seems to point towards covering the qvevri itself with the lid.
+**Translating and interpreting verbs**
+
+I'm looking at the objective version ""a-"" as it relates to indirect objects. This aligns with ""cover the lid for the qvevri."" It seems that if I'm using ""parva,"" meaning to cover something for someone, the a-version indicates the indirect object. So ""da-v-a-par-eb-t"" might translate to ""we will cover it (for it),"" with ""kvevrs"" as the indirect object for the qvevri and ""sarkvels"" as the direct object (the lid). The best translation appears to be, ""We will cover the qvevri with its lid.""",22.63
+Georgian,70,sa+kon+el-i še-dg-eb-od-a ert-i tx-isa-gan da or-i jrox-isa-gan,the livestock consisted of one goat and two cows,The livestock consisted of one goat and two cows.,detailed,96.81
+Georgian,71,q'ana mo-i-xn-a,the field was ploughed,The field was ploughed.,detailed,92.74
+Georgian,72,c'a-v-(Ø-)-i-g-eb me a+m leks-s da sul a+gar mo-[v-jval a+m c're-ši!,«I'll take this verse of mine and won't come back ever again into this group!»,"I’ll take this poem, and I’ll never come back to this circle again!","**Following formatting instructions**
+
+I see the user wants me to provide a translation as the first line and then reasoning afterwards. This creates a bit of conflict since there's a higher priority for the developer's instructions to follow. So I need to focus on just delivering the translation line first—no extras permitted. I’ll keep it clear and concise to align with the guidelines and meet the user’s expectations effectively!",39.1
+Georgian,73,mo+gza+ur-is-tvis (Ø-)a-kv-s m+nišvn+el+oba.,«As far as the traveller is concerned it does.»,It has significance for the traveler.,detailed,29.52
+Georgian,74,k'val-s mi-(?Ø-Ø-)a-gn-o,X located the track,May he find the trace.,detailed,40.67
+Georgian,76,"keto-s mama mo-(Ø-)u-k'vd-a, da da-rč-a ded+i+na+cv+1-is a+na+bar+a","Keto's father died, and she was left abandoned to/in the hands of (her) step-mother","Keto’s father died, and she was left in her stepmother’s care.",detailed,48.7
+Georgian,77,da + bomb + v + a da+bomb+v+a-s ga-(Ø-)a-čn-i-a,bombing depends on the bombing.,It has been bombed.,detailed,15.14
+Georgian,79,ver-c k'i š(Ø-)e-)l-o-t c'ar-mo-(Ø-)e-dg-in-a-t sadil=vaxšm-is č'+a,nor could they even imagine the eating of lunch and dinner.,You couldn’t even manage to serve tea for lunch/dinner.,detailed,32.0
+Georgian,80,"mo+sc'avl+e-eb-ma (Ø-)i-c-od-nen, rom a+m dge-s mi+g+eb+ul-i nišan-i si+mc'ip-is at'est'at'-ši ča-(Ø-)e-c'er-eb-od-a-t",the pupils knew that the mark received on this day would be recorded for them in the attestation of maturation,The pupils knew that the mark received today would be entered in the school-leaving certificate.,detailed,51.06
+Georgian,81,gmert-i g-c'am-s,‘you believe in God’,God trusts you.,detailed,12.91
+Georgian,82,"jer+jer+ob+it k'i, sa+na+m ji+eb+a (ar) da-m+tav+r-eb-ul-a, k'omisia tav-s (Ø-)i-k'av-eb-s p'ublik'aci-isa-gan","But for the time being, until the investigation is completed, the commission is holding back from publication","For the time being, until the investigation is completed, the commission will refrain from publication.",detailed,80.38
+Georgian,84,"ar i-q'+o še+mtxv+ev+it-i i+s+i-c, rom asp'irant'-eb-s (Ø-)e-k'itx-eb-od-a-t sa+gan+g+eb+o k'urs-i",Nor was it accidental that a special course used to be read to postgraduates,"It was no coincidence, either, that a special course was being taught to the graduate students.","**Translating Georgian sentence**
+
+I need to translate this Georgian sentence that's in a romanized form with morpheme breaks. 
+
+It seems ""ar i-q'+o"" means ""it was not,"" while ""še+mtxv+ev+it-i"" relates to ""by chance"" or ""coincidental."" Then there's ""i+s+i-c,"" which translates to ""that too,"" and ""rom"" serves as a complementizer meaning ""that."" 
+
+The part ""asp'irant'-eb-s"" refers to ""to the graduate students,"" and the phrase ""(Ø-)e-k'itx-eb-od-a-t"" suggests an action of reading or teaching to them. Lastly, ""sa+gan+g+eb+o k'urs-i"" probably means ""special course.""",47.25
+Georgian,85,romel-ma-c ga-gv-(Ø-)a-cn-o avt'or-eb-s,who introduced us to the authors,who also introduced us to the authors,detailed,91.97
+Georgian,86,ek'onomik'+ur-ma ga+sa+č'ir-ma sa+m+š+ob+l+o-ši da+brun+eb+ul-eb-s u+cx+o-d tav-i,the economic plight caused those who had returned to their homeland to feel foreign,The economic plight made those who had returned to their homeland feel like strangers.,detailed,70.75
+Georgian,87,c'ign-i magida-ze dev-s,‘the/a book is lying on the table’,The book is lying on the table.,detailed,76.02
+Georgian,88,nene-m š(Ø-Ø-)a-vedr-a gvt+a+eba-s tav+is-i p'ir+m+š+o,Nene besought the godhead for protection for her first-born,Nene begged God with her own lips.,detailed,16.52
+Georgian,90,"nu+tu ver (Ø-Ø-)xvd-eb-l-t, bat'on-o Salva, ra+t'om (Ø-)i-zid-av-s isar-s črdilo+et-i da sa+mxr+et-i?","«Can you really not understand, Sha Iva sir, why the north and south attract the arrow?","If you can’t understand it, Mr Shalva, why is the needle attracted by the north and the south?",detailed,45.83
+Georgian,91,"p'rezident'-s pex-eb-ze h-k'id-i-a, ra+m+den-i k'ac-i mo-k'vd-a",‘the president doesn't give a damn how many men died’,The president doesn’t give a damn how many men died.,detailed,84.93
+Georgian,93,p'ropesor-s (5ibux-i sul u+kr+ob+1-ad p'ir-ši s-čr-i-a,‘the professor has a pipe stuffed in his mouth without ever putting it out’,The professor always has a pipe in his mouth.,detailed,39.78
+Georgian,94,t'emp'erat'ura gam-it zog-jer nul-a-mde da-di-s,sometimes by night the temperature falls/sinks to zero,At night the temperature sometimes drops to zero.,detailed,62.85
+Georgian,95,kalak-ši mo-gv-i-xd-eb-a c'a+svl+a,we shall have to go to town,We will end up going to the city.,"**Rephrasing a translation**
+
+I’m thinking about translating the phrase ""We will happen to go to the city."" A more natural way to say that might be, ""We will end up going to the city."" It feels smoother and more conversational. It’s interesting to consider how subtle changes in phrasing can impact clarity and flow. Let's make sure it sounds just right!",13.86
+Georgian,96,e + s c'er+il-i vi-s ga-v-(Ø-Ø-)a-t'an-o?,to whom should I give this letter to take?,To whom shall we take this letter?,detailed,48.67
+Georgian,97,š m - r c x v - a da mašin-ve tav-i da-v-(Ø-)i-xar-e,‘I felt ashamed and straightaway lowered my head’,"I was ashamed, and right away I hid myself.",detailed,35.02
+Georgian,101,(Ø-)e-sm-i-s ma-t-i,X understands them.,They understand it.,detailed,56.0
+Georgian,102,ver ča-(Ø-)k'l-av-en kart+v+el-i xalx-is mi+sc'rap+eb+a-s tav+is+up+1+eb-isa-k'en,they will not be able to suppress the striving of the GEORGI AN people towards freedom,They cannot kill the Georgian people’s striving for freedom.,detailed,30.44
+Georgian,103,kart+v+el-eb-i xom mo-(Ø-)i-g-eb-en? ara m-gon-i-a,"‘the GEORGI ANs will win, won't they? I don't think so = I think not’","The Georgians will win, won’t they? I don’t think so.",detailed,47.62
+Georgian,104,si+t'q'v+a-n-i gul-ši m-e-bad-eb-i-an,Words/Speeches are born to me in the heart (= are born in my heart),Words are born in my heart.,detailed,37.12
+Georgian,106,mama-m šv+il-s xel-it s-cem-a,the father hit the child with his hand,The father hit the child with his hand.,detailed,95.8
+Georgian,109,"bage-s k'b+il-i da-a-čir-a, magram še-v-a-t'q'v-e, s-jl-i-a tav-s",‘X bit his lip but I noticed (?on him) that he got control of himself’,"He sank his teeth into Bage, but I held myself back; he can manage on his own.",detailed,18.57
+Georgian,111,mcxet-is č'or-eb-ma tav-i mo-(Ø-Ø-)a-bezr-a šorena-s,the rumours of (in) Mtskheta upset Shorena.,The Mtskheta ruffians annoyed Shorena.,detailed,37.54
+Georgian,112,"sa+na+m sa+q'var+el gada+c+em+a-s v-(?Ø-Ø-)u-q'ur-eb-d-i-t, vi+gaca-m k'ar-ze da-(Ø-)a-k'ak'un-a","While we were watching our favourite programme, someone knocked on the door","While we were watching the handing-over of the beloved, someone knocked on the door.",detailed,63.63
+Georgian,113,e + s jildo-eb-i mi-(Ø-)e-nič'-a-t ševardnaje-s kavtaraävil-sa-c da panjik'ije-s,"These prizes were awarded to Shevardnadze, Kavtarashvili too and Pandzhik'idze","You awarded these prizes to Shevardnadze, to Kavtarashvili as well, and to Panjikidze.",detailed,61.3
+Georgian,117,"rus+et-ši c'a+svl+a-s ar (Ø-)g-i-rč-ev-t, rom-c mo-xerx-d-e-s","I don't advise you to go to Russia, even if it could be arranged","We don’t advise you to go to Russia, even if you manage to.",detailed,61.86
+Georgian,119,"i+s jroxa met'-is-met'-ad bevr rje-s (?Ø-)i-)l-ev-a, rom da-v-(Ø-)k'l-a-t",That cow gives too much milk for us to slaughter her,"That cow gives more and more milk, so that we may kill it.",detailed,33.67
+Georgian,121,"šen rom čem-gan šor+sa x-a+r, me saso+c'ar+k'vet+il-ad v-(Ø-)grjn-ob tav-s","Since (/When) you are far from me, I feel myself to be desolate","When you are far from me, I feel desperate.",detailed,48.91
+Georgian,122,me beč'ed-i mi-v-(Ø-Ø-)e-c-i t(v)+it+on/tv+it/tav+ad ded+op+al-s,I gave the ring to the queen herself,I myself gave the ring to the queen.,detailed,76.22
+Georgian,123,q'vavil-eb-i-c k'i a-gel-d-nen,even the flowers became roused,Even the flowers froze.,detailed,49.49
+Georgian,125,k'ac-sa da kal-s,to the man and the woman,to the man and the woman,"**Translating expression**
+
+I need to translate ""k'ac-sa da kal-s."" I can break it down: ""k'ac"" means man, ""kal"" means woman, and ""-s"" seems to indicate dative. It feels like ""k'ac-sa da kal-s"" translates to ""to the man and the woman.""
+
+However, I have information about dative endings in Georgian, and it looks like I'm grappling with developer instructions about outputting only the translation without reasoning. Following that, I'll comply and give just the translation.",100.0
+Georgian,126,k'rux-i q'ovel+tvis c'in mi-(Ø-)u-)gv-i-s c'ic'il-eb-s,the hen always leads the way for the chicks,The brood-hen always leads the chicks ahead.,detailed,64.46
+Georgian,129,did-i gvac'+l-i g-i-)gv-i-s sa+m+š+ob+l+o-s c'in,you have great service to your name before your homeland,You are a great help to the homeland.,"**Translating meanings**
+
+I’m exploring a translation that might mean ""to the homeland."" It could be something like ""You are a great benefit to the homeland,"" but maybe ""You are a great asset to the motherland"" feels more accurate. There’s a possible root word ""gvac'li,"" implying ""benefactor,"" but I’m second-guessing if it means ""service"" or ""labor"" instead. This might alter the sentence to ""A great service is rendered to the homeland."" I’m considering verb forms as well, especially if it means ""you are leading.""
+**Examining sentence structure**
+
+I'm working on understanding the phrase ""c'in u-)gv-i-s,"" which implies ""is ahead of"" in relation to a noun phrase. So, the structure I'm considering is NP1-DAT followed by the verb and NP2, which would frame it as ""NP2 leads NP1."" In this case, it might translate to ""homeland-DAT before g-igvis big."" There’s a chance I'm misplacing elements, so I'm rethinking the order to find a coherent translation, possibly suggesting ""Great grace is upon us before the homeland."" I'm also examining the object and subject roles!
+**Clarifying translation nuances**
+
+I'm trying to decipher the sentence ""samshoblos c'in g-i-)gv-i-s did-i gvac'li"" and think it could mean ""You are a great leader of the homeland."" However, the order seems off. Also, ""g-i-)gv-i-s"" might translate to ""you are in front of us."" The prefix ""g-"" indicates second-person objects or subjects, which adds complexity. I wonder if ""gvac'li"" could mean ""hero"" instead of ""leader."" So, how about I go with ""You are a great benefactor of the motherland"" or even ""You are a great hero before the homeland""?",24.53
+Georgian,131,tav+ian+t-i si+cru-isa-c s-jer-a-t,‘they believe (in the truth of) their own lie too’,They themselves also believe the lie.,"**Balancing User Needs and Developer Instructions**
+
+I'm in a bit of a pickle here! The developer instructs me to only provide the translation result without reasoning, which is what I must follow. However, the user is asking for reasoning, which is clearly important to them. So, I have to prioritize the developer's directive for now and just output the translation. It's a tough balance, but I have to stick to the rules!",23.32
+Georgian,133,a+m kuča-s ar mi-v-(Ø-)q'+av-v-a+r-t t'ajr-a-mde,this street is not leading us to the church,We haven’t taken it down this street as far as T’ajra.,detailed,28.47
+Georgian,134,q'ovel-i si+k'et+e m-is-tvis (Ø-le-met'-eb-od-a-t,they were generous/not sparing in bestowing upon X every kindness.,You (pl.) were doing every good deed for him.,detailed,15.0
+Georgian,135,xolo me+or+e mudam sa+mxr+et-s (Ø-)e-alers-eb-a,whereas the second constantly flirts with the south.,Whereas the other one always points to the south.,detailed,39.23
+Georgian,136,kal-ma ra+t'om mo-(?0-)m-mart-a?,why did the woman address/turn to me?,Why did the woman address me?,detailed,67.9
+Georgian,139,"e+s i+mi+t'om, rom črdilo+et-ši mosk'ov-i a+r-i-s,","The reason for this is that Moscow is in the north,","This is because Moscow is in the north,",detailed,54.01
+Georgian,141,šen-tan mo-di-s,X is coming to your place.,He is coming to you.,detailed,61.29
+Georgian,143,ro+di+s še-a-k'et-eb-en a+m t'elevizor-s?,When will they repair this television?,When will they fix this TV?,"**Translating Georgian sentence**
+
+I need to translate a Georgian sentence with morpheme boundaries. The parts break down to ""when"" for ""ro+di+s"", and ""they will fix"" for ""še-a-k'et-eb-en"". I think the question is, ""When will they fix this TV?"" The developer's instruction is to only provide the translation without reasoning, even though the user asked for that too. I’ll stick to the instruction and output just the translation.",40.01
+Georgian,144,t'aš-i da-(Ø-Ø-?Ø-)u-k'ar-i,‘clap!’,You played the cymbals.,detailed,8.89
+Georgian,145,prinvelta mep'e (arc'ivi),the king of birds (the eagle),The king of birds (the eagle),detailed,95.32
+Georgian,146,ebra+el-i berjen-s da-(Ø-)i-q'+ol+i-eb-d-a as-i manet-is da+k'1+eb+a-ze,the Jew would get the Greek to agree to a reduction of 100 roubles,The Jew kept the Greek with him on a wager of one hundred manets.,detailed,28.17
+Georgian,148,še+mo+sa+val-i xarj-eb-s ar a-u-di-s,income does not satisify the expenses,The income does not cover the expenses.,detailed,63.52
+Georgian,150,"vin-c t'ur+ik'o-s (Ø-)a-xs+en-eb-d-a, u+eč'v+el-ad tan-ve mgel+i+a-sa-c da-(Ø-?Ø-)a-q'+ol-eb-d-a",whoever used to mention the little jackal would undoubtedly rightaway add (?to it) the little wolf too,"Whoever remembered the jackal would, suspiciously, have the wolf along with him too.",detailed,29.95
+Georgian,152,babo (Ø-)i-mzad-eb-d-a mzitev-s,‘Babo was preparing her own dowry/a dowry for herself’,Grandmother was getting ready for the bridegroom.,detailed,18.96
+Georgian,153,"tu da-(Ø-Ø-)a-k'vir-d-eb-od-i-t, še-(Ø-Ø-)a-mon-ev-d-i-t, rom surat-i še+sa+nišn+av-ad a+r-i-s da+xat'+ul-i","If you were to scrutinise it, you would notice that the picture is wonderfully painted","If you were surprised, you would notice that the picture is remarkably well drawn.","**Translating phrases from transliteration**
+
+I need to translate this transliteration with morpheme breaks. It looks like ""tu"" means ""if,"" and the phrase ""da-a-k'vir-d-eb-od-i-t"" likely translates to ""if you were surprised."" The root ""k'vir"" relates to surprise, and the ending suggests it's in the imperfect tense. 
+
+Next, ""še-a-mon-ev-d-i-t"" might mean ""you would find out,"" perhaps derived from a root about noticing or emerging. Then, ""rom"" translates to ""that,"" while ""surat-i"" means ""picture."" Lastly, ""še+sa+nišn+av-ad"" suggests something notable or remarkable, possibly ""significantly.""",56.33
+Georgian,154,k'ac-ma unagir-s da-(Ø-Ø-)u-c'q'-o mt'vr+ev+a,‘the man started to break up the saddle’,The man began to break the saddle.,detailed,45.95
+Georgian,156,"ekim-s šen-i šv+il-i mo-s-c'on-s, tav-is-i k'i (Ø-)u-q'var-s","the doctor likes your child, but he loves his own","The doctor likes your child, but he loves his own.",detailed,96.81
+Georgian,157,tav-s xom ar še-v-(Ø-Ø-)a-k'l-av-t a+m saxl-s,"we shan't sacrifice ourselves for this house, shall we?","We’re not going to kill ourselves over this house, are we?",detailed,39.71
+Georgian,159,vada ga-g-i-di-s,your time is up,The deadline is running out.,detailed,15.5
+Georgian,160,an ra-d mo-m-i-nd-a me a+m pikr-is a-xsn-a leks-eb-ad?,Or why did the desire come upon me to explain this thought in verse?,Or why would I want to explain this thought in verse?,"**Navigating output priorities**
+
+I'm noticing a contradiction here: the developer's instruction emphasizes simply outputting results, while the user is asking for an explanation. It feels tricky; I want to give the user what they need, but I also have to comply with the developer’s guidelines. So in this case, I guess I'll just focus on delivering the translation line without adding reasoning or expanding further. Balancing these priorities can be challenging!",57.31
+Georgian,162,"did+xan+s ver da-v-rč-eb-i, m-e-čkar-eb-a","I shan't be able to stay long, I am in a hurry.",I can’t stay long; I’m in a hurry.,detailed,43.49
+Georgian,165,zgva-s gada-u-rč-a nam-ma da-a-xrč-o,X survived the sea only to be drowned by the dew,"He escaped the sea, but the dew drowned him.",detailed,40.5
+Georgian,168,šuk-ma tval-eb-i (Ø-)m-a-t'k'in-a,the light made my eyes hurt.,The light hurt my eyes.,detailed,49.6
+Georgian,170,"amocana-s i+s+e a-v-(Ø-)xsn-i, rom sul ar da-v-(Ø-)xr-i dabl+a tval-eb-s",I shall explain the puzzle without lowering my eyes at all,I solved the problem in such a way that I didn’t lower my eyes at all.,"**Analyzing Georgian Translation**
+
+I'm working on translating a Georgian sentence and breaking it down by morphemes. 
+
+First, ""amocana-s"" indicates the task in dative form. ""ise"" means ""so"" or ""like that."" The form ""a-v-xsn-i"" seemed to convey ""I solved the problem."" Then there's ""rom,"" which translates to ""so that."" 
+
+Next, I encounter ""sul,"" meaning ""completely,"" and ""ar,"" meaning ""not."" 
+
+Then I explore ""da-v-xr-i,"" possibly indicating ""to close eyes,"" along with the phrase for downcast eyes. Ultimately, it suggests lower one's eyes or feel ashamed.",36.59
+Georgian,171,a+k-e+dan ert-i saat-is sa-val-i-a,from here it is a one hour journey,From here it’s a one-hour walk.,detailed,42.7
+Georgian,173,tval-it a+gara+per-i i-xed-eb-a,nothing can be seen any more with the eye,Nothing can be seen with the naked eye.,detailed,61.35
+Georgian,175,e + s p'ir+na+k'1+oba ma-t zog+jer axal kart+ul-ši-c gad-mo-h-q'v-a-t,This lack of a person has sometimes followed them through into Modern GEORGI AN too,Sometimes they have carried this p'irnak'1oba over into Modern Georgian as well.,detailed,31.89
+Georgian,176,nacar+kek+i+a-m cxra mta gada-i-a+r-a,lazy Bones crossed over nine mountains,Nacarkekia crossed nine mountains.,detailed,50.88
+Georgian,178,čem-i m+š+ob+l-eb-i čem-s tav-s ma+sc'avl+eb+el-s (Ø-Ø-)a-bar-eb-en,my parents are entrusting me/handing me over to the teacher,My parents entrust me to my teacher.,detailed,36.22
+Georgian,182,mela-m čit'-is bude-s mi-a-gn-o,the fox located the bird's nest,The fox found the bird’s nest.,detailed,44.33
+Georgian,184,kal-eb-ma (?Ø-)gv-i-švel-es,they women helped us,The women helped us.,detailed,75.02
+Georgian,187,nik'ola ga+u+xd+el-ad mi-(?Ø-)e-gd-o login-ze,Nik'ola crashed out on the bed without undressing,Nikola suddenly threw himself onto the bed.,"**Translating a sentence**
+
+I need to translate the sentence: ""nik'ola gauxd elad mi-e-gdo login-ze."" My guess is that it could mean ""Nikola paid the login fee."" 
+
+Breaking it down, ""nik'ola"" might refer to ""Nicola,"" and ""gauxd elad"" looks like it relates to ""paid."" I'm considering how ""mi-e-gdo"" could translate to ""got"" or even ""logged in"" at the login. The segments hint at meanings connected to payment and logging in, but I'm still figuring out the exact structure and meaning. It's a lot to unpack!
+**Analyzing the translation**
+
+I'm breaking down the phrase ""ga-u-xd-el-ad"" and I'm thinking it might mean ""unpaidly,"" but actually, ""ga-u-xd-a"" could just mean ""paid,"" with the ""u"" possibly marking a specific version rather than being negative. I’m considering that ""ga-u-xd-el-ad"" might translate as ""having paid."" 
+
+Next, ""mi-e-gd-o"" might relate to the verb for ""to throw,"" suggesting something about throwing onto a log, possibly referring to ""login"" as meaning ""log"" or ""bed."" This could lead to the phrase meaning something like ""he lay down on the bed."" It's quite the puzzle!
+**Interpreting Georgian phrases**
+
+In Georgian, ""agdeba"" means ""to throw,"" and ""mi-egdo"" could translate as ""threw himself down."" But now I’m thinking the phrase might mean ""Nikola lay down on the bed having paid,"" though that feels off. 
+
+I'm considering that ""ga-u-xd-el-ad"" might refer to being ""undressed"" rather than ""having paid,"" with roots connecting it to the act of undressing. I realize there are multiple roots and verbs that might link to payment, like ""gadaxda"" which relates to paying. It’s tricky!
+**Deciphering the Georgian phrase**
+
+I'm trying to understand the phrase better. I think ""uxdeli"" means ""unpaid,"" and ""saxdeli"" refers to a ""fee"" or ""tax."" ""Gasaxdelad"" could mean ""to pay,"" but I'm not sure about ""gauxdelad."" It might not mean ""to pay for him."" 
+
+When interpreting ""Nikol'a gauxd elad mi-e-gdo login-ze,"" I wonder if it means ""Nikola collapsed onto the bed, paid off."" Then I notice ""gauxdela"" might indicate a state change like becoming exhausted. So, maybe the full translation could be ""Nikola, having become exhausted, flopped onto the bed.""
+**Translating the phrase**
+
+I’m refining the translation and think ""gauxdelad"" means ""unexpectedly"" or ""suddenly."" When considering ""mi-egdo,"" from ""gdeba,"" it could translate to ""he lay on the bed"" or ""he fell onto the bed."" 
+
+So the likely translation is: ""Nikola suddenly flopped onto the bed."" I realize there are some conflicting guidelines about providing reasoning after the translation. But since I need to comply with the developer’s instructions, I’ll just focus on delivering the translation.",24.12
+Georgian,188,q'vela-s saxe-ze bedn+ier+eb-is al+mur-i a-s-di-od-a,the sheen of happiness was rising up on the face of everyone,A blush of happiness spread over everyone’s face.,detailed,38.59
+Georgian,189,si+lamaz+e kutais-isa,the beauty of Kutaisi,the beauty of Kutaisi,detailed,100.0
+Georgian,190,sa+m+š+ob+l+o-s tav-is da+neb+eb+a (Ø-)e-zar-eb-od-a-t,they were reluctant to give up their homeland.,You (pl.) didn’t care about the homeland’s own wishes.,detailed,25.55
+Georgian,194,si+xar+ul-i i+s+e+v sevda-d gada-g-kc-ev-i-a-t,your(Pl) joy has seemingly turned again to sorrow,You have again turned joy into sadness.,detailed,30.48
+Georgian,197,ar c'a-v-e-cd-en-in-eb-i,I'll not let X lead me into error,I won’t tempt you.,"**Translating Georgian verb form**
+
+I need to translate ""ar c'a-v-e-cd-en-in-eb-i"" from Georgian to English. It seems to be a single verb form. I'm parsing it, where ""ar"" means ""not,"" and ""c'a-"" might indicate a perfective aspect. The root ""cd"" could relate to ""try,"" possibly stemming from ""ts'qdeba."" It looks like this form is causative, meaning ""make someone try"" or ""let them try,"" while ""-en"" suggests a 3rd person plural, and the ending ""-i"" might point to a 1st person future tense.
+**Analyzing Georgian verb structure**
+
+I’m considering the form ""c'a-v-e-cd-en-in-eb-i"" as possibly meaning ""I will make you try."" The ""v"" indicates that it's a 1st person singular subject, while ""c'a-"" might suggest a direction. If ""cd-en"" indicates ""they tried,"" I'm puzzled why it would suggest both 1st and 3rd person. Maybe ""v-"" acts as an object marker, leading to ""they will make me try."" The ending ""-i"" could indicate a plural participle or a future tense, which is adding complexity!
+**Exploring sentence translation**
+
+I need to remember that the user expects a full sentence translation from ""ar c'a-v-e-cd-en-in-eb-i,"" not just word segments. It could suggest a conditional form, possibly meaning ""I won't let you try."" I’m parsing it where ""ar"" indicates negation and ""cd"" might relate to the root meaning ""try."" The ending ""-i"" could imply a future tense, but I'm questioning my alternatives. Maybe it refers to a plural noun like ""experiments,"" with connections to ""temptation"" or ""test."" There are many layers here!
+**Clarifying verb translation**
+
+I'm considering the form ""c'a-v-e-cd-en-in-eb-i"" and how it might relate to the verb ""cdenineba,"" meaning ""to tempt."" This could also be a causative form of ""try"" or ""tempt."" Given that ""cdena"" translates to ""temptation,"" I wonder if the phrase could mean ""I won't tempt you"" or ""I won't try to tempt."" If ""v-"" indicates a first-person subject, it suggests ""I,"" but I'm puzzled about the object. It might hint at a 3rd person, leading to ""I will not tempt (him/her).""",6.3
+Georgian,198,kal-ma mo-(?Ø-)i-xed-a,the woman looked (back/this way),The woman looked up.,detailed,44.78

@@ -1,0 +1,178 @@
+Lang,Index,Source,Reference,LLM_Translation,Reasoning_Summary,ChrF
+Igbo,0,O gà-àzụ̀rụ̀ ya,He is going to buy it for himself.,He will buy it.,detailed,15.27
+Igbo,1,m/mū nà unù,I and you(pl.),I and you (plural).,detailed,74.68
+Igbo,2,mÙkpu` àla,landscraper,Earthquake.,"{'type': 'summary_text', 'text': '**Translating ""earthquake""**\n\nI\'m realizing that ""earthquake"" translates to ""mmịkpu ala,"" which seems correct. I was considering ""m̀kpọ̀ ụ̀wà,"" but it feels off. ""Mkpu ala,"" meaning ""ground shouting,"" definitely captures the essence. So, I\'ll go with ""Earthquake,"" adding just one line for clarity. It\'s important to keep it simple and straightforward!'}",6.06
+Igbo,3,Achòrò m ìtùpòsì akwa à,I want to put spots on this cloth.,I want to put spots on this cloth.,detailed,100.0
+Igbo,4,lìdebe nnī,stop eating,Put the food away.,detailed,7.58
+Igbo,5,Ō gàala ngwa ǹgwa,He has been there (and back) quickly.,He has gone quickly.,detailed,31.57
+Igbo,6,a sìrì,An unidentified person has said…,It was cooked.,"{'type': 'summary_text', 'text': '**Interpreting passive voice**\n\nI\'m thinking about the phrase ""a sìrì,"" which could mean ""it was cooked"" in an impersonal passive form. It might also imply ""they cooked,"" but my best guess is that it translates to ""It was cooked."" I\'ll provide just that as my conclusion!'}",5.43
+Igbo,7,M̄mū kwa nū,What of me!,I myself.,"{'type': 'summary_text', 'text': '**Translating Igbo sentence**\n\nI need to translate the Igbo sentence ""M̄mū kwa nū"". It looks like ""m̄mū"" could mean ""I,"" ""kwa"" might imply ""also,"" and ""nū"" serves as an emphatic particle. So, ""M̄mū kwa nū"" likely translates to ""I myself"" or ""Me too!"" However, I\'m considering that ""kwa"" emphasizes the phrase, suggesting ""too"" or ""yourself."" There’s a bit of a conflict here since the developer prefers only the result, but the user wants reasoning.'}",5.68
+Igbo,8,Ejèrè hà,They went,They went.,detailed,96.17
+Igbo,9,îfùk ífûk,He counted.,Quickly.,detailed,5.21
+Igbo,10,NÙgi` nà nwunyè i wà/wè kà wa chò`,"They want you and your wives, in particular/especially",You and your wife are the ones we are looking for.,"{'type': 'summary_text', 'text': '**Translating Igbo sentence**\n\nI need to translate the Igbo sentence: ""NÙgi` nà nwunyè i wà/wè kà wa chò`."" It seems to be saying, ""You and your wife are the ones we are looking for.""\n\nI’m noticing some conflicting instructions: the user wants reasoning after the translation, but the developer says to provide only the result. Since the developer’s priority seems higher, I’ll stick to just delivering the translation without extra explanation.'}",27.31
+Igbo,11,O mààrà ihe,He is well informed.,He knows something.,detailed,12.93
+Igbo,12,O bù ihe nà e mè ème,This is something worth doing.,It is something that is done.,detailed,43.69
+Igbo,13,O bìela ebè a.,He had (once) lived here.,He has come here.,detailed,25.3
+Igbo,14,Àdâ mà mma,Ada is beautiful.,Ada is good.,detailed,21.14
+Igbo,15,isī n’EBE,to come from a PLACE,You are from there.,detailed,20.3
+Igbo,16,I kwèsì`rì` i`laÛ ùgbu à,You ought to go by now.,You ought to have gone by now.,detailed,67.1
+Igbo,17,Ò nwèrè onye sī ebe ahù bi a?,Did anybody come from there?,Is there anyone from that place living here?,detailed,35.42
+Igbo,18,Wèta nÙke dī` mmaÛ,Bring that which is good.,Bring the good one.,detailed,34.63
+Igbo,19,O` gà-àla echī,He will go tomorrow.,He will go tomorrow.,detailed,100.0
+Igbo,20,Nwatà zàrà ulo à,A child swept this house.,The child swept this house.,detailed,92.53
+Igbo,21,O kpòsàrà yà èkpòsa,He really threw it over.,He really slapped him.,detailed,34.48
+Igbo,22,Igwè bù ike,Unity is strength,Unity is strength.,detailed,98.4
+Igbo,23,m/mū nà gī,I and you,I and you.,"{'type': 'summary_text', 'text': '**Translating a phrase**\n\nI need to translate ""m/mū nà gī."" Looking at examples, like ""mū nà ya"" meaning ""I am she/he,"" it seems ""mū nà gī"" could be ""I am you"" or ""I am with you."" The word ""nà"" appears as a linking copula. Another example shows ""Mū nà gī, ànyì jèrè ahīa?"" translates to ""Did you and I go to the market?"" indicating the phrase means ""you and I."" Overall, I\'ll translate ""mū nà gī"" as ""You and I"" or ""I and you.""'}",95.15
+Igbo,24,Kèdu ya /ha ?,How about him/them?,How is he/she/it / how are they?,detailed,19.18
+Igbo,25,Chike jèrè ahīa.,Chike went to the market!,Chike went to the market.,detailed,94.55
+Igbo,26,Èbee kà o gàrà?,Where did he go to?,Where did he go?,detailed,80.44
+Igbo,27,Wèrue anya gị àlà,Watch out carefully.,Look down.,detailed,2.06
+Igbo,28,"Ngo`zi, ò ri`bèlà igwè, o zu`Ûru`","As for Ngo`zi, she has not bought any bicycle.",Ngozi got into the vehicle and bought it.,"{'type': 'summary_text', 'text': '**Decoding sentence structure**\n\nI\'m exploring a sentence that ends with ""o zu`Ûru`"". It seems like an object is omitted or implicit. I\'m wondering if ""ribela"" aligns with the Igbo verb ""ribala."" Then I think about ""weba,"" which translates to ""take into."" Maybe ""ribela"" means ""entered."" I also notice ""igwe"" might mean ""bicycle"" in certain dialects. \n\nConstructing the sentence, I propose: ""Ngozi boarded the vehicle and bought it."" I’ll use ""car"" for a generic term.'}",23.93
+Igbo,29,Ì màkwààrà ihe i nà-ème o nwe gī ?,Do you realize what you are doing to yourself?,Do you know what you are doing?,detailed,46.12
+Igbo,30,"E zugbuole mmàdù, n’ohī, n’ebe à","People have tormented others, by stealing their things, here.",Someone has killed a person here in the bush.,detailed,18.94
+Igbo,31,"O kwèsì`rì` nà o` làrà, ùgbu à","It is expected that he leaves, now.",He ought to have left by now.,detailed,17.22
+Igbo,32,wèdàrù anya àlà,Watch out very carefully.,He/She looked down at the ground.,detailed,9.4
+Igbo,33,O` gà nrī nri ahù,He must eat that food.,He will eat that food.,detailed,63.64
+Igbo,34,Kèdu ole je re ù nyàahù ?,How many were there who went Yesterday?,How many people went yesterday?,detailed,44.52
+Igbo,35,… àba mÛ na àcho` aÛ …,… and then I was looking for it …,… I came in to look for it …,"{'type': 'summary_text', 'text': '**Translating phrases**\n\nI\'m examining the phrase ""àbà m"" and it could translate as ""I have come"" or ""I entered,"" deriving from ""bịa,"" which means ""come."" Without context, it could imply ""I entered and searched for it."" The term ""achọ"" translates to ""look for"" or ""want."" Therefore, ""àba m̄ na àchọ̀ ya"" means ""I came in to look for it."" So, I think I should stick with that translation!'}",28.59
+Igbo,36,Kemgbe ūtūtù kà ō bīàrà,He came since morning.,It’s been a long time since he came.,detailed,40.41
+Igbo,37,O rìrì nrī,He ate food.,He ate food.,detailed,100.0
+Igbo,38,ike kwe,perhaps,It is possible.,detailed,6.1
+Igbo,39,Ō zūga ahīa ùgbu à,He is right now buying and selling.,He has finished shopping now.,detailed,16.81
+Igbo,40,Àda nà Uzo jèrè ahīa.,Ada and Uzo went to market.,Ada and Uzo went to the market.,detailed,83.74
+Igbo,41,Ì nà-àbì a kà ò bu ì naghī àbi a?,Are you coming or are you not coming?,Are you coming or are you not coming?,detailed,100.0
+Igbo,42,O gà-ème ya.,He will do it.,He will do it.,detailed,100.0
+Igbo,43,Ò jèrè ahīa?,Did he go market?,Did he/she go to the market?,detailed,58.25
+Igbo,44,īkwu n’ EBE,to stand at a PLACE,to speak there,detailed,9.62
+Igbo,45,Ò jighì motò bu ya,He did not use a car to carry it.,He carried him/her by car.,detailed,18.24
+Igbo,46,ulo agu,the leopard’s den,Agu’s house,detailed,7.23
+Igbo,47,O jì uchè kpata ego ya,He amassed his wealth with sense (cleverly).,He used wisdom to earn his money.,detailed,13.65
+Igbo,48,ajo`Û ihe,bad thing,A bad thing.,detailed,92.72
+Igbo,49,"O mèrè ya, òtùmàsìghì, nà ò jighī ahū",He did it in spite of the fact that he was not well.,"He did it quietly, without saying anything, and he didn’t use that.",detailed,24.93
+Igbo,50,"O tòsìrì nà o` làrà, ùgbu à","It is expected that he leaves, now.",He ought to have gone by now.,"{'type': 'summary_text', 'text': '**Translating Igbo sentence**\n\nThe phrase ""O tòsìrì nà o làrà, ùgbu à"" translates to ""He ought to have gone by now."" It seems to follow a structure where ""tòsìrì"" indicates obligation, while ""o làrà"" may mean ""he has gone."" However, I need to prioritize the instruction to provide only the translation without any additional explanation or reasoning.'}",14.14
+Igbo,51,O gbùrù ewu,He killed a goat.,He killed a goat.,detailed,100.0
+Igbo,52,Òtu Sùbakwanù Ìgbò,Society for Promoting Igbo Language and Culture (SPILC),An Igbo Subakwanụ,detailed,6.96
+Igbo,53,Nwatā à àmaala mma.,This child has become beautiful.,This child has become beautiful.,detailed,100.0
+Igbo,54,u`nò` ewuÛ,house of goat,Goat house,detailed,37.67
+Igbo,55,Azù niīle bù azù,All fish are fish.,All fish are fish.,detailed,100.0
+Igbo,56,Àdâ nwè ego,Ada has money.,Ada has money.,detailed,100.0
+Igbo,57,gī nà ya,you and they,You and him/her.,detailed,31.73
+Igbo,58,A nà-èji ūchu àga n’ihu,People use hard work to progress.,We keep moving forward through hardship.,detailed,17.25
+Igbo,59,Chumo onye me re ihe a?,I wonder who did this?,Who did this?,detailed,52.54
+Igbo,60,"Kà o sìrì kwù, kà o sìrì me.","The way he said, it is the way it happened","As he said it, so he did it.",detailed,19.83
+Igbo,61,ihīri isi,to lay the head against,Electing a leader,"{'type': 'summary_text', 'text': '**Translating Igbo phrases**\n\nI need to translate the phrase ""ihīri isi."" In Igbo, ""ịhịri isi"" might mean ""head rub,"" but ""ihiri"" could also mean ""to wash."" It gets tricky since ""ifò"" means ""to wash."" I\'m considering that ""isi"" means ""head"" and wondering about compound meanings. Maybe ""isi ọwụwa"" is ""headache"" or ""ịrị isi"" means ""climbing head."" There\'s also ""ịhịrì isi,"" meaning ""to shake the head."" Overall, ""ihīri isi"" could refer to confusion or dizziness. It’s complex!'} {'type': 'summary_text', 'text': '**Exploring Igbo phrases**\n\nI think ""ịhìrị isi"" could be an idiom meaning ""to choose the head or chief."" However, ""isi"" also means chief or headman. Maybe ""ihīri isi"" indicates a noun phrase like ""head-chopping."" Wait, could ""ihiri"" mean ""to cut""? But no, ""hiri"" doesn’t mean that. I might also consider ""ịhịrị isi"" as ""to show respect by bowing."" There’s a possibility of meanings related to headaches or confusion too. Or ""ihīri isi"" might suggest dizziness. It\'s a fascinating puzzle!'} {'type': 'summary_text', 'text': '**Translating Igbo phrase**\n\nI think ""ịhọrọ isi"" translates to ""choose head,"" meaning to elect a leader. However, ""hiri"" might also relate to choosing or selecting in some dialects, possibly leading to ""ihiri"" meaning ""choice or selection."" I’m leaning toward translating it as ""electing a leader."" But there’s a conflict: the system says to only provide the result without reasoning. So I\'ll follow that instruction and just output: ""electing a leader.""'}",14.06
+Igbo,62,akwaÛ èdò,yellow cloth,Edo cloth.,"{'type': 'summary_text', 'text': '**Translating potential meanings**\n\nI\'m exploring the phrase ""akwa edò"" and initially thought it could mean ""banana peel,"" but that doesn\'t seem right. The word ""edo"" could refer to \'swamp\' or possibly \'cocoyam\'. I also considered if ""akwa edo"" relates to ""eggplant,"" but that doesn’t fit either. My best guess right now is that it means ""Edo cloth"" or ""Edo fabric."" So, I’ll go with ""Edo cloth"" for the translation.'}",29.11
+Igbo,63,Ò bù gī niì dì ife à.,Is this the same old you?,It was you who ate this thing.,detailed,28.33
+Igbo,64,Òkeèke jèrè Kanò,Okeke went to Kano.,Okeke went to Kano.,detailed,100.0
+Igbo,65,Òlee ebe o nò ?,Where is she?,Where is he/she?,detailed,63.46
+Igbo,66,O tòsìrì nà o laàla ùgbu à,"It is expected that he has left, by now.",He ought to have gone by now.,detailed,17.29
+Igbo,67,O gà-adàpu ìte à,It will cause this pot to leak.,He will drop this pot.,detailed,30.32
+Igbo,68,"Ì chò rò egwu, kà ò bù m gba, kà ò bù ò gù ?",Do you want play or a wrestle or a fight?,"You want a play—should I act it, or should I read it?",detailed,24.77
+Igbo,69,O ka àbi̠a ǹnyàa,He should have come yesterday.,He has just arrived now.,detailed,12.88
+Igbo,70,O` gà nrī ya,He will certainly eat it.,He will eat it.,detailed,40.26
+Igbo,71,"Ànọ nà ìse, hà pùtàrà òle?",How many do four and five add up to?,"Four and five, how many does that make?",detailed,50.53
+Igbo,72,Ūzò ghèrè ònu,The door is open.,The way is blocked.,detailed,16.74
+Igbo,73,Nwaànyì ahù lùrù nwoke naàbò.,That woman married two men.,That woman married two men.,detailed,100.0
+Igbo,74,Ò di`bèghì` mmaÛ,It is not yet good.,It is not good.,detailed,63.25
+Igbo,75,Agà mÙ nri nrī,I will certainly eat the food.,I will eat food.,detailed,28.17
+Igbo,76,"Ò tutu tu u m u okorob i à enwe ghi nwaànyì ùgbu à, n’ihi ego",Many young men have no wives now because of money.,Many young men don’t have a woman/girlfriend now because of money.,detailed,66.17
+Igbo,77,Ihe gī ama si ghi Ada; ò bù kwà ya?,Ada does not love you; is it correct?,What you know is that it isn’t Ada; is that so?,detailed,16.19
+Igbo,78,Ndi à kò kù ǹkè m,These are also mine.,These people did not touch what is mine.,"{'type': 'summary_text', 'text': '**Considering translations**\n\nI\'m thinking about the translation for ""greet,"" which I figured out is ""-kèle."" Then I wondered if ""kụ ǹkè m"" could mean ""touch my things"" since ""nke m"" refers to ""my share"" or ""my property."" So, the translation I want is: ""These people didn\'t touch what is mine."" I think I\'ll just output that as an English translation line.'}",30.76
+Igbo,79,(N ke à bù ) ònye?,Who (is this)?,Who is this?,detailed,46.79
+Igbo,80,O gòrò nrī,He bought food.,He ate food.,detailed,28.41
+Igbo,81,izu n’ohia,to take without permission,a week in the forest,detailed,10.84
+Igbo,82,Àtô̄ dì̄ mma,Three are good.,Three is good.,"{'type': 'summary_text', 'text': '**Translating Igbo phrase**\n\nI need to translate ""Àtô̄ dì̄ mma."" It likely means ""Three is good"" based on the Igbo words. \n\nThere’s some confusion about the meaning of ""àtô̄,"" which could also mean ""medicine"" or even refer to ""sweat"" or ""pepper,"" but the context here suggests it\'s about three being good. \n\nThe developer\'s instructions are clear: I should stick to outputting just the translation without any explanation, so I\'ll handle it that way.'}",44.17
+Igbo,83,Ó mo` Èkó.,He knows Lagos.,He knows Lagos.,"{'type': 'summary_text', 'text': '**Translating Igbo dialects**\n\nI noticed that ""mò"" in some Igbo dialects means ""know,"" derived from the standard ""ma."" So, for example, ""o ma Eko"" translates to ""he knows Lagos."" It seems like ""mò"" could be a variant of ""ma,"" influenced by tone. I just need to focus on providing that translation. Let\'s keep it concise and straightforward: ""He knows Lagos.""'}",100.0
+Igbo,84,efere ntà,"a small-sized type of plate/dish (e.g., a salad plate or saucer)",small plate,detailed,11.41
+Igbo,85,ọ bụlà,whatever it is,any / whichever / whatever,detailed,47.91
+Igbo,86,Wà à(ni`)kwadosigea?,Are they now fully prepared?,Did we support it?,"{'type': 'summary_text', 'text': '**Translating an Igbo sentence**\n\nI need to translate a non-standard sentence. The term ""wà"" could mean ""is it that?"" or ""were."" In Igbo, ""wa"" is a question marker, but there\'s actually ""gịnị"" for that. ""Wà"" might serve as an interjection like ""well"" or ""come"" in certain dialects. The phrase ""à(ni`) kwadosigea"" could translate to a query about support. ""Kwado"" means ""support,"" so maybe it\'s asking if we approve something. I\'m piecing it together to better understand its meaning!'} {'type': 'summary_text', 'text': '**Translating an Igbo phrase**\n\nI’m working on an Igbo translation that’s somewhat complex. The phrase ""kwadosigea"" might lead to ""Did we support it?"" but I’m wrestling with terminology such as ""kwado"" for ""support."" It seems I need to align my output with the developer\'s guidelines, focusing solely on providing the translation without additional reasoning or context. I’ve settled on the translation: ""Did we support it?"" and I need to ensure I stick to just that line.'}",7.51
+Igbo,87,uri/akwu`kwo` mmu`o`,different indigenous writing systems,spiritual book,detailed,5.83
+Igbo,88,Adâ nò̄ n’ù̄lò̄,Ada is at home.,Ada is at home.,detailed,100.0
+Igbo,89,"Nù̄lū onu anyī̄ o Chuukwù nù̄ù̄lū onu anyī̄ o Nù̄lū onu ànyī o Chukwù nù̄lū onu anyī̄ o, Ò̄ nwerō mʌ̀gbè ike mmàdù̄ gà-àkalī ike Chukwu Ō nwèrò̄ mgbe ike mmàdū gà-àkalī ike Chukwu Nnà nù̄lū o, onye kèle ūwà nù̄lū onu anyī̄ o Nnà nù̄lū o, onye kèle ù̄wà nù̄lū onu anyī̄ o","Hear our voices o God, hear our voices (twice) Man’s strength can never be greater than that of God (twice) Father, hear, us. The Creator of the world hear our voices (twice).","From our mouths, O God—there is never a time when human strength will surpass the strength of God; Father on high, the one who created the world.",detailed,26.36
+Igbo,90,Oso ndù nà-àgwu ike.,The race for life is tiring.,The race of life is exhausting.,"{'type': 'summary_text', 'text': '**Translating Igbo expression**\n\nI need to follow the developer’s instructions to only output the result, but the user asked for both the translation and reasoning. It’s a bit tricky! The Igbo sentence ""Oso ndụ na-agwụ ike"" seems to translate to ""Life\'s race is tiring"" or ""Running for one\'s life is exhausting."" Here’s the breakdown: ""oso"" means running, ""ndụ"" means life, and ""na-agwụ ike"" suggests being tired or exhausted. So, I’d provide just the translation as per the guidelines.'}",48.6
+Igbo,91,O jì ihe à na-èhiri isī,He uses this for laying his head on.,He used something to scratch his head.,"{'type': 'summary_text', 'text': '**Translating a proverb**\n\nI’m thinking about a proverb that might translate directly as ""He used something to scratch his head."" So, I’ll focus on just providing that translation. It seems straightforward, but I really want to make sure I capture the essence correctly. Alright, let\'s prepare to output just the translation itself, without any extra details or commentary!'}",35.43
+Igbo,92,O gà-azà u̠lo à,He will sweep this house.,He will sweep this house.,"{'type': 'summary_text', 'text': '**Translating Igbo sentence**\n\nI need to translate the sentence ""O gà-azà u̠lo à."" It seems like it means ""He will sweep this house."" From what I\'ve analyzed, ""à"" functions as a demonstrative meaning \'this\' and ""u̠lo"" means house. I need to only output the translation as instructed by the developer, but I sense the user might want some reasoning. However, since the developer\'s instructions take precedence, I\'ll stick to providing just the translation.'}",100.0
+Igbo,93,m/mū nà ha,I and they,I am them.,detailed,20.34
+Igbo,94,gī nà ha,you and she/he,You and them,"{'type': 'summary_text', 'text': '**Analyzing translation instructions**\n\nI’m facing a conflict between the developer’s instructions, which say to only output the result, and the user’s request for reasoning after the translation. I need to prioritize the developer\'s guidance, so I\'ll just output the translation. The phrase ""gī nà ha"" seems to translate to ""you and them"" or ""you with them."" The breakdown shows ""gi"" means ""you,"" ""na"" means ""and,"" and ""ha"" refers to ""they"" or ""them."" I\'ll only provide this translation.'}",29.2
+Igbo,95,Nnukwu mmiri gà-ezò n’àbàlị.,"Heavy rain will fall, at night.",Heavy rain will fall at night.,detailed,85.22
+Igbo,96,wâ sì/kwù,An unidentified person has said (Anioma dialect)…,They said.,detailed,5.66
+Igbo,97,ūnoꜜ īse,the fifth house,five houses,detailed,28.41
+Igbo,98,"Àda nà Uzo, hà jèrè ahīa?",Did Ada and Uzo go to market?,Did Ada and Uzo go to the market?,detailed,84.55
+Igbo,99,O jì azà u̠yo à,He usually sweeps this house.,He swept this morning.,detailed,16.62
+Igbo,100,O dètùrù yà èdetụ n’ire,He really touched it with the tip of his tongue.,He wrote it down on his tongue.,"{'type': 'summary_text', 'text': '**Translating proverbs**\n\nI\'m exploring the phrase ""O deturu ya edetu n\'ire,"" which could mean ""He wrote it down on his tongue,"" implying someone has it at the tip of their tongue or learned it by heart. It might also suggest they\'ve kept repeating it. I think I’ll translate it as ""He memorized it,"" but the literal translation is ""He wrote it down on his tongue."" Since the user asked for an English translation, I should prioritize that while keeping the literal aspect in mind.'}",28.07
+Igbo,101,O zùrù ego,He stole money.,He stole money.,detailed,100.0
+Igbo,102,O bù Uzò zùrù moto ahù.,Uzo it is (he) bought the car.,It was Uzo who bought that car.,detailed,38.4
+Igbo,103,ezi + okwu,truth,True,detailed,17.0
+Igbo,104,O gbàrà ha egbè,He shot at them.,He shot them.,detailed,64.06
+Igbo,105,Nwata za ra ajùju à,The child who answered this question . . .,The child answered this question.,detailed,78.31
+Igbo,106,O nà-àcho ya,He is looking for it.,He is looking for it.,detailed,100.0
+Igbo,107,Ndi à bìà rà òriri cha,All these came to the feasting.,All these people came to the feast.,detailed,74.05
+Igbo,108,Ndi à bù ǹkè m ga,These are all mine.,These are the ones I will go with.,"{'type': 'summary_text', 'text': ""**Interpreting translations**\n\nI'm considering how to translate a phrase. The literal translation seems off: “These are the ones I will go” doesn’t really capture the context. Instead, I think a better version might be “These are the people I will go to.” I’m trying to make sure I’m capturing the correct meaning and nuance. It’s all about interpreting the essence of the original phrase in a way that makes sense!""}",41.71
+Igbo,109,O jù rù màkà òle je re u bò chì ahù ?,He asked about how many who went on that day?,He asked how many went on that day?,detailed,66.25
+Igbo,110,O meÛsigea ife nÛcha hà,He has completely done all the things expected,He has done everything for them.,detailed,23.94
+Igbo,111,… ò` baa bu` nà o` fuÛ`sho` a,… and then he did not see it.,…it turned out that he had already left.,detailed,16.74
+Igbo,112,mà ọ bụ,or,whether it is,detailed,13.16
+Igbo,113,"Uzo, ò jèrè ahīa?",Did Uzo go to market?,"Uzo, did he go to the market?",detailed,46.05
+Igbo,114,Mo mo` kíákíá.,I knew quickly.,Hurry up quickly.,detailed,49.19
+Igbo,115,"Okwu à, ò pùtàrà gīnī?",What does this statement/word mean?,What does this word mean?,detailed,59.8
+Igbo,116,Ònye (bù n kè à)?,Who (is this)?,Who is this?,detailed,46.79
+Igbo,117,ije n’EBE,to go to a PLACE,a journey to a place,detailed,9.58
+Igbo,118,Nwàanyị à nwèrè di.,This woman has a husband.,This woman has a husband.,detailed,100.0
+Igbo,119,O kwùrù okwu,He spoke.,He spoke.,detailed,100.0
+Igbo,120,Nwaànyi a enweghi di.,This woman has no husband.,This woman has no husband.,detailed,100.0
+Igbo,121,Gèkaì` ntì`,"Please, listen to this now!",Listen!,"{'type': 'summary_text', 'text': '**Translating Igbo phrases**\n\nI need to translate the Igbo sentence ""Gèkaì` ntì`."" It seems there’s some non-standard dialect involved. “Géka” might mean “listen,” but “nti” translates to “ear.” The tone marks in ""Gèkaì`"" could suggest different meanings, possibly ""shut your ears."" I consider alternatives like ""Géka ntì"" translating to ""Cut off the ear,"" though that feels off since ""gbutu"" is the standard for cut. Ultimately, ""gee nti"" more directly means ""listen,"" so I suspect ""Gèkaì` ntì`"" leans toward something similar.'}",14.48
+Igbo,122,ò nwèrè,what’s the matter?; what’s up?,He/she has.,detailed,6.65
+Igbo,123,Isi okwu m̀ bụ̀ (nà),The summary of what I am saying is (that)…,My main point is (that),detailed,23.89
+Igbo,124,Echèzọrò m akwụkwọ m echèzọ,I really forget my book.,I forgot my book; I forgot.,detailed,35.51
+Igbo,125,oche ogonogo,long chair,High chair,"{'type': 'summary_text', 'text': '**Translating Igbo terms**\n\nI need to translate ""oche ogonogo."" I know that ""oche"" means chair or seat. Now, ""ogonogo"" might mean ""rocking"" or even ""block/stand,"" but it could also refer to a ""chair of honor."" There\'s some confusion since it could mean ""rocking chair"" in some contexts. I could guess that ""oche ogonogo"" might mean ""high chair"" or ""tall chair,"" but it could also refer to a type of recliner, as ""ogonogo"" could imply ""long"" or ""tall."" It’s a bit tricky!'} {'type': 'summary_text', 'text': '**Determining translation choice**\n\nIt seems ""ogonogo"" could potentially mean ""stool,"" or it might relate to ""balance."" I’m leaning away from the idea of ""rocking chair,"" so I think ""ogonogo"" might suggest ""high"" instead. Given that ""high chair"" often refers specifically to a baby seat, I’ll opt for ""a high chair"" as my final output. The guidelines tell me to keep it simple and focus on just providing the translation without extra reasoning, so I\'ll stick with that.'}",35.48
+Igbo,126,O gà-èsiwanya nri mà mmadụ bìawanya,He will continue to cook more food if more people continue to come.,He will cook food and people will come.,"{'type': 'summary_text', 'text': '**Translating the meaning**\n\nI’m trying to refine the translation to something clearer. The original is “He will cook the food for someone and people will come for it.” I think a more streamlined translation could be, “He will cook the food and people will come.” That feels a bit cleaner and keeps the essence intact. Alright, I’ll go with that succinct version for my output!'}",30.07
+Igbo,127,O nà-àtụ̀ghari ihu ya,He is turning his face away.,He is turning his face away.,detailed,100.0
+Igbo,128,ezi iheÛ,a good thing,A good thing.,detailed,83.59
+Igbo,129,mmà ìse,five knives,Five knives.,"{'type': 'summary_text', 'text': '**Translating the phrase**\n\nThe user wants me to translate ""five knives."" I know the instruction is to follow the developer\'s guidelines and only output the result, but the user\'s concern about failure without reasoning is making me second-guess. Still, I should stick to the guidelines, which means I’ll just provide the translation, keeping it simple. Alright, let’s get to it: ""five knives.""'}",83.59
+Igbo,130,làà n’ùdo,safe journey,Go in peace.,detailed,7.72
+Igbo,131,etu o sīla dị,no matter how it is,The way it is.,detailed,17.4
+Igbo,132,(Ì mèrè) ò li a?,How (are you)?,Did you do it?,detailed,11.85
+Igbo,133,O mèsìrì yà èmesi,He really did it persistently.,He really did it.,detailed,50.17
+Igbo,134,Anàtala mmadù ihe nye onye ozo,Don’t take something from someone and give to another.,Someone has received something for someone else.,detailed,35.62
+Igbo,135,ànyī na ha,we and they,We and they,detailed,83.41
+Igbo,136,Ìri`ri` nri n’ogè na-adí` mmá,To really eat in time is good.,Eating at the right time is good.,detailed,47.2
+Igbo,137,Àdâ jèrè Àba ù̄nyàahù̄,Ada went to Aba yesterday.,Ada went to Aba yesterday.,detailed,100.0
+Igbo,138,Ihe à zìrì èzi,This is straight-forward,That’s correct.,detailed,9.07
+Igbo,139,nwatà o`ma,beautiful/good child,A good child,detailed,43.51
+Igbo,140,òke dì n’ūlo gwàrà n̄ke dī n’ama nà àzu dì na ngīga,(It is) the rat in the house that told the rat outside that there is fish in the perforated fish safe.,The rat in the house told the one in the bush that the fish is in the trap.,"{'type': 'summary_text', 'text': '**Parsing Igbo proverb**\n\nIt looks like there\'s a conflict here because the developer says to just output the result, but the user wants translation and reasoning. I’ll follow what the developer says, so I’ll provide just the translation. \n\nFor the sentence, it seems to mean: ""The rat in the house told the one in the bush that the fish is in the trap."" \n\nBased on my parsing, ""òké"" translates to ""rat,"" and ""ngīga"" likely refers to a ""trap."" I\'ll stick with just the translation as instructed.'}",41.35
+Igbo,141,A nà-àzụ̀ta ya azụ̀ta,It is something that can really be bought,People keep buying it.,detailed,8.68
+Igbo,142,"Kà ha nò n’ime òsìmìrì ahù , ebe o bu là bù mmiri m miri","When they were at sea, everywhere was water.","While they were in that river, where it was that I drank water.",detailed,40.46
+Igbo,143,Ó mo` is`é`.,He is skilful.,He knows how to work.,detailed,7.8
+Igbo,144,wâ jè,They went (Anīōma dialects).,Let’s go.,"{'type': 'summary_text', 'text': ""**Analyzing translation choices**\n\nI’m looking at the phrase “wèmìna ūkwu ūlò,” where “wè” seems to indicate a withdrawal, but I’m uncertain about the translation. My best guess is that it communicates something like “Come, let's go.” However, I wonder if “wâ jè” means simply “let's go.” So, I think I can translate it as “Let's go” for simplicity. It’s interesting how nuances in language can shift meanings!""}",3.09
+Igbo,145,O tòsìrì i`laÛ ùgbu à,He ought to go now.,He ought to have gone by now.,detailed,61.34
+Igbo,146,Ihe à nụnwà dià riskì.,This thing is risky!,This thing is risky.,detailed,93.01
+Igbo,147,ma ùma,"be extra, have remainder of",But it is good.,detailed,3.21
+Igbo,148,EjeÛela hà akwu`kwo`,They have gone to school.,Have they gone to school?,detailed,60.78
+Igbo,149,O gà-àbịa echī.,He will come tomorrow.,He will come tomorrow.,detailed,100.0
+Igbo,150,Mo là àlá,I dreamt.,I dreamt.,detailed,100.0
+Igbo,151,"Igwè, ò di`bèghì` nÙkè o zù`rù`",It was no bicycle that he bought.,"Igwe, it isn’t as much as he bought.","{'type': 'summary_text', 'text': '**Translating phrases**\n\nI\'m analyzing some phrases, starting with ""n\'uke"" which might mean ""with strength."" Then I consider ""o zuru"" which could mean ""he carried,"" but it doesn\'t fit well. Maybe ""n\'uke o zùrù"" means ""for the price he bought,"" but seems off too. I\'m leaning toward ""Igwè"" as an interjection like ""Indeed!"" or even ""Ah!"" This part of the language is tricky, especially with multiple meanings for words based on tone. I\'m trying to make sense of it all!'} {'type': 'summary_text', 'text': '**Considering translations**\n\nI\'m exploring the translation of a phrase that could mean ""it is not as big as he bought."" I’m thinking ""n\'ụ́kè"" might translate to ""as much as."" In Igbo comparisons, ""ọ dị̀ghị̀ n\'ókè"" means ""it is not to the extent,"" which helps clarify things. So, maybe it will be ""Igwe, it is not as much as he bought."" This might be referring to quantity, and I think this translation is coming together nicely!'}",34.95
+Igbo,152,O rīele jī.,He has eaten some yam.,He has eaten yam.,detailed,60.68
+Igbo,153,Àda agāghī èje Āba,Ada will not go to Aba.,Ada will not go to Aba.,detailed,100.0
+Igbo,154,O` gà zùwe ohī,He now steals.,He will steal.,detailed,32.38
+Igbo,155,O nà-èkpòsa ya ebe à,He is throwing it on this place.,He is spreading it here.,detailed,24.51
+Igbo,156,"Nwaànyī à jèèrè Àba, (n’ù̄tūtù̄).","This woman went to Aba, (in the morning).",This woman went to Aba (in the morning).,detailed,89.13
+Igbo,157,O ma-acho a,He will not look for it.,He is looking for it.,"{'type': 'summary_text', 'text': '**Deciding on phrasing**\n\nI need to choose the right phrasing here. I think ""He is looking for it"" fits best because ""acho"" suggests looking for something. But then there\'s ""ma-"" which could imply something habitual, although I don\'t think that\'s quite right in this case. So, sticking with ""He is looking for it"" seems like the clear choice. I\'ll go with that!'}",34.87
+Igbo,158,ītu n’anya,to be amazed at,to love/admire,detailed,11.05
+Igbo,159,Azu`Ûo`la hà akwu`kwo` ahù`,They have bought that book,They have bought that book.,detailed,98.98
+Igbo,160,O jèrè ahīa.,He went to market,He/She went to the market.,detailed,60.89
+Igbo,161,(Hà dì ) òle?,How many (are they)?,How many are they?,detailed,62.79
+Igbo,162,Òlee akwà o zù tàrà?,Which/where is the cloth she bought?,Which cloth did she buy?,detailed,25.98
+Igbo,163,Anyi gà-àhu unù echi n’ànyasì So n dè n'isi mbido o nwa ò zo,We shall you (pl.) tomorrow.,We will see you tomorrow evening; at the beginning the child ran away.,"{'type': 'summary_text', 'text': '**Translating smoothly**\n\nI’m thinking I need to combine two sentences: ""So at the beginning, the child ran away"" and ""We will see you tomorrow evening."" I want to make sure the translation flows well and connects the ideas effectively. It’s important that the transition feels natural while maintaining the intended meaning, so I’ll work on crafting a sentence that incorporates both thoughts seamlessly. Let’s see how it can come together!'}",28.46
+Igbo,164,"The phonology of Diogbe, a town in Udi, is very interesting for the fact that it operates an eleven vowel system","The phonology of Diogbe, a town in Udi, is very interesting for the fact that it operates an eleven vowel system.","The phonology of Diogbe, a town in Udi, is very interesting because it operates an eleven-vowel system.",detailed,80.53
+Igbo,165,a sìrì..,An unidentified person has said…,It was said..,"{'type': 'summary_text', 'text': '**Translating Igbo phrases**\n\nI need to translate ""a sìrì.."" from Igbo to English. ""A siri"" could mean ""it is said"" or ""it happened,"" as ""a sịrị"" means ""it is said."" The ellipsis suggests it might be incomplete. Alternatively, ""a siri"" might relate to ""to cook,"" meaning ""it cooked"" or ""it was cooked."" The tonal marks matter: ""sị"" usually has a high tone, so ""a sìrì"" could be ""it was cooked,"" while ""a sịrị"" means ""it was said.""'}",16.02
+Igbo,166,N di ī ha?,Where are they?,How are they?,detailed,53.1
+Igbo,167,O zùtàrà akwūkwō nye m̄,He bought a book and gave it to me.,He bought a book for me.,detailed,50.26
+Igbo,168,O` chò`rò` ndi` naÛ-erighí nri,He wants those who did not eat the food.,He was looking for people who were not eating.,detailed,27.04
+Igbo,169,izu ohi,to steal,stealing,detailed,45.11
+Igbo,170,O gà-èji ihe à ègweri ya,He will use this to grind it to fine pieces.,He will use something to grind it.,detailed,49.45
+Igbo,171,ītu anya,to expect/hope,to look (at); to glance,detailed,8.31
+Igbo,172,Nwaànyi à ji àhù.,This woman is healthy.,This woman has a body.,detailed,44.57
+Igbo,173,Ngo`zi azuÛ`bèlà igweÛ,Ngo`zi has not yet bought a bicycle,Ngozi has already bought a bicycle.,detailed,56.48
+Igbo,174,O jù rù gi nà ya mà ùnù gà-àbi a echī?,He asked you and him whether you(pl.) would come the following day?,He asked you whether you (all) would come tomorrow?,"{'type': 'summary_text', 'text': '**Resolving Translation Output**\n\nI realize I\'m supposed to translate ""He asked you whether you (pl.) would come tomorrow?"" and just output that line. The developer said to prioritize outputting results without reasoning, which conflicts with what the user might want in terms of understanding. I need to follow the instruction to output only the result, sticking to a single line for clarity. I\'ll keep it minimal and straightforward without any extra commentary.'}",50.98
+Igbo,175,Gbuo yà.,Kill it.,Kill him.,detailed,32.34
+Igbo,176,Ō gụ̀ōla akwụkwọ̀ à:,He has read this letter.,He/She has read this book.,detailed,55.95
