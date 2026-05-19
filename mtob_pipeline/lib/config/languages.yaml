@@ -1,0 +1,41 @@
+languages:
+  - name: Igbo
+    grambank_id: nucl1417
+    corpus:
+      type: flores
+      iso_639_3: ibo
+      script: Latn
+      split: devtest
+
+  - name: Basque
+    grambank_id: basq1248
+    corpus:
+      type: flores
+      iso_639_3: eus
+      script: Latn
+      split: devtest
+
+  - name: Georgian
+    grambank_id: nucl1302
+    corpus:
+      type: flores
+      iso_639_3: kat
+      script: Geor
+      split: devtest
+
+  - name: Korean
+    grambank_id: kore1280
+    corpus:
+      type: flores
+      iso_639_3: kor
+      script: Hang
+      split: devtest
+
+  - name: Chamorro
+    grambank_id: cham1312
+    corpus:
+      type: tatoeba_mt
+      pair: cha-eng
+      splits: [test]
+      mt_train: true
+      smol_config: null

@@ -1,0 +1,26 @@
+# Copy to run.yaml and edit. Load with: mtob prepare -c run.yaml
+
+output_dir: ./mtob_run
+prompt_modes: [zeroshot, typology, paratyp]
+directions: both
+limit: 100
+# no_limit: true
+test_size: 0.25
+seed: 42
+# full_test: true
+model: gpt-5.4-nano
+temperature: 0.3
+flores_split: devtest
+
+only_langs: [Igbo, Basque, Georgian, Korean, Chamorro]
+# exclude_langs: []
+
+# typology_json: typology.json
+# truncate_max_input_tokens: 268000
+# languages_config: mtob_pipeline/lib/config/languages.yaml
+# test_splits_dir: ./book_test_splits
+
+# tatoeba_test_only: true
+# tatoeba_splits: [test]
+# no_tatoeba_mt_train: true
+# smol_config: smolsent__en_cha
