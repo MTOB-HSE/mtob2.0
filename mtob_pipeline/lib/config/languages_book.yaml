@@ -1,0 +1,40 @@
+languages:
+  - name: Igbo
+    grambank_id: nucl1417
+    corpus:
+      type: csv
+      path: emenanjo2015_parallel_extracted.csv
+      en_column: translation
+      lang_column: object_language
+
+  - name: Basque
+    grambank_id: basq1248
+    corpus:
+      type: csv
+      path: hualde2003_parallel_extracted.csv
+      en_column: translation
+      lang_column: object_language
+
+  - name: Georgian
+    grambank_id: nucl1302
+    corpus:
+      type: csv
+      path: hewitt1995georgian_parallel_extracted.csv
+      en_column: translation
+      lang_column: object_language
+
+  - name: Korean
+    grambank_id: kore1280
+    corpus:
+      type: csv
+      path: martin1992_parallel_extracted.csv
+      en_column: translation
+      lang_column: object_language
+
+  - name: Chamorro
+    grambank_id: cham1312
+    corpus:
+      type: csv
+      path: chung2020_parallel_extracted.csv
+      en_column: translation
+      lang_column: object_language

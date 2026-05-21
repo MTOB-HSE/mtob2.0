@@ -1,0 +1,30 @@
+grammars:
+  - id: chung2020
+    language: Chamorro
+    book_title: 'Sandra Chung (2020) "Chamorro Grammar"'
+    pdf: data/pdfs/chung2020chamorro.pdf
+    output_csv: chung2020_parallel_extracted.csv
+
+  - id: emenanjo2015
+    language: Igbo
+    book_title: 'Emenanjo (2015) "A Grammar of Contemporary Igbo"'
+    pdf: data/pdfs/emenanjo2015grammar.pdf
+    output_csv: emenanjo2015_parallel_extracted.csv
+
+  - id: hualde2003
+    language: Basque
+    book_title: 'Hualde & Ortiz de Urbina (2003) "A Grammar of Basque"'
+    pdf: data/pdfs/hualde2003grammar.pdf
+    output_csv: hualde2003_parallel_extracted.csv
+
+  - id: hewitt1995georgian
+    language: Georgian
+    book_title: 'Hewitt (1995) "Georgian: A Structural Reference Grammar"'
+    pdf: data/pdfs/hewitt1995georgian.pdf
+    output_csv: hewitt1995georgian_parallel_extracted.csv
+
+  - id: martin1992
+    language: Korean
+    book_title: 'Martin (1992) "A Reference Grammar of Korean"'
+    pdf: data/pdfs/martin1992reference.pdf
+    output_csv: martin1992_parallel_extracted.csv

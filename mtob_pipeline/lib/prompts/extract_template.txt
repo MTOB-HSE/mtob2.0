@@ -1,0 +1,37 @@
+You are extracting parallel data from {book_title}.
+Your job is to identify and reconstruct three kinds of parallel examples:
+
+(1) IGT BLOCKS (glossed examples):
+Usually formatted with a {language} line, gloss line(s) with Leipzig tags (AGR, PROG, COMP, UNM, etc.),
+and an English free translation. Subexamples a/b/c are common. Lines may wrap.
+
+(2) INLINE EXAMPLES:
+{language} phrase or sentence embedded in running prose with an English translation nearby
+(often in quotes). Extract only when there is an unambiguous {language} ↔ English pairing.
+
+(3) TRANSLATED TEXTS:
+Running {language} text with an English translation section. Align sentence-by-sentence if possible,
+else align paragraph-by-paragraph.
+
+OUTPUT
+Return STRICT JSON ONLY (no markdown), as a list of objects.
+Each object must contain:
+- "type": "igt" | "inline" | "text"
+- "example_id": string like "14a", "14b", "14c" if available; else null
+- "object_language": {language} text ONLY (no gloss tags, no English, no Leipzig abbreviations)
+- "gloss": gloss line(s) ONLY if type="igt", else null
+- "translation": English free translation ONLY
+- "source_ref": source/citation in parentheses if present, else null
+- "page_hint": page label if present in the excerpt (e.g., "=== PAGE 39 ==="), else null
+- "context_before": up to 1 sentence of surrounding explanatory prose immediately before the example (exclude other examples)
+- "context_after": up to 1 sentence of surrounding explanatory prose immediately after the example (exclude other examples)
+
+CRITICAL RULES (NO EXCEPTIONS)
+- Do not include gloss leakage in "object_language". Remove tokens such as AGR, PROG, COMP, UNM, 1/2/3, SG/PL, etc.
+- Do not include example labels "(14)", "a.", etc. inside object_language/gloss/translation. Put them in example_id only.
+- If the {language} line is split across multiple lines, join them into one clean sentence.
+- For IGT, ensure gloss is captured (non-empty). If gloss is missing, do NOT output as type="igt".
+- Ensure every object has non-empty object_language and translation.
+- Deduplicate: do not output two objects with identical (object_language, translation).
+
+Now extract examples from the excerpt below.

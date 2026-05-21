@@ -1,0 +1,11 @@
+# Copy to extract.yaml at repo root. Run from repo root:
+#   python mtob_pipeline/mtob.py extract -c extract.yaml
+
+grammars_config: mtob_pipeline/lib/config/grammars.yaml
+# prompt_template: mtob_pipeline/lib/prompts/extract_template.txt
+output_dir: .
+model: gpt-5.2
+max_chars: 36000
+overlap_pages: 1
+
+# only_grammars: [chung2020, emenanjo2015]
