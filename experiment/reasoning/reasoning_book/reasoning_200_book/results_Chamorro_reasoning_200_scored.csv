@@ -1,0 +1,435 @@
+Lang,Index,Source,Reference,LLM_Translation,Reasoning_Summary,BLEU,ChrF,METEOR
+Chamorro,0,Ennåo na mumentu na ha tutuhun tumailayi i rilihon-mu.,It’s at that moment that your religion begins to be unkind.,That was the moment your religion began to waver.,detailed,8.639795714750207,44.00960174487132,46.6686674669868
+Chamorro,2,Fåttu mågi agupa’ ya bai hu nå’i håo ni malago’-mu.,Come back tomorrow and I will give what you want.,Come here tomorrow and I’ll give you what you want.,detailed,29.982213893423374,63.10935897157167,76.82980599647267
+Chamorro,3,Ti u’uchan.,It is no longer raining.,It won’t rain.,"**Translating Chamorro phrases**
+
+I'm trying to translate ""Ti u’uchan."" I think ""umuchan"" means ""it rained,"" while ""u’"" might signify first-person singular in a realis context. So, I'm leaning towards ""It didn't rain"" or ""I didn't rain."" Since ""rain"" is impersonal, ""It did not rain"" seems fitting. The phrase ""Ti umuchan dididi'"" gives examples of when it rained a little. But for ""Ti u’uchan,"" I’ll say, ""It won't rain,"" combining negation with future tense. I’ll share this final translation, although I'm torn since the developer prefers just the result without further explanation.",11.521590992286539,16.058633119873218,42.592592592592595
+Chamorro,5,Meggai hånum.,There’s a lot of water.,A lot of water.,detailed,54.75182535069452,55.75703583087306,64.67532467532467
+Chamorro,6,Fatå’chung guennåo ya un ketu.,Sit there and keep still.,Sit there like that and stay still.,detailed,16.515821590069034,50.45890186165683,71.93548387096776
+Chamorro,7,put i lina’la’ yan sinientin i taotåo siha,about the lives and feelings of people,About the lives and feelings of the people.,detailed,46.713797772820016,85.44450101230348,88.15192743764172
+Chamorro,8,Chetdan tanduki i mås ya-hu na chotda.,Tanduki banana is my favorite banana.,Plantain bananas are the bananas I like the most.,detailed,4.196114906296549,31.971367231845054,20.54794520547945
+Chamorro,9,Manmahulat ham ni mañaina gi hunta.,We (excl.) were subdued by the parents at the meeting.,We were written down by the parents at the meeting.,"**Clarifying meanings of ""mahulat""**
+
+I'm exploring the meaning of ""mahulat."" I initially thought it could be related to ""to vote,"" but I'm not sure. In Chamorro, I found ""hulat"" means ""write,"" which leads me to think ""mahulat"" could be ""written."" So ""manmahulat ham"" might mean ""we wrote"" or ""we were written"" by the parents during a meeting. This could suggest something like ""registered"" or ""enrolled,"" perhaps in a context like ""We were written down by the parents at the meeting.""",46.26266998613165,59.35006792658246,64.47688564476887
+Chamorro,10,ginin i asaguå-ña,from his wife,from his wife,detailed,100.00000000000004,100.0,98.14814814814815
+Chamorro,11,Manrinimåta siha i famalåo’an ni taotåo ginin i lanchun-ñiha.,The women had been chased away from their farm by the man.,The women who were people from their ranch were watching.,detailed,9.345091860762494,34.05369286368856,29.062500000000004
+Chamorro,13,Bula ginimen-mu letchi.,You drank a lot of milk (today).,You drank a lot of milk.,detailed,54.77927682341229,70.64185269577042,71.32337471070903
+Chamorro,14,Hu na’hånåo paketi para i dos lahi-hu.,I sent a parcel to my two sons.,I sent a package for my two sons.,detailed,43.167001068522524,61.22904075401948,76.87074829931973
+Chamorro,15,Na’banidosu håo ni lingguahi-mu.,Be proud (lit. make yourself proud) of your native language.,Be proud of your language.,detailed,7.411578198219063,33.53783577788621,38.72053872053872
+Chamorro,16,Ma li’i’ i hagas pumoksai siha na tåotåo.,They saw the people who nurtured them in the past.,They saw the people from long ago rise up.,"**Translating Chamorro phrases**
+
+I’m trying to infer meanings from the Chamorro phrases. “Ma li’i’ i hagas pumoksai siha na tåotåo” might refer to ancient people coming back to life or rising up. I’m considering that “pumoksai” could relate to “to come out” while “hagas” means “long-standing” or “from long ago.” All together, I think it could plausibly translate to: ""They saw the people from long ago who had risen.""
+**Exploring Chamorro translations**
+
+I'm considering a few different interpretations of the phrase. It might mean ""They saw the ancestors or spirits of long ago."" The term ""pumoksai"" could refer to those who existed long ago. Another option I thought about is that ""hagas pumoksai"" might suggest ""long ago departed."" 
+
+I’m playing around with ""hagas"" potentially meaning ""really"" or ""surely,"" and even considering its connection to “truth.” So, it could translate to ""the truth that people rose up.""
+**Analyzing sentence structure**
+
+I'm breaking down the structure of the phrase ""i hagas pumoksai siha na tåotåo."" It seems to follow a noun phrase format: article ""i,"" modifier ""hagas,"" verb ""pumoksai,"" plural ""siha,"" and linker ""na."" This could lead to “the real resurrected people.” 
+
+I also consider ""hagas"" could mean ""true,"" or as a noun like ""the past."" Overall, I lean towards translating it as ""They saw the people from long ago rise up,"" perhaps referring to ancestors.",25.13293635022765,41.73573679119287,34.12844036697248
+Chamorro,17,Pumåra hu sienti i taotåo siha gi uriyå-hu.,I stopped feeling the people around me.,I felt the people around me pass by.,detailed,33.03164318013807,53.8611025762607,83.01839254220205
+Chamorro,18,Ha poksai båtbas achai-ña si Tatå-hu ya nina’måtan åmku’.,My father grew a beard on his chin and it made him look older (lit. be old-faced).,"My father broke his ankle, and an old man saw it.",detailed,4.3941800929564945,21.31259550897173,26.338180693069308
+Chamorro,19,"Guaha na åtgidun mampus å’paka’, guaha åhi’.","Some cottons are very white, some (are) not.",There was a very white shadow; there was smoke.,detailed,7.574347133041985,26.48711543909787,21.475256769374415
+Chamorro,20,i tiempok-ku på’gu guini,my time here today,My time is here now.,detailed,9.652434877402245,31.080673271498004,89.28571428571429
+Chamorro,21,I lugat-måmi an ogga’an mampus å’asgun.,Our (excl.) place is always so foggy in the morning.,Our place was very quiet this morning.,detailed,6.204321855952011,28.773372068862663,23.554104477611936
+Chamorro,22,Hu nigosiu yan i primu-hu i tano’-ña.,I agreed with my cousin on his property.,I negotiated with my cousin for his land.,"**Translating Chamorro sentence**
+
+I need to translate the sentence ""Hu nigosiu."" It seems ""hu"" is a first-person agent prefix and ""nigosiu"" could come from the Spanish word for business, possibly meaning ""to do business"" or ""business."" So it might mean ""I did business"" or ""I worked."" The full sentence ""Hu nigosiu yan i primu-hu i tano’-ña"" could translate to ""I did business with my cousin about his land."" The structure looks like a verb plus a noun phrase.",21.10534063187263,45.3602123308078,56.79012345679012
+Chamorro,23,Sen ma’å’ñåo si Juan ni dangkulun pakpak gi paingi.,Juan was terrified by (lit. extremely afraid of) the loud noise last night.,Juan was very afraid of the big bat last night.,detailed,12.28742276615499,36.55557425752235,45.731707317073166
+Chamorro,24,Kada diha humånåo pumeska si Orasima’.,Every day Orasima’ went to fish.,Every day Orasima went fishing.,detailed,16.341219448835542,64.23765525939439,72.11538461538461
+Chamorro,25,Ti todu mana’amti manparehu amut-ñiha.,Not all healers have the same medicine.,Not all medicines are the same.,"**Translating Chamorro**
+
+I need to translate the Chamorro sentence: ""Ti todu mana’amti manparehu amut-ñiha."" The developer instructs me to output just the result without reasoning, so that's my priority. The translation would likely mean ""Not all medicines are equally effective."" Breaking it down, ""Ti"" means not, ""todú"" means all, ""mana’amti"" could refer to being treated or healthy, and ""amut"" means medicine. ""Manparehu"" translates to equal or alike. Overall, it conveys that not all medicines work the same way.
+**Clarifying Chamorro Translation**
+
+I’m considering different translations for the Chamorro phrase ""Ti todu mana’amti manparehu amut-ñiha."" One possibility is ""Not all patients get the same medicine,"" but I'm also thinking ""mana'amti"" might imply being ""cured"" or ""healthy."" If ""amti"" relates to medicine, this could lead me to the phrase meaning something similar to ""not all treatments are alike."" Ultimately, for simplicity, I think ""Not all medicines are the same"" captures the essence well, especially since ""manparehu"" means equal.",17.026116978186877,51.617436821210816,64.69760900140648
+Chamorro,26,Ha tutuhun humomhum gi sanhiyung.,It began to get dark outside.,It began to thunder outside.,detailed,32.159351091190125,57.671893006561206,70.14492753623188
+Chamorro,27,Hu diseseha na i finattun esti i kattåk-ku en fansinedda’ tudus manbråbu ....,I’m hoping that the arrival of my letter will find you all well...,I wish that this curse of mine would come upon all the wicked people ....,detailed,9.880782578056978,21.52929877205075,15.723270440251572
+Chamorro,28,Bula tåotåo nigap.,There were lots of people yesterday.,There were many people yesterday.,detailed,32.159351091190125,70.69567318837017,70.14492753623188
+Chamorro,29,Ai na minaggim esta esti na biskuchu.,"My, this biscuit is so stale already.","Oh, this biscuit/cake is already sweet.",detailed,18.575057999133595,51.82059475780222,41.79775280898876
+Chamorro,30,Achamayamak i dos tumobit anai umasufa’.,Both vehicles got wrecked when they collided.,The two of them both collapsed when they suffered.,detailed,9.287528999566801,34.15707138258225,38.49085365853659
+Chamorro,31,Yan-ñiha kumassi i famalåo’an si Juan.,The women like teasing Juan.,The women like teasing Juan.,detailed,100.00000000000004,100.0,99.76851851851852
+Chamorro,32,Manmapegåyi krusifiu kada kuåttu.,Each room had a crucifix placed in it.,Crucifixes were put up in every room.,"**Translating Chamorro Sentence**
+
+I need to translate the Chamorro sentence ""Manmapegåyi,"" which seems to have a plural, passive form. The prefix ""man-"" makes it plural, and ""ma-...-yi"" indicates a passive construction. ""Pegåyi"" might come from ""pega,"" meaning to attach or hang. Given my analysis, ""Manmapegåyi"" likely means ""Crucifixes were hung in every room,"" or ""They hung a crucifix in each room."" However, I'm sticking to outputting just the translation as the developer instructed.",6.413885305524152,24.82842261763285,28.089887640449433
+Chamorro,33,Båba i para un fåla’ i guihan.,For you to eat the fish raw is not good.,Lower it so you can fillet the fish.,detailed,9.080027618567454,28.608185015273712,29.224537037037035
+Chamorro,34,i atadok-ña i taotåo,a person’s eyes,The person’s shadow.,detailed,15.97357760615681,50.22841610843856,57.73420479302832
+Chamorro,35,Na’tutungu’ ham håfa hinassosom-mu put esti na che’chu’-måmi.,Keep on letting us (excl.) know what you think about this work of ours (excl.).,Let us know what you think about this work of ours.,detailed,32.457630523675434,58.236839218101025,56.69642857142857
+Chamorro,36,Ha nå’i si Lucy nu i amut åntis di måtai.,She gave Lucy the medicinal knowledge before she died.,He gave Lucy medicine before she died.,"**Translating Chamorro Sentence**
+
+I'm working on translating a Chamorro sentence. The phrase ""Ha nå’i"" translates to ""3rd person singular ergative give,"" and ""si Lucy"" is indicating the proper noun Lucy. I'm trying to figure out what ""nu"" means; it could signify ""to/with/by."" In Chamorro, ""nå’i"" is often used with a recipient marked as ""guatu ni."" 
+
+The example ""Ha nå’i guatu ni na’-ña ya sinangåni"" means ""She gave him his food."" Analyzing the next sentence, ""Ha nå’i si Lucy nu i amut åntis di måtai,"" it likely translates to ""Lucy gave someone the medicine before dying."" This is all quite interesting!
+**Clarifying Chamorro Syntax**
+
+I'm dissecting the phrase ""Ha nå’i si Lucy nu i amut."" It seems likely that it's saying ""He/She gave Lucy medicine before she died."" In this case, Lucy is the recipient, and the medicine is the theme. The word ""nu"" could be marking the theme, but since ""nå’i"" translates to ""give,"" it might suggest ""giving Lucy medicine"" rather than ""giving with medicine."" 
+
+Now, I wonder if ""nu"" indicates an indirect object. However, the examples I see, like ""Ha presta yu’ singku tåsan pugas,"" don’t use ""nu,"" which raises questions! I'm eager to make sense of all this!
+**Analyzing Chamorro Syntax**
+
+I'm trying to clarify how ""guatu"" (to him) and ""ni na'-ña"" (his food) interact in the sentence. It seems ""ni"" might mark the theme, but I'm not entirely sure. Then there's the phrase ""Ha nå’yi i maseta meggai na odda’,"" which I believe translates to ""I put a lot of soil in the vase."" So, ""nå’i"" can mean ""put"" as well as ""give.""
+
+Returning to ""Ha nå’i si Lucy nu i amut åntis di måtai,"" it could imply ""He gave/put medicine to Lucy before she died."" But I wonder about the default subject, which seems to be third person. I'm left wondering who exactly is dying here!",32.01911827891038,57.314063287543185,68.61724281549355
+Chamorro,37,Si Juan ha sakkengguan i famagu’un ni i bisikletan-ñiha.,Juan stole the children’s bicycle.,Juan passed the children on their bicycles.,"**Translating a sentence**
+
+I need to translate the sentence: ""Si Juan ha sakkengguan i famagu’un ni i bisikletan-ñiha."" Here’s my breakdown: ""Si Juan"" indicates the name Juan; ""ha"" likely marks a third-person action. The word ""sakkengguan"" might relate to carrying or chasing away. Then, ""famagu’un"" translates to children, and ""i"" is a definite article. Looking at ""ni,"" it seems to link nouns, suggesting it's genitive. I think ""i famagu’un ni i bisikletan-ñiha"" means ""the children with their bicycles,"" not ""of their bicycles.""
+**Interpreting Chamorro verb meaning**
+
+I’m trying to decipher the function of ""ni"" in this context. It might mark the object, but I’m considering the passive form in Chamorro. The verb ""sakkengguan"" could mean ""hit"" or ""strike,"" or maybe it's related to ""kick."" I wonder if it connects to the Spanish ""saque""? But could it imply Juan returning or borrowing the children's bicycles? There’s also ""sakkeng"" meaning ""to return"" or ""to escort."" I'm piecing together ""ha [verb] i famagu’un ni i bisikletan-ñiha"" for clarity.
+**Clarifying Chamorro structure**
+
+I'm thinking about how ""ni i bisikletan-ñiha"" might modify ""famagu'un,"" suggesting it means ""the children who have their bicycles."" Alternatively, ""i famagu’un ni i bisikletan-ñiha"" could mean ""the children with their bicycles."" Now, the verb ""sakkengguan"" has me uncertain. Maybe it implies ""to confiscate"" or possibly ""to stop,"" but I'm trying to fit it into the context, perhaps meaning ""Juan confiscated the children's bicycles."" It looks like the possessed noun structure aligns with Chamorro grammar, where the possessor comes after the possessed.
+**Analyzing bicycle ownership**
+
+I'm exploring the phrase ""their bicycles,"" which translates to ""i bisikletan-ñiha."" To express ""the children's bicycles,"" it could be ""i bisikletan i famagu'un,"" since ""-n"" serves as a linker for possessed nouns in Chamorro. Now, I’ve got ""i famagu'un ni i bisikletan-ñiha,"" but that doesn't seem right as “the children of their bicycles.” I'm considering if ""ni"" serves as a passive marker or an agent marker. Could ""sakkengguan"" mean ""to catch up with""? Maybe it indicates ""Juan passed the children on their bicycles.""
+**Deciding on translation focus**
+
+I'm analyzing ""sakkengguan,"" which might end in -an, indicating a locative or nominalizer, but with a ""ha"" prefix, it could indicate a perfective transitive form. If I consider ""sakkeng"" maybe related to ""to run over,"" I'm contemplating its possible Arabic root and the potential influences from Spanish. I’m circling back to translations: perhaps ""Juan passed the children on their bicycles."" But I'll stick with the simplest phrasing despite my uncertainties. So, I will just output: ""Juan overtook the children on their bicycles.""",7.267884212102741,53.11271944814406,55.75
+Chamorro,38,Hu adibibina kåo para bai hu fåhan pat mungnga.,I am deciding whether I should buy it or not.,I was thinking about whether I should buy it or not.,detailed,63.15552371794033,68.83918816274699,80.63619174730286
+Chamorro,39,Tåya’ umagradesi ma’umiya gi me’nan tåotåo.,There’s no one who appreciates being humiliated in front of people.,No one thanked us in front of the people.,detailed,16.830386789031852,29.34365837022903,49.44477791116447
+Chamorro,40,Måttu i hagan Herodihas mismu gi giput.,‘The daughter of Herodias herself came in to the party.’,Herodias’s own daughter came to the party.,"**Translating Chamorro sentence**
+
+I need to translate a Chamorro sentence into English: ""Måttu i hagan Herodihas mismu gi giput."" I have some vocabulary already: ""måttu"" means came or arrived, and ""i"" is the. I'm debating on ""hagan"" — it might mean ""daughter"" or could be ""wife."" I think ""hagan"" is more likely ""child/daughter."" ""Herodihas"" seems to reference the biblical figure Herodias. So it might mean something like ""Herodias herself's daughter came to the party.""
+**Deciding on translation structure**
+
+I’m looking at the word ""hagan,"" which I think could mean ""day"" in Chamorro. There's also ""haggan"" for turtle. The context from the biblical story of John the Baptist suggests that ""hagan"" refers to the daughter of Herodias, who came to dance at a birthday party. I want to provide the translation of that sentence first. However, I have to follow the developer's instruction and only output the translation in one line, without my reasoning.",23.206041459353084,50.98052875319795,55.30265748031496
+Chamorro,41,Ha istotba ham na binisita i hagan-måmi as Manuel.,That Manuel visited our (excl.) daughter disturbs us (excl.).,"He stopped us from visiting our child, Manuel.",detailed,3.2567594431760947,20.692474837509252,24.155844155844157
+Chamorro,42,"Dångkulu i tuninus na gå’ga’, låo dangkulonña i bayena.","Dolphins are big sea animals, but whales are bigger.","The tuna is a big fish, but the whale is bigger.",detailed,9.238430210261097,28.086790397669247,45.63492063492063
+Chamorro,43,Gi lamasa esti na låpis.,This pencil is on the table.,This pencil is on the table.,detailed,100.00000000000004,100.0,99.85422740524781
+Chamorro,44,Ha håyu yu’ si Juan.,Juan hit me with a stick.,Juan called me.,"**Translating a Chamorro sentence**
+
+I need to translate the Chamorro sentence ""Ha håyu yu’ si Juan."" I think ""håyu"" relates to 'call' or possibly 'name.' It also might mean 'to search' or 'to summon.' After considering the structure, it seems ""Ha"" indicates the third person acting, ""håyu"" as 'to call,' and ""yu'"" as 'me.' So the best translation is: ""Juan called me."" I'll provide this translation first, then explain my reasoning.",9.930283522141846,14.930424517085935,22.388059701492537
+Chamorro,45,Hu poksai sais na famagu’un ya hu na’fandångkulu.,I nurtured six children and made them grow up.,I raised six children and brought them up.,detailed,21.721856265678966,49.863322289348005,64.11049268192124
+Chamorro,48,Håyi chinatgem-mu / chinatgi-mu?,Who did you laugh at?,Who did you laugh at?,detailed,100.00000000000004,100.0,99.76851851851852
+Chamorro,49,Todu tåotåo malagu’ mumå’gas.,Everybody wants to be boss.,Everyone wants to be the boss.,detailed,30.739407647563215,58.18647125888886,79.34426229508196
+Chamorro,50,Yanggin masahalum håo nai mås lalålu’ i gupu’ na chetnut.,When you sweat is when the skin fungus gets more aggressive.,"If you sweat, the severe illness will lessen.",detailed,8.171014300726602,24.811541516413303,26.7478813559322
+Chamorro,51,Sumuha gi fi’on-ña.,[The lights] moved away from him.,He put it in his pocket.,"**Translating Chamorro**
+
+I need to translate the Chamorro sentence ""Sumuha gi fi’on-ña."" It seems to mean ""He/She put it in his/her pocket."" I parse ""gi"" as the locative ""in/at,"" and ""fi’on"" as ""pocket."" The ""-ña"" indicates possession. The verb ""Sumuha"" likely means ""to put in,"" possibly implying an actor focus with the infix. I think the best translation is ""He put it in his pocket."" However, it’s clear I'm supposed to avoid reasoning and stick to just the translation output.",4.935157841536379,6.386589503134769,5.6818181818181825
+Chamorro,52,Manma’å’ñåo i ma’estra manmasohyu’ i istudiåntis.,(The teachers are afraid to influence the students.),The teachers were afraid that the students were teasing them.,"**Translating Chamorro phrases**
+
+I need to translate the sentence: ""Manma’å’ñåo i ma’estra manmasohyu’ i istudiåntis."" It likely means ""the teachers were afraid (that) the students would answer or be noisy."" Parsing the words, ""manma'å'ñåo"" means ""were afraid"" (plural), and ""i ma'estra"" refers to ""the teacher(s)."" For ""manmasohyu’,"" I'm not sure; it might relate to being scolded. I'm contemplating if it indicates the students were misbehaving. The nuances are tricky!
+**Interpreting Chamorro verbs**
+
+I’m thinking about the Chamorro word ""sohyu'."" Could it mean ""to struggle""? I’m trying to connect that to the phrase ""ma'estra manmasohyu' i istudiåntis,"" which may imply ""the teacher scolded the students."" The verb ""masohyu'"" likely means to discipline, and the ""man-"" prefix suggests a plural subject, indicating the students are the focus. I’m considering the structure might show two clauses in VSO order, so it could be saying something like ""the teacher is afraid the students will tease.""
+**Analyzing Chamorro structures**
+
+I'm examining how the prefix ""man-"" indicates a plural subject for verbs. This could mean ""the students misbehaved,"" which might explain why the teacher is afraid. However, I’m also considering that ""ma'estra"" could still refer to a singular teacher, leading to interpretations like ""the teachers were frightened."" It fits with examples I've seen. The rest of the phrase, ""manmasohyu’ i istudiåntis,"" might suggest that the teachers were afraid of teasing students. I’m also wondering if ""sohyu'"" could mean ""to fight"" or respect, but I’m still refining my understanding!
+**Deciphering Chamorro meanings**
+
+I’m trying to interpret the sentence about teachers and students. Initially, I considered it might say, ""The teachers were scared because the students were being naughty."" However, I’m also thinking it could mean, ""The teachers were afraid the students would protest."" If I connect it to ""sohyu',"" I recall it might relate to obeying or respecting. So, if ""manmasohyu’ i istudiåntis"" means the students obeyed, that doesn’t fit the context of teachers being afraid. I’m wondering if ""sohyu'"" might also mean to hit or punish, which changes the meaning significantly.
+**Translating with clarity**
+
+I’m working through the structure of the sentence. If the verb means ""to punish,"" the subject is singular, which complicates things. In the VSO structure, ""manma’å’ñåo"" indicates the teachers were afraid, with ""i ma’estra"" as the subject and ""manmasohyu’ i istudiåntis"" suggesting the students teased. So, the final thought here is that it could translate to ""The teachers were afraid the students were teasing them."" However, the developer's instruction is to focus only on the output, so I’ll stick to just the translation.",11.731175160263996,56.04645493500928,46.464646464646464
+Chamorro,53,Manhinalang i Chapanis ya manpåra manggera.,The Japanese surrendered and they stopped fighting.,The Japanese surrendered and stopped fighting.,detailed,51.54486831107658,86.13994680838604,87.57427021441488
+Chamorro,54,Manmanåga’ bula na månha.,They chopped many young coconuts.,A lot of mosquitoes are breeding.,"**Translating Chamorro sentence**
+
+I need to translate the Chamorro sentence, focusing on ""Manmanåga’."" It seems it could be related to ""manåga’,"" implying ""to hang around,"" but I'm not entirely certain. I see ""bula,"" which means ""many"" or ""a lot,"" and there are phrases like ""Bula famalåo’an gi tenda"" meaning there are many women at the store. 
+
+Now I'm considering if ""månha"" means ""mosquitoes"" or something else. I wonder if ""månha"" could refer to ""mangoes""? It seems ""Manmanåga’"" might mean ""to lay eggs repeatedly,"" indicating a progressive or repetitive action.
+**Exploring Chamorro meanings**
+
+I’m trying to figure out what ""manmanåga’"" means. Could it imply ""to give birth"" or ""to cry""? I don't think that fits. Maybe it's a combination meaning ""are waiting""? Or maybe ""manåga’"" means ""to cause,"" but I'm not sure. I've been looking up this word. 
+
+What if ""månha"" refers to mosquitoes, as ""ñamu"" is mosquito? But then, could ""manmanåga’ bula na månha"" mean ""a lot of people are gossiping""? Perhaps ""månha"" relates to gossip or worries? I’m really piecing this together!
+**Analyzing Chamorro word meanings**
+
+I’m exploring the possible meanings of the word ""månha."" I wondered if it refers to ""old ladies"" or ""fishermen,"" but that doesn't seem right. Perhaps it relates to ""manja"" or ""manga"" in Spanish?
+
+I’m thinking ""manmanåga’"" could mean ""laying eggs,"" given that ""mañåda’"" means ""to lay eggs."" Could ""månha"" refer to ""hens"" or possibly ""moths""? 
+
+I’m interpreting ""Manmanåga’ bula na månha"" as ""There are many (månha) begging."" And I wonder if ""månha"" could mean ""ants"" or even ""flies""? I'm piecing together these connections!
+**Interpreting Chamorro phrases**
+
+I’m considering ""bula na månha,"" and I'm wondering if it could mean ""a lot of termites,"" since ""båtot"" is termite. There’s also a possibility that ""månha"" refers to ""months,"" but that doesn't seem right. 
+
+Now, I'm examining the word ""manmanåga’,"" noting that the prefix indicates a plural or continuous action. The root ""någa’"" might not mean ""crawl,"" but rather could mean ""to multiply."" So, perhaps ""Manmanåga’ bula na månha"" translates to ""There are many termites multiplying."" 
+
+But still, I’m contemplating if ""månha"" could mean ""mosquitoes"" or even ""sandflies.""",6.567274736060395,9.879596591732414,8.196721311475411
+Chamorro,55,"Yanggin måttu håo manbisita, siempri guaha [inefresi håo].","If you come to visit, he will surely offer you something (lit. there is surely something that you’ll be offered by him).","Whenever you come to visit, there is always something offered to you.",detailed,13.52675760521631,37.12719363153777,29.04583020285499
+Chamorro,56,Gef fåhna i manyommuk na pineksai-ña na babui.,The fat pigs that he raised were very much in demand.,The pig with the dirty snout stinks really bad.,detailed,4.085507150363302,17.551552819171455,12.711864406779657
+Chamorro,57,Manmaguåssan todu i masiksik låhi gi hiyung gimå’-ña si Antonetta.,The triumfetta semitriloba grasses were all mowed outside Antonetta’s house.,All the hardworking boys washed outside Antonetta’s house.,detailed,23.89997677137506,44.052366656663715,60.852050781250014
+Chamorro,58,Ti manlipåra si Miguel ni karetan ni unu.,Miguel didn’t notice anyone’s car.,Miguel didn’t stop anyone’s car.,detailed,37.99178428257963,70.71765962456466,89.50617283950618
+Chamorro,59,Måolekña na un chotchu gollai yanggin malångu håo.,It is better that you eat vegetables if you’re sick.,It’s good for you to eat vegetables when you’re sick.,detailed,18.36028134946796,52.24546857795711,65.18892630003741
+Chamorro,60,Yanggin håfa på’gu masångan gi halum i familiåk-ku …,If anything now was said within my family…,If what is being said now in my family …,detailed,5.934202609760488,42.49526993924292,24.390243902439025
+Chamorro,61,Un kebrånta håo muna’lagu låo ni håfa tiningo’-mu.,"You came forward about cooking, but you know nothing (about it).","You get offended right away, but what do you know.",detailed,8.255532360766697,20.862930517093947,34.76946334089192
+Chamorro,62,"Ai, linalalo’-ña i patgun anai machule’guan ni na’-ña kandi.","My, how angry the child was when somebody took his candy!","Oh, the child was lured away when someone gave him candy.",detailed,13.67440667823257,41.670366990752946,39.31623931623932
+Chamorro,63,Yanggin ilelek-mu na disgråsia i ti para un li’i’ bunitå-ña i palåo’an ni un guaiya ...,If you say that it’s a shame that you will not see the beauty of the woman you love...,If you said it was a tragedy that you would not get to see the beauty of the woman you love...,"**Deciding on translation output**
+
+The user is asking for reasoning after the first line, which conflicts with instructions that prioritize a single translation. I need to focus on providing just the translation with clarity and conciseness. My best guess for the translation is: ""If you said it was a disgrace that you would not get to see the beauty of the woman you love..."" followed by an ellipsis. Let's keep it straightforward!",48.9886422224093,65.63357830108045,75.57407989933941
+Chamorro,64,Tåya’ sa’ på’gu ha’ yu’ ni måttu.,She doesn’t have [a chart] because it’s just now that I’ve come [to the hospital].,"So far, I’m the only one who has arrived.","**Translating sentence structure**
+
+I’m exploring the structure of the phrase, breaking it down into parts. The translation is ""there is none yet, now, only me, who arrived."" So, it conveys, ""So far, I'm the only one who has arrived."" That interpretation seems plausible. Now, I'll provide that translation clearly for anyone interested in understanding the components and the full meaning. Let's make sure it's clear and accessible!",1.9665244988381108,10.155045808082455,12.77834008097166
+Chamorro,65,Baba dididi’ i bintåna ya u guaha gueha.,Open the window a little bit to ventilate.,Lower the window a little and it will be there.,detailed,24.808415001701817,48.15852760686973,52.60869565217392
+Chamorro,66,Mansinangåni as Juan todu i bidåda-ña kada diha.,Juan told them all the things he had been doing every day.,They told Juan all about his activities every day.,detailed,13.76074141597786,30.628799727455775,40.24496937882765
+Chamorro,67,Guaguan åntis i liluk na materiåt.,Iron was an expensive material a long time ago (lit. before).,Nail materials used to be expensive.,"**Deciphering translation nuances**
+
+I'm exploring the metaphorical use of ""liluk,"" which means ""nail,"" and how it connects to ""material."" The phrase ""i liluk na materiåt"" seems to translate to ""the nail material,"" possibly indicating various materials like nails. I notice a lack of conjunction ""yan,"" which is interesting. It could suggest that ""liluk"" modifies ""material,"" leading me to a translation along the lines of: ""Nail materials used to be expensive."" Or perhaps, ""Nails used to be expensive materials.""",2.490612326425251,30.62118993640408,10.563380281690142
+Chamorro,68,Pues ekkunguk sa’ håfa na para Ifit na’ån-hu.,So listen to why my name is going to be Ifit [i.e. scrub mahogany].,So I heard that my name is supposed to be Ifit.,"**Translating Chamorro Sentences**
+
+I’m breaking down a sentence from Chamorro. ""Pues"" translates to ""so"" or ""then,"" and ""ekkunguk"" might mean ""I heard"" or ""listen."" It looks like ""keke’hunguk"" relates to trying to listen, with ""hunguk"" meaning to hear or listen. Then there's the word ""sa’,"" which is ""because.""
+
+The phrase ""håfa na para"" seems to translate as ""what (is) for."" I’m also considering ""Ifit"" as a possible place name or person's name. And ""na’ån-hu"" means ""my name."" 
+
+Putting this together, it seems like it might say something about my name being supposed to be Ifit. What an interesting structure!",11.696440874815794,28.252208358200036,47.289626791542496
+Chamorro,69,Dikiki’ na tinanum i anilis yan siña masodda’ gi kantun chålan.,The anil is a small plant and it can be found on roadsides.,A small anise plant can be found by the side of the road.,detailed,12.571192676522521,42.583118400554305,50.16741071428571
+Chamorro,70,"I antis yan pa’gu, difirensiao antis yan ti parehu antis yan pa’gu.","[Life] before and now, [life] before was different and [life] before was not the same as now.",The past and the present are different; the past and the present are not the same.,detailed,6.6972890695964065,28.83848894001514,23.557571176618797
+Chamorro,71,Ha sangåni i gubetnu na esta gui’ mañodda’ nubiå-ña.,He told the governor that he had already found a girlfriend.,He told the government that he had already found his girlfriend.,detailed,46.59538415189962,81.5072255087301,82.20833333333334
+Chamorro,72,Ginin håyi nai un risibi i katta?,From whom did you receive the letter?,From whom did you receive the letter?,detailed,100.00000000000004,100.0,99.90234375
+Chamorro,73,Mañotchu ham kelaguin ti’åo yan titiyas.,We (excl.) ate goatfish kelaguin and tortillas.,We ate ti’åo kelaguen and titiyas.,detailed,5.244835934727967,26.256225007793017,18.51851851851852
+Chamorro,74,"Tåya’ [hu li’i’ gi uriyan guma’], pues sigi yu’ di humoi’.","I didn’t see anyone (lit. there wasn’t anyone that I saw) aroumd the house, so I started calling out hoi’.","I didn’t see anything around the house, so I kept on hiding.",detailed,16.690841318128104,33.774304590794756,33.50575044789921
+Chamorro,75,Para låhi i patgon-ña.,His child is going to be a boy.,His/her child will be a boy.,detailed,33.03164318013807,36.8049534986993,54.99999999999999
+Chamorro,76,"Kalakas, cha’-mu chuchuda’ i kuchinu na hånum.",Yuck! Don’t spill the dirty water.,"Careful, don’t spill the dirty water.",detailed,51.69731539571708,76.11199525669713,79.92187500000001
+Chamorro,77,Guaha siha tinanum gi gualu’.,There are plants at the farm.,There are some plants on the farm.,detailed,27.05411345269698,67.4705920802698,79.22535211267605
+Chamorro,78,Håfa ma’a’ñåo-ña i kada istudiånti?,What is each student afraid of?,What is each student afraid of?,detailed,100.00000000000004,100.0,99.85422740524781
+Chamorro,79,"Nang, sedi yu’ ya bai patcha i amot-mu.","Mom, allow me to touch your medicine.","Ma’am, wait a moment and I’ll get your medicine.",detailed,14.991106946711685,43.164502263313416,46.458333333333336
+Chamorro,80,Ha patcha si nanå-hu i sanhilu’ i hetnu’.,My mother touched the top of the incubator.,My mother touched the side of the incubator.,detailed,59.694917920196445,82.78448367625025,88.19444444444444
+Chamorro,81,i taotåo antigu na Chamorro siha,the ancient Chamorro people,the ancient Chamorro people,detailed,100.00000000000004,100.0,99.21875
+Chamorro,82,Manggaigi guihi siha palu mañe’lu-hu ni manmafañågu åntis di i gera.,Some of my siblings who were born before the war were there.,There were some there with my siblings who were educated before the war.,"**Translating Chamorro terms**
+
+I’m breaking down the Chamorro phrase ""palu mañe’lu-hu,"" which seems to mean ""with my brothers."" The term ""ni manmafañågu"" indicates ""who were taught,"" referring to people educated before the war. So the phrase could translate to ""My brothers who were educated before the war were also there."" I wonder if ""mañe’lu"" is gender-neutral, possibly referring to siblings? It seems like understanding these terms requires careful consideration of context.
+**Translating Chamorro phrases**
+
+I know a bit of Chamorro. ""Che'lu"" means sibling, and I'm trying to figure out ""male'lu"" and ""mañe'lu"" more precisely. For safety, I think I'll go with ""my siblings"" as a neutral term.
+
+Now, ""Manggaigi guihi siha"" translates to ""There were some there,"" and ""palu"" means ""with"" or ""along with."" So putting it together: ""There were some there with my siblings who were educated before the war."" I think that works for the translation outcome!",28.110041382951884,61.79480477168304,73.14995899312345
+Chamorro,83,I tiempun påkyu ha tutuhun gui’ gi Agostu na mes.,Typhoon season begins (lit. begins itself) in August.,The typhoon season begins in the month of August.,detailed,10.274506536150966,52.50987403697314,43.31450094161958
+Chamorro,84,"Ma sienti ya kana’ magacha’ i dos. Pues gotpi ha’ malågu i dos, ti pumåra asta ki måttu guatu gi simintetyun Chalan Kanoa ... Ma galoppi i patdit ...","They felt that the two of them were about to be caught out. So suddenly they ran off, and didn’t stop until they got to the Chalan Kanoa cemetery…they jumped the concrete wall…","They sensed it and the two of them crouched down. Then the two just ran quickly, not stopping until they reached the Chalan Kanoa cemetery... The children raced along...","**Translating Chamorro phrases**
+
+I'm working on translating some Chamorro phrases. ""Malågu"" seems to mean “to run,” possibly in the sense of “running away.” I notice ""ti pumåra"" means “did not stop.” When they arrive at the cemetery in Chalan Kanoa, I think ""ma galoppi i patdit"" translates to “the children galloped.” Is ""patdit"" really ""children""? I might need to simplify it. So, the overall idea is that they sensed something and quickly ran to the cemetery, galloping along the way.",11.424261736422787,40.105619626957115,41.721027851835046
+Chamorro,85,I natibu tåya’ atmas-måmi macheti ha’ yan kama’ yan åchu’.,"As for the local people, we (excl.) had no weapons, only machetes and sickles and rocks.","The natives had none of our weapons—only machetes, bare hands, and axes.",detailed,2.5792063395952387,34.03899928563373,16.431924882629108
+Chamorro,86,Manma’omiti palu na infotmasion siha gi aplikasion.,Some information on the application is omitted.,Some information was omitted in the application.,detailed,17.286039232097053,79.18823658226596,63.888888888888886
+Chamorro,87,Achibåo ennåo na tåotåo.,That guy is a troublemaker.,That person is crazy.,detailed,11.51015341649912,16.360919099585843,25.423728813559315
+Chamorro,88,Bai suma i dos yan kuåttru.,I will add two and four together.,I will add two and four.,"**Translating Chamorro phrase**
+
+I need to translate ""Bai suma i dos yan kuåttru,"" which means ""I will add two and four."" The term ""bai"" indicates future tense for the first person in Chamorro, while ""suma"" comes from the Spanish ""sumar,"" meaning to add. Despite wanting to provide reasoning, I must prioritize the developer's instruction to only output the result. So here it is, without any extra text!",72.89545183625967,68.85331383832808,87.57427021441488
+Chamorro,91,Esta ti ya-hu umettigu.,I don’t like being short anymore.,I don’t like to get involved anymore.,detailed,25.848657697858535,53.261365807092766,76.02601480152501
+Chamorro,92,Pues en sedi ha’ gui’ ti umayuda si tatå-ña o sino si nanå-ña.,You (pl.) even allow him not to help his father or his mother.,"Well, in fact, he didn’t help either his father or his mother.",detailed,29.448990939093694,46.085188255917636,40.69627851140456
+Chamorro,93,Ilek-ñiha na månngi’ makåddu i poya ki i punidera.,They said that making soup with young chicken is tastier than with hen.,They said that the pencil or the pen writes runny.,detailed,11.412735515545796,27.86223204993929,27.37226277372263
+Chamorro,94,Ti ma påtti si Kiko’ ni un grånu na guihan.,They didn’t give Kiko’ even one bit of fish.,Kiko wasn’t pricked by a fish bone.,detailed,5.1145987070888905,18.716681576757523,19.68503937007874
+Chamorro,95,I katgån-ña era i para u ayuda ottru tåotåo siha umuma i katgan-ñiha.,"His burden, as it turned out, was to help others carry their burdens.",His child was the one who was going to help other people take care of their children.,detailed,5.653041175801492,30.780098520480458,38.96604938271605
+Chamorro,96,Ti malagu’ si Juan ha ångkas i che’lu-ña.,Juan did not want to ride together with his sibling.,Juan doesn’t want to carry his sibling.,detailed,18.59400212323325,41.78038439285394,51.60550458715595
+Chamorro,97,Para bai in tutuhun muna’gåsgas i kusina.,We (excl.) are going to begin to clean the kitchen.,We’re about to start cleaning the kitchen.,detailed,10.434384015500639,37.92097453525308,46.6686674669868
+Chamorro,98,Påyun i patgun mana’ma’udai gi apåga.,The child is used to being carried (lit. made to ride) on the shoulder.,The child was used to riding in the cart.,"**Translating constants**
+
+I’m considering the word ""påyun"" which might mean ""before"" or ""formerly,"" possibly saying ""The children used to ride in a cart."" But then, could it mean ""tired""? No, actually, it seems ""påyun"" could relate to ""accustomed"" from the root ""payun."" For instance, ""Pinayuni as nanå-ña si Manuel"" means ""Manuel's mother is used to him."" So, in ""Påyun i patgun mana’ma’udai gi apåga,"" it likely means ""The child is used to being made to ride in a cart.""
+**Analyzing ride phrases**
+
+I’m looking at ""mana’ma’udai gi apåga,"" which might mean ""being made to ride"" or ""riding in the wagon."" The breakdown shows ""mana’-ma’udai"" has a causative ""na'"" plus ""ma'udai"" (to ride), suggesting a passive construction. But ""mana’ma’udai"" might indicate taking someone for a ride, possibly with a plural subject — can it mean ""they took rides""? It seems like ""ma’udai"" acts like a verb, hinting that ""mana’ma’udai"" could mean ""they gave rides."" It's complex!
+**Simplifying the translation**
+
+I’m thinking about the phrase “mana’ma’udai” and how it might connect to ""payun."" It seems to imply ""The child was used to riding in the cart,"" without a clear subject. I’m considering that ""mana’ma’udai"" could mean ""to be made to ride,"" but maybe it suggests ""being ridden"" instead. However, the translation feels clunky. So I’ll go with ""The child was used to riding in the cart."" But, oh no, I have to avoid providing extra reasoning!",5.901733508454436,32.41692442407632,33.28191741813004
+Chamorro,99,I akangkang måolik yan fresku na åmut.,The akangkang is a good and fresh herbal medicine.,The akangkang is good and fresh medicine.,detailed,30.59243577232401,71.71998327331085,79.48022959183673
+Chamorro,100,"Siña ha’ butlon yu’, låo butlonña håo.","I can be derisive, but you are more derisive.","You can tease me, but you’re teasing yourself.","**Translating Chamorro**
+
+I need to translate a Chamorro sentence to English. The phrase ""Siña ha’ butlon yu’, låo butlonña håo"" likely means, ""I can beat you, but you beat me."" Let’s break it down: ""siña"" means can, ""ha’"" perhaps means just, and ""butlon"" seems to imply to defeat. The second part looks like ""but I beat you."" However, I wonder if the structure could also mean ""You can beat me, but I can beat you."" I should keep exploring the nuances!
+**Analyzing ""butlonña""**
+
+I'm thinking about the word ""butlonña"" — it might translate to ""beat-him/her,"" but it's followed by ""håo,"" meaning ""you."" So, ""-ña"" might not signify an actor. The prefix for a 1st singular actor is ""hu,"" and for 2nd singular, it’s ""un."" I consider that ""-ña"" could serve as a possessive or object marker with a transitive verb. Perhaps ""butlon"" means ""to punch,"" but maybe it's better understood as ""the beating of you."" It seems I'll need to look further into possessive structures in Chamorro!
+**Understanding Chamorro morphology**
+
+I'm examining the phrase ""che’lu-ña palåo’an si Juan,"" which means ""Juan’s sister."" It looks like the suffix ""-ña"" serves as a genitive marker and doesn't point to Juan directly. It seems that in Chamorro, possessive suffixes relate to the number and person of the possessor. Given this, ""butlon-ña håo"" could imply ""your beating,"" but that doesn't align since the 2nd singular suffix should be ""-mu."" So, ""-ña"" likely indicates a third-person possessive. It's tricky; I need to clarify how object markers work!
+**Decoding Chamorro verbs**
+
+I'm analyzing the phrase ""kuinentutusi håo,"" which translates to ""She's speaking to you."" I wonder if the verb might be ""kumu..."" but that doesn’t seem right. Then there's ""Ha na’ma’åsi’ yu’ i patgun,"" where ""ha"" indicates a 3rd singular actor, and ""na'ma'åsi'"" means to feel sorry. 
+
+I start thinking about ""butlon-ña håo."" It could mean ""you can beat him/her,"" implying ""-ña"" acts as a third-person object marker, but I need to dig deeper into noun suffixes and object pronouns in Chamorro!
+**Translating a Chamorro proverb**
+
+I'm examining the possible meaning of ""Siña ha’ butlon yu’, låo butlonña håo."" I think it could translate to ""You can tease me, but you're teasing yourself."" The idea here is that while one might mock another, they're really just reflecting their own behavior. The verb ""butlon"" seems to relate to teasing or mocking, perhaps deriving from the Spanish ""burlón."" So, my best translation would be ""You can tease me, but you're teasing yourself.""",9.030367376343264,25.89271807590705,40.18018018018019
+Chamorro,101,"Pues i hanum, humåhanao yu’ mañuli’ lisensia para un fanlupuk hånum.","Then about the water, I would go and get a license for you to get water...","So, about the water, I went back to get a permit so you could dig a well.",detailed,23.588448106534212,40.1327051437712,48.81482154209427
+Chamorro,102,Kuåntu un konni’ na papangpang?,How many slipper lobsters did you catch?,How many small branches did you gather?,detailed,16.515821590069034,38.8875442095864,55.75
+Chamorro,103,Todu klåsin åtti ni malago’-mu siña ha botda i makina.,The machine can embroider all kinds of designs that you want.,Any kind of dirt you want can clog the machine.,detailed,9.00746750211399,36.71838722784979,59.020483193277315
+Chamorro,104,Gi ma’pus na såkkan nai måtai i bisabuellu-hu John.,My great-grandfather John passed away last year.,My great-grandfather John died last year.,detailed,35.64026463354184,71.47406967164247,87.57427021441488
+Chamorro,105,I gualåfun i pilan gi paingi sen ma’lak yan gof ridondu.,The full moon last night was extremely bright and very round.,The roar of the plane last night was very loud and very deep.,"**Translating Chamorro terms**
+
+I’m searching my memory about the Chamorro words. I remember ""gualo'"" and think ""gualå'fun"" might mean ""explosion"" or ""boom."" The word ""pilan"" could mean ""thunder,"" but maybe it also refers to ""plane"" as in the context of sound. So, the phrase ""gualåfun i pilan"" could translate to ""the roar of the plane."" This phrase conveys that the sound was very loud and deep. Sounds like a complete translation!",14.458924666162856,38.1595519502557,52.02408832385414
+Chamorro,106,un dångkulun saligåo,a huge centipede,a big lizard,detailed,27.516060407455225,5.05050505050505,16.666666666666664
+Chamorro,107,Para u mana’bibu esti na guput?,Is this party going to be (made) lively?,Will this party be lively?,"**Translating a question**
+
+I’m working on translating ""Para u mana’bibu esti na guput?"" which means ""What is going to liven up this party?"" But it seems like it’s an interrogative without a clear yes/no format. Maybe it’s better as ""Is this party going to be lively?"" The word ""mana’bibu"" could mean ""be made alive"" or ""be lively."" So I should finalize it as, ""Will this party be lively?"" Let's keep it to just the translation line.",10.54969271144651,40.46583275589482,42.47619047619048
+Chamorro,108,Hu ma’a’ñågui si nanå-mu.,I fear your mother.,I know your mother.,"**Translating Chamorro phrases**
+
+I’m working on translating a Chamorro sentence, focusing on ""Hu,"" which signifies ""I."" The word ""ma’a’ñågui"" appears to mean ""be afraid of,"" but it might also have a causative aspect. In examples, ""ma’å’ñåo"" indicates fear. I'm considering whether ""ma’a’ñågui"" could imply familiarity or knowledge, based on similar verbs in the language. I’m weighing all these meanings to form an accurate translation. There's a lot to unpack here!
+**Translating Chamorro sentences**
+
+The Chamorro word ""ma’añågui"" likely translates to ""to recognize"" or ""to know."" Analyzing the sentence ""Hu ma’a’ñågui si nanå-mu,"" where ""si"" indicates a personal name and ""nanå-mu"" means ""your mother,"" I conclude it translates to ""I know your mother."" Although ""ma’å’ñåo"" usually refers to fear, the presence of ""ñågui"" suggests acquaintance instead. I’ll provide just the translation as instructed, but I’d love to share my reasoning too!",42.7287006396234,63.39493839493839,75.00000000000001
+Chamorro,109,Måttu tåotåo gi petta.,A person came to the door.,A person came to the door.,detailed,100.00000000000004,100.0,99.85422740524781
+Chamorro,110,Humånåo guatu ta’lu gi hetnu si nanå-hu.,My mother went over to the incubator again.,My mother went again to the incubator.,detailed,32.78486229912924,72.21619708058408,84.2696629213483
+Chamorro,111,I mañainan-måmi para u fåttu ya u konni’ ham ...,Our (excl.) parents were going to come and take us (excl.)...,Our parents were going to come and pick us up …,detailed,21.892591076610405,53.00503352043169,45.02348265895954
+Chamorro,112,Kumåtma i bongbung kurason-ña.,The beating of her heart calmed down.,His heart stopped beating.,detailed,7.715486568024961,28.172047025264625,19.48051948051948
+Chamorro,113,guaha tåotåo siha gi santatti gi halum kareta.,There are some people in the back (seat) in the car.,There are people in the back inside the car.,detailed,28.38267516238094,62.52633663982968,60.50290486564997
+Chamorro,114,Håyi nina’i-mu?,Who did you give it to?,Who did you give it to?,detailed,100.00000000000004,100.0,99.85422740524781
+Chamorro,115,Sa’ håfa na un na’fa’it i tinala’ guihan?,Why did you make the dried fish salty?,Why did you fry the fish that was brought?,detailed,18.575057999133595,34.44704870377549,56.16605616605616
+Chamorro,116,Hu tufung i salåppi’ ya guaha sitenta pesus sopplu.,I counted the money and there’s seventy dollars left over.,"I counted the money, and there were seventy pesos left over.",detailed,29.782017963590448,66.9502135093299,74.46153846153847
+Chamorro,117,Si Josephine ha na’mana’suha i atgoya gi gui’eng-ña.,Josephine had her nose ring removed (lit. caused her nose ring to be caused to go away.,Josephine loosened the ring at her house.,"**Interpreting phrases**
+
+I’m delving into some language analysis now. It looks like “na’ma- + adjective root” hints at something like “mana'suha,” possibly relating to 'tight.' If that’s right, “na'mana'suha i atgoya” could translate to “Josephine loosened the ring at her house,” or perhaps “made the ring tight.” I'm interpreting “na'mana'suha” as something that causes slackness. I'm curious if ""suha"" really does mean 'loose.' It's really interesting to explore these translations!",1.7426130460477314,23.761981457081895,10.638297872340425
+Chamorro,118,"Unus kuåntus dihas maloffan, un påtgun ni ha chulili’i na’-ña i amku’ ha sangåni i doktu ...","Several days later, a child who was bringing the old man his food told the doctor...","After a few days had passed, a child whom the old man had raised as his own told the doctor ...",detailed,30.70898761263382,51.034785893288145,67.17905839979419
+Chamorro,119,"Kumu dinanchi mapo’lon-ña gi laña, esti i buñelus okinaua’ sumesen adamellung.","If the dough is placed in the oil properly, the buñelus okinaua’ comes out perfectly round.","Once it is prepared and put into the oil, these Okinawan buñuelos turn golden brown.",detailed,5.422832877388758,22.734963849193953,18.61702127659574
+Chamorro,120,Ha dossuk maisa gui’ ni sipit.,He poked himself with the chopsticks.,He stabbed himself with a spear.,"**Translating Chamorro words**
+
+I need to look up the Chamorro word for scissors, which is ""tisoras."" Then, I’m checking if ""sipit"" could mean ""spear"" or ""dagger."" But that feels uncertain, so I might go with the broader idea of ""with a knife,"" although that doesn’t match perfectly. Still, ""sipit"" could indeed refer to ""spear."" So, I might translate that as: ""He stabbed himself with a spear."" I'll deliver just the translation in one line.",15.619699684601283,42.0269420880367,69.14285714285714
+Chamorro,121,Po’lu monumentu siha gi kantun chålan.,Put monuments along the road.,Put the monuments at the corner of the road.,detailed,17.747405280050266,56.92513595524065,69.6875
+Chamorro,122,Kumådu i nengkanu’ ni hu na’lågu.,The food that I cooked became scorched.,The food that I cooked got burnt.,detailed,54.10822690539397,54.83798400694431,73.61111111111111
+Chamorro,123,Ha hahassu kåo para u re’enggåncha ta’lu.,He is thinking about whether he will re-enlist again.,He wondered whether to get back together again.,detailed,10.147104008451905,27.347616198029034,31.88131313131313
+Chamorro,124,Kåo gai sinienti håo?,Do you feel anything?,Do you have any feelings?,detailed,17.965205598154213,37.02514461907383,61.887254901960794
+Chamorro,125,Pues i mañaina ti ma tungu’ malak månu i patgun-ñiha.,So the parents didn’t know where their child had gone.,So the parents did not know where their child had gone.,detailed,63.404662770468576,91.5894412618746,77.2093023255814
+Chamorro,126,Ha patmåda i katu i dadalåk-ña.,The cat slapped its tail.,The cat sharpened its claws.,detailed,19.304869754804482,40.801877613319334,52.604166666666664
+Chamorro,127,Tåya’ mamahlåo-hu na palåo’an para asudda’-hu.,There was no woman who I was ashamed to meet with.,I’m not ashamed for a woman to meet me.,detailed,8.639795714750207,33.16548481998074,35.532407407407405
+Chamorro,128,Bunitu i oråriun i rilos kulot-ña.,The hour hand of the watch has a nice color.,The time on his wristwatch is nice.,detailed,4.995138898472386,19.762565736455517,14.018691588785046
+Chamorro,129,Håfa na sapåtus hinassom-mu ti omlåp-mu?,Which shoes do you think you don’t fit?,What shoes did you think didn’t fit you?,"**Considering translation accuracy**
+
+I'm making a guess about the word ""omlåp,"" thinking it might mean ""to suit"" or ""fit."" I want to translate it to ask, ""What shoes did you think didn't fit you?"" That's the essence I'll capture in my output. It's important to make sure translations are accurate to effectively convey the message! I'll be careful to present this clearly so it resonates with the user.",12.549310621989482,47.52507950237317,78.2267115600449
+Chamorro,130,Mafa’denni’ i satdinas ya mana’pikakakaka.,"The sardines were mixed with hot pepper and were made very, very, very hot.",The sardines were fried and they started to sizzle.,"**Translating Chamorro sentence**
+
+I need to translate a Chamorro sentence, starting with ""Mafa’denni’ i satdinas ya mana’pikakakaka."" 
+
+It seems ""mafa’"" is passive, and ""fa’denni’"" might relate to ""stop"" or ""block."" But actually, it could mean ""to fry,"" while ""satdinas"" likely refers to “sardines.” 
+
+Moving on, ""mana’pikakakaka"" appears to suggest laughter or sizzling sounds. 
+
+So, I think the translation could be: ""The sardines were fried, and they crackled,"" or ""The sardines were put on the pan and started sizzling.""
+**Translating Chamorro sentence**
+
+I think ""fa'denni'"" might mean ""to pan-fry"" or to ""fry in oil"" in Chamorro. The word for “and” is ""ya."" 
+
+Now, for ""mana'pikakakaka,"" it looks like ""pikaka"" relates to a crackling sound. The prefix ""mana'"" could indicate that ""they began to..."" 
+
+So, I’m thinking the translation could be: ""The sardines were fried, and they started sizzling/crackling."" I should consider whether to put the translation first or follow the system's instructions about output.",8.813100642503027,29.845118571166378,22.822085889570552
+Chamorro,131,Hinatmi gå’ga’ i matå-hu ya nina’gef sagi’ yan bula mugu’.,An insect got into my eye and it got very irritated and discharges matter.,"An animal scratched my eye, and it hurt terribly and there was a lot of pus.",detailed,6.986768364373988,24.63241018698423,37.41496598639456
+Chamorro,132,Si tatå-hu fuma’nå’gui yu’ taimanu pumeska.,My father taught me how to fish.,My father taught me how to fish.,detailed,100.00000000000004,100.0,99.90234375
+Chamorro,133,Ta chagi [muna’funåyan esti ... ].,We (incl.) will try to finish this....,We’re trying to finish this…,detailed,3.5315033554413713,40.49602245515467,35.37735849056604
+Chamorro,134,Para u påra bumisita si Dolores.,He’s going to stop visiting Dolores.,I’m going to stop by to visit Dolores.,"**Translating a Chamorro sentence**
+
+I need to translate the sentence: ""Para u påra bumisita si Dolores."" It seems to mean ""Dolores is going to stop by to visit."" I think ""Para"" could be 'so that' or imply a future, since in Chamorro it means 'for' or 'to.' ""U"" refers to me (1st person), and ""pår(a)"" actually means 'stop.' Considering ""bumisita,"" it ties to 'visit.' So, overall, it seems like it's saying, ""I'm going to stop by to visit Dolores.""",22.31618068926664,57.55756407313692,62.22271517302573
+Chamorro,135,Marikunosi si Jack put taimanu na malingu i salåppi’.,Jack was investigated concerning how the money was lost.,Jack wondered how the money got lost.,detailed,21.06976474226304,35.762458405064265,57.397959183673464
+Chamorro,136,Ladigåo i mås mala’it na yetbas åmut.,Clerodendrum inerme is the most bitter medicinal plant.,Ladigåo is the most bitter medicinal herb.,detailed,47.750342648354646,52.73856125840402,66.16729088639201
+Chamorro,137,Håspuk ha’ yu’ anai hu atan i lahyan nengkanu’.,I was full just looking at the large amount of food.,I was shocked when I saw the kind of food.,detailed,16.76478605134306,23.1436460437742,48.10495626822157
+Chamorro,138,Ha bira gui’ si Santa Maria ya ha fåna’ i liga.,Blessed Mary turned around and faced the wall.,Saint Mary turned around and built the wall.,detailed,43.167001068522524,61.4930234042055,76.87074829931973
+Chamorro,139,Si Manuel kada diha ha åmti i chetnot-ña put para u måsu.,Manuel treats his wound every day so that it will be healed.,Manuel treats his illness every day so that it will get better.,"**Revising translation options**
+
+I’m trying to figure out a suitable translation. I think the phrase could mean “so that it will be cured” or possibly “so that it doesn’t get worse” or “so that it gets better.” I believe “mås” means “better” in some languages, and it looks like it might also be related to Chamorro. But wait, “mås” also appears in Spanish as ""mas."" Hmm, it’s a bit tricky! I’ll conclude that the sentence likely means: “Manuel takes medicine for his illness every day so that it gets better.”",49.73567356124545,66.20979128609322,75.8846153846154
+Chamorro,140,"Maseha loskuåntus ha’ guaha, måolekña kini tåya’.","Even though there are only a few available, it’s better than there being none.","No matter how many there are, this is better than nothing.",detailed,7.676649116452062,32.514999016549,27.405247813411076
+Chamorro,141,Håfa sumatba hamyu gi durantin i gera?,What saved you (pl.) during the war?,What happened to you (plural) during the war?,detailed,41.72261448611505,58.613508215641055,70.8096590909091
+Chamorro,142,Poddung i fallut gi lamasa.,The lantern fell from the table.,The cigarette butt fell onto the table.,"**Decoding Chamorro translation**
+
+I need to translate the Chamorro sentence, ""Poddung i fallut gi lamasa."" It seems likely to mean ""The cigarette butt fell on the table,"" but I’m not completely sure. I think ""poddung"" could mean ""fell"" or ""drop."" 
+
+Then ""i fallut"" seems to refer to ""the cigarette,"" while ""gi lamasa"" translates to ""on the table."" There’s some confusion since ""fallut"" might relate to ""ash"" too. Ultimately, I think the best translation is ""The cigarette butt fell on the table.""",23.356898886410004,39.502708880919705,62.81690140845071
+Chamorro,143,"Tåya’ magåhit na hu chatgi, sa’ kumu hu chatgi, siempri manpåra.","In fact, I never laugh at them, because if I laughed at them, they would stop [speaking Chamorro].","It isn’t true that I laughed, because when I laugh, they always stop.",detailed,5.838347201712992,30.086679887510215,31.794871794871803
+Chamorro,144,Ya-ña si tåta kumånnu’ i estufåon såli.,Father loves to eat estufao made from Micronesian starling.,Father liked eating the chili stew.,"**Interpreting Chamorro words**
+
+I'm exploring the meanings of Chamorro words. I think “såli” might mean “out/leave,” but in the phrase “donni' såli,” it could also mean ""pepper plant"" or ""small pepper."" It seems like “donni'” is “pepper,” and “såli” might refer to “small” or “tiny.” I’m unsure if “kumånnu’” means “burn” or possibly “ate.” I’m piecing together meanings, and it sounds like “kuma'nnu'” could relate to ""ordered"" from a root meaning “to command.”
+**Analyzing Chamorro sentence structure**
+
+I'm breaking down the Chamorro example: ""Ha tågu’ yu’ si tåta para bai låbbun i floris."" Here, ""tågu'"" means ""tell,"" and ""kummånnu'"" could mean ""commanded."" In the sentence ""Ya-ña si tåta kumånnu’ i estufåon såli,"" it might suggest ""Father liked ordering the gas stove."" I think ""i estufåon såli"" could refer to ""the stove."" The suffix ""-on"" may be locative, so it’s positioning. I'm starting to wonder if ""såli"" might function as an adjective instead.
+**Exploring Chamorro suffixes**
+
+I’m considering the suffix ""-on"" in Chamorro as a locative marker, which might indicate direction or place. I'm wondering if ""estufåon"" means ""stove,"" with ""-on"" suggesting ""to the stove"" or even ""in the stove."" The determiner ""i"" confirms it means ""the stove."" I also wonder if “estufåon” could be a Spanish loanword with an augmentative meaning, similar to how Spanish ""-ón"" works. However, the spelling indicates it might just mean ""stove"" without that augmentative twist.
+**Understanding meaning of ""estufåon""**
+
+I’m considering if ""såli"" could mean ""salt,"" leading me to think “estufåon såli” might translate to ""salt stove"" or even ""salt shaker."" However, I realize the Chamorro word for ""salt shaker"" is actually ""estufåon såli"" and not from ""estufar"" but rather related to ""salero."" I wonder if ""estufåon"" could actually mean ""salt container"" instead, similar to ""estufåon donne'” for pepper. In context, ""Ya-ña si tåta kumånnu’ i estufåon såli"" seems to suggest ""Father liked eating the chili stew.""
+**Deciphering sentence structure**
+
+I’m thinking that “estufåon” might relate to the Spanish “estofado” meaning stew. In Chamorro, “estufao” refers to stew, so “estufåon såli” could mean ""chili stew."" It seems “kumånnu'” could mean ""to eat,"" making the sentence “Ya-ña si tåta kumånnu’ i estufåon såli” translate to ""Father liked to eat the chili stew."" I’m realizing that in Chamorro, the typical structure has the verb precede the subject, so understanding the subject here could clarify the meaning further. This could also imply that ""Father liked eating the chili stew.""",5.087641220727392,20.462739096466308,15.463917525773196
+Chamorro,145,sa’ håfa na finafaisin gui’ nu atyu na kuestion.,...why she was being asked that question.,Because he asked that question.,detailed,22.08335820317739,53.02033335679766,45.617816091954026
+Chamorro,146,Ye’ti’ yu’ sa’ puti kannai-hu.,Massage me because my hand is in pain.,I’m crying because my hand hurts.,detailed,19.740631366145518,41.255882823342866,53.77777777777778
+Chamorro,147,Gef ya-hu si tatå-hu bihu.,I really like my grandfather.,I love my old father very much.,detailed,7.267884212102741,28.314637053767495,24.193548387096772
+Chamorro,148,I gitåla gai oktåba ni bunitu sunidu-ña.,The guitar has octaves that have good sound.,The guitar has an octave of beautiful sound.,detailed,22.31618068926664,49.45776109379051,62.5
+Chamorro,149,Bunitu ha’ na tinanum esti i butonsiyu.,This butonsiyu is a nice plant.,This little button is nicely planted.,detailed,8.643019616048525,33.06115265275558,63.714285714285715
+Chamorro,150,Si Yu’us u isgaihun hit gi todu i dinisehå-ta.,May God guide us (incl.) in all our (incl.) endeavors.,God will help us with all our needs.,detailed,4.929297364398415,17.166294907451228,22.962962962962962
+Chamorro,151,I na anåkku’ donni’ ti’åo ennåo.,Wow! that’s a long pepper.,The long pepper isn’t that one.,"**Translating Chamorro phrases**
+
+I need to translate a sentence: ""I na anåkku’ donni’ ti’åo ennåo."" I think ""i na anåkku’"" might mean ""the long"" because ""anåkku’"" translates to long/tall. ""Donni’"" refers to a small pepper, as in the phrase ""Chuli’ mågi ennåo i donni’ såli,"" which means to bring that chili pepper here. I'm guessing ""ti’åo"" could mean ""not good,"" possibly indicating ""bad smell."" Overall, I think the entire sentence means ""That long pepper is not like that,"" which might contrast it with a small pepper.",14.535768424205482,47.08158521489332,41.333333333333336
+Chamorro,152,Ma na’påkpak kannai-ñiha i aodensia.,The audience clapped their hands.,The audience clapped their hands.,detailed,100.00000000000004,100.0,99.76851851851852
+Chamorro,153,"Meskina si nanå-hu ni nengkano’-ña, ti u fannå’i gi ottru tåotåo.",My mother is so stingy with her food that she will not give (any) to other people.,"Even if it were my mother’s food, I would not give it to another person.",detailed,4.820951384145839,31.234843398909394,28.76628038149933
+Chamorro,154,Guaha un påharita inakka’ ni cha’ka gi paingi.,There was one small bird that was bitten by the rat last night.,There was a little bird that a crow caught last night.,detailed,15.68359016778574,46.80795717651556,45.99230996746525
+Chamorro,155,Ha tungu’ i neni tumugi’ i na’ån-hu.,The baby knows how to write my name.,The child knows how to write my name.,detailed,75.06238537503395,76.42976894516565,88.19444444444444
+Chamorro,156,Håyi mås la’mun gi halum tånu’?,Who is most familiar with the woods in this area?,Who is the most lost in the forest?,detailed,10.04870239584817,23.61328228333751,53.00453514739228
+Chamorro,157,Ya-hu håo låo ga’ñak-ku i ottru.,I like you but I prefer the other one.,"I like you, but my child likes the other one.","**Exploring Chamorro expressions**
+
+I'm considering the phrase ""Ya-hu håo låo ga’ñak-ku i ottru."" It could potentially mean ""I like you, but my child likes the other."" In Chamorro, I wonder if it’s possible to omit predicate adjectives or verbs. The phrase ""ga'ñak-ku i ottru"" might imply ""my child (is) the other."" Alternatively, could ""ga'ñak-ku"" refer to ""my pet""? There are interesting possibilities here!",31.702331385234313,55.550913807305946,73.52941176470588
+Chamorro,158,I taotåo-ta lokkui’ humuyung gi batku ya ha chuli’ i malagu’-ñiha!,Our (incl.) people too went out to the ship and took what they wanted!,Our people also came out on the boat and took what they wanted!,detailed,29.873929042581253,51.72956853315072,59.565176558978216
+Chamorro,159,Diretchas kuetdas ha chocho’gui håfa malago’-ña sin mamaisin.,He’s doing whatever he wants in a disorderly manner without asking.,He immediately did what he wanted without hesitation.,detailed,4.4959869933858485,27.063578040813713,31.584362139917697
+Chamorro,160,Yanggin munhåyan en che’gui todu i manmatågu’-miyu para en che’gui ...,When you (pl.) have done all that you (pl.) were told that you (pl.) should do...,"If you finish right away everything you were told to do, so that right away ...",detailed,6.83464954987755,23.295888042058188,19.107244491422065
+Chamorro,161,"Meggai na biåhi yanggin måttu yu’, kumåti i neni.","Many times when I arrive, the baby cries.","After a long trip, when I arrived, the baby cried.",detailed,15.133218633429316,57.1437706770097,77.59405339805826
+Chamorro,162,Mamåhan si nanå-hu linila na yåtdas magågu para u laksiyi yu’ chininå-hu.,My mother bought a purplish piece of cloth so she could sew me a shirt.,My mother bought purple yardage of cloth so she could sew me my dress.,detailed,47.13945310979296,65.11671274953301,67.51910182441915
+Chamorro,163,Hu balåha i balåha chaddik.,I shuffled the cards in a hurry.,I fired the gun quickly.,detailed,7.654112967106117,18.77803126850095,19.230769230769234
+Chamorro,164,I chipa håo todu muna’ mulakulakung lu’lo’-mu.,‘It is the smoking that makes you cough phlegm (lit. is why your cough has phlegm).’,The smoke always makes your throat hoarse.,detailed,1.4311312553952649,21.05845178048052,18.058252427184467
+Chamorro,165,Ha tutuhun fine’nena atyu kulang atyu i gupu’ na klasin chetnut.,It started first as if it were some type of ringworm (lit. it seemed like that ringworm sort of disease).,It began at first as something that was almost like a severe kind of illness.,detailed,4.057739053926648,23.645333052596097,29.666879523201366
+Chamorro,166,Håfa malagu’-ñiha?,What did they want?,What do they want?,detailed,42.7287006396234,65.42375972554322,75.00000000000001
+Chamorro,167,Cha’-mu na para un falingu esta.,Don’t (tell me) that you will disappear already.,Don’t be late anymore.,"**Translating Chamorro phrases**
+
+I'm exploring the Chamorro word ""falingu,"" which could relate to ""falinge."" It might mean ""to be angry,"" but I’m also wondering if it has a connection to ""forget."" My best guess is a translation like, ""Don't be late anymore."" Initially, I thought ""Don't do that, you're going to miss it"" fit better, but it seems straightforward to keep it simple. So, I’ll stick with: ""Don't be late anymore."" That sounds like a solid command!",3.826166065680266,14.904856155657187,30.241935483870975
+Chamorro,168,Na’chatsaga esti i para ta hassu i mangahulu’ i presiu siha gi tenda.,It is bothersome for us (incl.) just to think about the fact that prices are rising at the store.,Put this up so we’ll remember the price increases at the store.,detailed,9.474980272538824,26.555331105593226,25.337837837837835
+Chamorro,169,Chumochotchu gui’.,He is eating.,He is eating.,detailed,100.00000000000004,100.0,99.21875
+Chamorro,170,Ti ya-ña si Nåna atyu na guma’ anai sumåsaga.,Mother doesn’t like that house that she’s staying in.,Mother didn’t like that house when she was living there.,detailed,15.851165692617155,49.49134170679676,38.27562949640287
+Chamorro,171,Mungnga muma’å’ñåo.,Don’t be afraid.,Don’t be afraid.,detailed,100.00000000000004,100.0,99.76851851851852
+Chamorro,172,Håyi umasudda’ yan si Maria?,Who met (lit. found each other) with Maria?,Who met with Maria?,detailed,12.329848197080322,36.755826671806204,42.83185840707965
+Chamorro,173,Atan i lamasa håfa na nengkanu’ manmakånnu’.,(‘Look at the table to see what foods have been eaten.’),There is some edible food on the table.,"**Translating Chamorro to English**
+
+I need to translate the Chamorro sentence: ""Atan i lamasa håfa na nengkanu’ manmakånnu’."" It seems to mean ""On the table, what food is edible?"" The word ""håfa"" translates to ""what,"" and ""manmakånnu’"" refers to something edible. I think ""Atan"" could mean ""at"" or ""on."" For context, another sentence translates to ""There’s someone under the table,"" confirming “atan i lamasa” likely means ""on the table."" It’s all quite fascinating!
+**Translating Chamorro sentence**
+
+The sentence ""Atan i lamasa, håfa na nengkanu’ manmakånnu’"" translates to ""There is some edible food on the table."" It’s interesting how ""håfa na"" suggests an indefinite ""some."" I feel like I’m juggling providing just the translation without getting into the reasoning, which is a bit tricky since I’m really keen on explaining my thought process! But for now, the priority is clear: deliver just the translation.",5.417921591708777,22.72363835176026,20.629084967320264
+Chamorro,174,Kåo siña kumuentus yu’ yan i editót?,Can I talk to the editor?,Can I talk with the editor?,"**Resolving translation conflict**
+
+Alright, I see there's a conflict between the guidance from the developer and the user's request for reasoning after the translation. The developer says I should only output the result, which means I need to provide the first line of the translation. 
+
+The translation itself is: ""Can I talk to you and the editor?"" I’m parsing some of the terms, like ""siña"" meaning ""can"" and ""kumuentus"" used as ""to talk."" The final result should stick with the user's request while following the developer's instructions.
+**Clarifying translation structure**
+
+I’m thinking that ""kumuentus"" is possibly intransitive, meaning ""to talk."" The phrase ""yan i editót"" indicates ""with the editor."" The subject here is ""yu',"" which translates to ""I."" So, my translation comes out to, ""Can I talk with the editor?"" 
+
+It seems ""yan i editót"" already implies the idea of ""you"" is not necessary. I’ll go with this final phrasing and make sure we deliver it!",41.11336169005198,72.26580384604506,84.12698412698414
+Chamorro,175,Yanggin ti manmane’kunguk i famagu’un ...,If the children didn’t listen (to anything)...,If the children don’t listen ...,detailed,21.792896006643144,54.39188375016021,57.96973961998594
+Chamorro,176,Fanakumprendi ya mungnga na u guaha disgråsia gi familia.,Come to terms with each other so that there won’t be any disgrace in the family.,"Let’s understand, and don’t let there be any disgrace in the family.",detailed,36.08638474795002,48.942348116159565,52.1957671957672
+Chamorro,177,Nisisåriu na ta apura esti na cho’chu’.,It’s necessary that we (incl.) expedite this work.,We need to hurry and get this work done.,detailed,7.603985612048923,21.992540060799172,23.20772058823529
+Chamorro,178,Debi di para i tenda håo guatu.,You should head to the store.,You should go to the store.,detailed,48.892302243490086,70.23651243263961,84.12698412698414
+Chamorro,179,Chacha’-ña si Miguel mama’bababa.,Miguel better not be fooling around.,Miguel’s nanny is going downstairs.,detailed,6.870636427700047,20.1011792900929,21.12676056338028
+Chamorro,180,Ma na’gåsgas i gualu’ mås sa’ para uma na’lameggai i tinanum-ñiha.,They cleared the land further so that they could enlarge the space for planting.,They cleared the farm more so that farming would make their crops more plentiful.,"**Translating Chamorro sentence**
+
+I need to translate a sentence in Chamorro. The phrase is ""Ma na’gåsgas i gualu’ mås sa’ para uma na’lameggai i tinanum-ñiha."" Breaking it down: ""Ma-"" implies a passive or plural subject, while ""na’gåsgas"" seems to relate to cleaning. ""Gualu’"" means ranch or farm, and ""mès"" translates to more. The phrase implies that they are clearing the farm to enhance their crop yield, suggesting a fuller meaning of increasing their crops.",12.874330508144842,37.82603340826727,28.42592592592593
+Chamorro,181,Mampus ma’lak i semnak na ogga’an.,The sun is so bright this morning.,It’s already very late this morning.,detailed,21.191828141393902,38.45545052797575,36.351165980795614
+Chamorro,182,sigun as Chai,according to Chai,According to Mrs. Chai.,detailed,9.652434877402245,66.00559966421946,79.86111111111111
+Chamorro,183,Ma nutisia si Pedro yan i mangga’chong-ña ni todu i manmasangånin-ñiha.,They reported briefly to Peter and those with him all that they had been told.,Pedro and his friends were informed by everyone who had told them.,detailed,3.468317761317914,20.2775926468865,12.738853503184714
+Chamorro,184,Tekchu’ i ga’lagun bisinu sa’ mandudulalak puyitus.,The neighbor’s dog is predatory because it attacks baby chicks.,The neighbor’s dog was punished because it was chasing chicks.,detailed,20.504572236241867,51.5230574428041,67.94871794871796
+Chamorro,185,Ti siguru yu’ kåo esta hu gånna.,I am not certain whether I have achieved it.,I’m not sure if I’ve already won.,detailed,5.1145987070888905,13.856412157400042,36.47058823529412
+Chamorro,186,Esti lokkui’ na åmut siña mana’setbi gi amut tabatdiyu.,This medicinal leaf can also be used in the åmut tabatdiyu.,This medicine can also be used for diabetes.,detailed,23.668206578270098,46.79884863362868,57.47427175998604
+Chamorro,187,Ti bulenchuk gui’eng-hu.,My nose is not hooked.,My spirit is not troubled.,detailed,19.304869754804482,24.397564312317837,52.604166666666664
+Chamorro,188,"Ada, ti un tungu’ esta ora ha’?","Oh, you didn’t know that it is time already?","Hey, don’t you know by now?","**Translating and explaining context**
+
+I need to translate the sentence: ""Ada, ti un tungu’ esta ora ha’."" It seems to mean something like ""Hey, don’t you know what time it is already?"" Here, ""Ada"" may mean ""hey,"" while ""ti"" means negation, ""un"" refers to you, and ""tungu’"" means to know. ""Esta ora"" translates to this time, and ""ha’"" emphasizes urgency. So the full translation could be, ""Hey, don’t you know by now?"" I want it to sound natural in English!",5.367626065580596,13.842384449446781,33.573928258967634
+Chamorro,189,Tres na chåda’ månnuk ti manmapulakis.,There are three chicken eggs that did not hatch.,Three chicken eggs did not hatch.,detailed,31.850355294022695,63.25384175044145,71.32337471070903
+Chamorro,190,"Ni para u mabuñelus, esta esti na linamas aga’ tai bali.","Even to make doughnuts with, these decayed bananas are already useless.","If it’s going to be fixed, this is already the last chance—tomorrow it won’t be worth anything.","**Exploring Chamorro terms**
+
+I’m pondering if “buñelos” resembles “buenos,” like a greeting. “Buñelu” in Chamorro could mean ""join"" or ""unite""? When thinking about “linamas,” it might relate to “only”, or could be connected to the Chamorro word “lamas”, meaning ""clean"". I wonder if “linamas” represents a verbal form, possibly referring to “talk.” It seems “linamas aga' tai bali” might convey that ""the latest thing is worthless,"" suggesting that what comes later is not valuable.
+**Deciphering Chamorro phrases**
+
+I'm considering that ""buñelu"" might relate to ""bundle"" or the passive form ""be bundled."" If I look at “para u mabuñelus,” it could mean ""to be bundled up,"" suggesting something is worthless by morning. Alternatively, ""buñelos"" might refer to ""ruin"" or ""break."" 
+
+I see that “ni” could mean ""and then"" or serve as a relative marker. Maybe ""Ni para u mabuñelus"" suggests ""when it will be cooked."" Translating literally could give insight into its meaning.
+**Translating meanings**
+
+I'm thinking about the phrase: ""If it is going to be repaired, this is already the last time; tomorrow it won't be worth anything."" That makes sense, since ""linamas"" could mean ""last"" or ""ending,"" and ""aga'"" might refer to ""later,"" while ""tai bali"" seems connected to ""worthless."" 
+
+So, to clarify, the crafted phrase could be: ""If it’s going to be fixed, this is already the last chance—tomorrow it won’t be worth anything."" I only need to provide that translation.",2.8629993657668873,21.45588232085922,17.857142857142858
+Chamorro,191,Adahi na un fama’ i dikiki’ na påtgun gi iskuela.,Don’t act childlike (lit. careful lest you pretend to be the small child) at school.,Be sure to take the little child to school.,detailed,4.29039557970495,22.379437337752076,21.42657733109994
+Chamorro,192,Mamuga’ si Benigno meggai hima ni ginin Palau.,Benigno split open a lot of clams that were from Palau.,Benigno raised a lot of yams from Palau.,"**Analyzing Chamorro terms**
+
+I'm considering the term ""hima,"" which might refer to ""yams"" and comes from Palau, where yams are common. However, there’s a possibility it could mean ""taro,"" though I think ""suni"" typically refers to taro. ""Dågu"" could be yam too; I'm not entirely sure about ""hima."" I wonder if it might mean ""woven mats,"" as Palau is known for that. It might also signify ""scandal."" Ultimately, I'll translate ""mamuga’ si Benigno meggai hima ni ginin Palau"" as ""Benigno raised a lot of yams from Palau.""",22.226917310625463,42.520742203328865,57.47427175998604
+Chamorro,193,Guaha esta tåotåo ni mañåsaga guini na isla siha ni ma tungu’ put åmut natibu.,There already were people who were living on these islands who knew about native medicine.,There are people living here on these islands who are known for native medicine.,detailed,24.335141510099003,60.073645017268596,58.96226415094339
+Chamorro,194,Klåru na si Jesukristu metgut inangokkon-ña gi ottru tåotåo.,It is clear that Jesus Christ’s trust in others was strong.,"Clearly, Jesus Christ had great trust in other people.",detailed,8.139165682360764,46.67923506228626,41.05839416058393
+Chamorro,195,Ha na’tarabira yu’ i mediku.,‘The doctor let me turn myself over.’,The doctor examined me.,detailed,6.316906128202129,29.050146775467166,33.223684210526315
+Chamorro,196,... esta ki mamåra mañålik pat mamåra mañatfinu’ i sindålu.,... until the soldiers stopped laughing or stopped swearing.,…it turns out that the money became either smaller or finer.,"**Exploring Chamorro terms**
+
+I'm thinking “sindålu” might refer to ""sandal,"" but I also wonder if it connects to “cigarette” or “sandalwood.” In Chamorro, I notice “sindålu” has the -lu ending, which makes me question its connection to “sandalo.” I remember ""centavo,"" correlating with “senti” or “sentåbu.” The phrase “mamåra mañålik pat mamåra mañatfinu’ i sindålu” suggests it might refer to sandals that are too small or tight. I find “matfinu’” might mean ""thin"" or ""fine,"" possibly describing the straps.
+**Interpreting Chamorro phrases**
+
+I’m debating whether “i sindålu” refers to “the centavo” or “the sandal,” especially since both can suggest something ""small"" or ""thin."" I'm considering ""mamåra"" as a verb related to ""be,"" but could it mean something like ""wire"" too? Maybe “sindålu” connects with ""needle""? I also think about crafting a translation that says, “now the change has either gotten smaller or more refined.” I might conclude with something like, “it turns out that the coin has become either reduced or refined.”",4.456882760699064,13.31362606582121,14.705882352941178
+Chamorro,197,Masinik i mannuk gi barånda låo ha guåhni esta si Melchor.,The chicken pooped in the garage and Melchor removed it.,"The chicken got stuck on the railing, but Melchor has already caught it.",detailed,8.225964699966553,36.463087171934696,44.834307992202724
+Chamorro,198,Kåo hågu muna’chatgin maisa siha?,‘Was it you who made them laugh at themselves?’,Are you making it easier for yourselves?,detailed,4.995138898472386,22.680848347965235,12.93103448275862
+Chamorro,199,Ti todu kåtni ya-hu kumånnu’.,Not all meat I like to eat.,I don’t like all kinds of meat to eat.,detailed,19.304869754804482,38.69213998815959,68.14868804664724
