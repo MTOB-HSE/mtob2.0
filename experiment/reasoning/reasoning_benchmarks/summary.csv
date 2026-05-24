@@ -1,0 +1,6 @@
+label,n,BLEU_mean,ChrF_mean,METEOR_mean
+results_Basque_reasoning_bench,100,28.38,62.39,64.99
+results_Chamorro_reasoning_bench,100,56.31,66.65,68.76
+results_Georgian_reasoning_bench,100,23.54,58.91,61.1
+results_Igbo_reasoning_bench,100,24.41,55.66,59.13
+results_Korean_reasoning_bench,100,25.92,60.17,62.32
