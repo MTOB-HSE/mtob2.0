@@ -1,0 +1,6 @@
+label,n,BLEU_mean,ChrF_mean,METEOR_mean
+results_Basque_gloss,86,26.42,61.1,64.4
+results_Chamorro_gloss,92,25.38,53.85,58.97
+results_Georgian_gloss,100,22.35,57.85,60.8
+results_Igbo_gloss,95,25.39,54.92,59.13
+results_Korean_gloss,92,26.72,60.65,63.14
