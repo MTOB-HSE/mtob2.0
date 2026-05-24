@@ -1,0 +1,16 @@
+label,n,BLEU_mean,ChrF_mean,METEOR_mean
+results_Basque_reasoning_100,200,38.89,61.66,67.64
+results_Basque_reasoning_200,178,39.32,62.09,67.19
+results_Basque_reasoning_500,171,39.91,61.36,67.41
+results_Chamorro_reasoning_100,200,23.85,45.18,51.14
+results_Chamorro_reasoning_200,193,24.93,46.09,52.05
+results_Chamorro_reasoning_500,154,26.68,48.95,54.45
+results_Georgian_reasoning_100,200,20.08,44.59,46.29
+results_Georgian_reasoning_200,176,20.56,46.01,48.56
+results_Georgian_reasoning_500,136,23.46,47.89,48.39
+results_Igbo_reasoning_100,177,31.45,45.87,51.43
+results_Igbo_reasoning_200,177,33.07,47.66,53.58
+results_Igbo_reasoning_500,155,37.92,51.75,58.18
+results_Korean_reasoning_100,108,22.2,40.71,43.03
+results_Korean_reasoning_200,108,19.96,40.22,43.98
+results_Korean_reasoning_500,97,18.46,39.05,43.39
