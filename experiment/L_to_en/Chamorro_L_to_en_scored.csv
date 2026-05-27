@@ -1,0 +1,101 @@
+Lang,Direction,Index,Source,Reference,LLM_Translation,BLEU,ChrF,METEOR
+Chamorro,L_to_en,0,Adios.,Goodbye.,Goodbye.,100.00000000000004,100.0,93.75
+Chamorro,L_to_en,1,Ågang i polisia!,Call the police!,Go to the police!,39.76353643835254,64.4196544196544,71.81571815718158
+Chamorro,L_to_en,2,Amerikanu gue'.,He is American.,I am American.,31.947155212313625,62.04438928660326,46.875
+Chamorro,L_to_en,3,Amerikanu gue'.,She is American.,I’m American.,39.43223765116288,57.54381266792118,45.731707317073166
+Chamorro,L_to_en,4,Amerikanu hamyo.,You are American.,American money.,24.840753130578644,46.99204143780255,25.641025641025646
+Chamorro,L_to_en,5,Amerikanu hao.,You are American.,Are you American?,15.97357760615681,49.74497724497725,37.5
+Chamorro,L_to_en,6,Amerikanu yu'.,I am American.,I am American.,100.00000000000004,100.0,99.21875
+Chamorro,L_to_en,7,Åmko'ña si John kinu si Robert.,John is older than Robert.,John knows Robert.,21.444097124017667,34.77217320439353,44.06130268199233
+Chamorro,L_to_en,8,Åmko'ña si Ken kinu si Seiko.,Ken is older than Seiko.,I’m going to take Ken’s Seiko.,13.134549472120794,28.699594998341947,39.31623931623932
+Chamorro,L_to_en,9,Åmko'ña si nåna kinu si tåta.,Mom is older than Dad.,I will go to see my mother’s father.,4.767707020457095,11.637248647243684,7.6923076923076925
+Chamorro,L_to_en,10,Åmko'ña si Sami kinu si Layla.,Sami is older than Layla.,Sami took Layla.,21.444097124017667,30.35613768385266,44.06130268199233
+Chamorro,L_to_en,11,Åmko'ña si Tom kinu si Maria.,Tom is older than Mary.,Tom took Maria.,11.521590992286539,16.378359310625992,17.241379310344826
+Chamorro,L_to_en,12,"Anai mafiti pat magualu sakkan-hu, hu tutuhon mamåhan kandi ni salape'hu mismo ya todo i tiempu hu fåfahan måsmelu.","When I was 17 or 18 years old, I started buying candy with my own money and I always bought marshmallows.","If I have money, I will buy what I need, because I will use my own money to do it all the time I’m able to.",6.773638670879234,22.19862568697861,28.918974997406373
+Chamorro,L_to_en,13,Åpmam tiempo ti hu li'e hao.,"Long time, no see.",I don’t have time to do it well.,5.669791110976001,17.38631151006153,15.384615384615385
+Chamorro,L_to_en,14,Asta agupa'.,Until tomorrow.,Until tomorrow.,100.00000000000004,100.0,98.14814814814815
+Chamorro,L_to_en,15,Asta i biråda.,Until next time.,Until the road.,18.99589214128981,23.894890768092726,25.0
+Chamorro,L_to_en,16,Asta otro bi'åhi ta'lo.,Until next time.,"Until another time, I will go.",7.267884212102741,32.08720898327895,34.09090909090909
+Chamorro,L_to_en,17,Bai hu konne' hao guatu guihi.,I'll take you there.,I will not let you go to that place.,4.990049701936832,16.833234216860408,23.4375
+Chamorro,L_to_en,18,Bai karera gi ega'an.,I leave in the morning.,They will not go away.,8.116697886877475,9.801579067608152,8.333333333333332
+Chamorro,L_to_en,19,Båsȗn taifondȗ.,It's a cup without a saucer.,The wind is blowing hard.,6.870636427700047,7.408775047834058,6.4102564102564115
+Chamorro,L_to_en,20,Buenas dihas.,Good day.,Good day.,100.00000000000004,100.0,98.14814814814815
+Chamorro,L_to_en,21,Buenas dihas.,Good morning.,Good day.,34.66806371753173,18.005799935632037,33.33333333333333
+Chamorro,L_to_en,22,"Buenas dihas, Siñot.","Good day, sir.","Good day, Siñot.",42.7287006396234,56.859076487107984,75.00000000000001
+Chamorro,L_to_en,23,"Buenas dihas, Siñot!","Good day, Sir!","Good day, Siñot!",42.7287006396234,76.35544895889699,75.00000000000001
+Chamorro,L_to_en,24,Buenas noches.,Good evening.,Good evening.,100.00000000000004,100.0,98.14814814814815
+Chamorro,L_to_en,25,Buenas noches.,Good night.,Good night.,100.00000000000004,100.0,98.14814814814815
+Chamorro,L_to_en,26,Buenas tåtdes.,Good afternoon.,Hello everyone.,27.516060407455225,9.706959706959706,16.666666666666664
+Chamorro,L_to_en,27,Buen biåhe.,Bon voyage!,Good journey.,0.0,8.012820512820513,0.0
+Chamorro,L_to_en,28,Bula håsuli iyo-ku hovercraft.,My hovercraft is full of eels.,The hovercraft is coming with me.,14.535768424205482,43.40543696856365,36.50793650793651
+Chamorro,L_to_en,29,Bunitu si Tom.,Tom is handsome.,Tom is handsome.,100.00000000000004,100.0,99.21875
+Chamorro,L_to_en,30,Cha'-mu mandádagi!,Don't lie!,Stop doing that!,15.97357760615681,8.333333333333334,25.0
+Chamorro,L_to_en,31,Cha'-mu mandádagi.,Don't lie.,I will not go.,10.682175159905853,10.638297872340425,12.195121951219512
+Chamorro,L_to_en,32,"Dies, beinti, treinta, kuarenta, sinkuenta, sisenta, sitenta, ochenta, nobenta, siento.","Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, hundred.","Dies, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.",82.89657839357884,90.62366630416778,94.4722371521892
+Chamorro,L_to_en,33,Ekungok yu'!,Listen to me!,You’re welcome!,19.716118825581447,17.313216384640047,12.195121951219512
+Chamorro,L_to_en,34,Ekungok yu'.,Listen to me.,I will not go.,10.682175159905853,7.575757575757576,12.195121951219512
+Chamorro,L_to_en,35,Españot gue'.,He is Spanish.,I am Spanish.,31.947155212313625,57.679790296221114,46.875
+Chamorro,L_to_en,36,Españot yu'.,I am Spanish.,I am sorry.,35.35533905932737,13.272454787994729,63.888888888888886
+Chamorro,L_to_en,37,Estudiånte gue'.,He is a student.,"Student, I guess.",10.682175159905853,35.34753158685254,20.000000000000004
+Chamorro,L_to_en,38,Estudiånte gue'.,She is a student.,"Student, I guess.",10.682175159905853,34.23291009880326,20.000000000000004
+Chamorro,L_to_en,39,Estudiånte gue'.,She's a student.,"Student, I am.",10.682175159905853,33.52131371956078,20.000000000000004
+Chamorro,L_to_en,40,Estudiånte ham.,We are students.,Student of mine.,15.97357760615681,31.220261220261218,25.0
+Chamorro,L_to_en,41,Estudiånte ham.,We're students.,Student of mine.,15.97357760615681,31.220261220261218,25.0
+Chamorro,L_to_en,42,Estudiånte hao.,You are a student.,You are a good student.,37.99178428257963,73.0833302598482,94.90196078431373
+Chamorro,L_to_en,43,Estudiånte hit.,We are students.,Student here.,19.716118825581447,36.06970927720396,25.641025641025646
+Chamorro,L_to_en,44,Estudiånte hit.,We're students.,Student here.,27.516060407455225,36.06970927720396,25.641025641025646
+Chamorro,L_to_en,45,Estudiånte yu'.,I am a student.,I am studying.,27.534765745159184,26.92760942760943,52.154195011337855
+Chamorro,L_to_en,46,Estudiånte yu'.,I'm a student.,I am studying.,15.97357760615681,22.23063973063973,20.408163265306122
+Chamorro,L_to_en,47,Fáfa'na'gue yu'.,I am a teacher.,I will take care of you.,7.809849842300641,11.194029850746269,19.230769230769234
+Chamorro,L_to_en,48,Fáfa'na'gue yu'.,I'm a teacher.,I will take care of you.,6.567274736060395,11.194029850746269,19.230769230769234
+Chamorro,L_to_en,49,Ga'chong ham.,We are friends.,“Ga'chong ham” means “I’m going to eat.”,4.767707020457095,7.812291054265715,10.0
+Chamorro,L_to_en,50,Ga'chong hit.,We are friends.,Ga'chong hit.,19.716118825581447,5.208333333333334,12.820512820512823
+Chamorro,L_to_en,51,Ga'chong-hu hao.,You are my friend.,"I’m sorry, I can’t.",8.116697886877475,8.771929824561402,9.090909090909092
+Chamorro,L_to_en,52,Ga'chong-hu hao.,You're my friend.,"I’m sorry, I don’t know.",6.567274736060395,8.333333333333332,8.92857142857143
+Chamorro,L_to_en,53,Gago' gue'.,He is lazy.,I’m sorry.,19.716118825581447,7.638888888888888,12.195121951219512
+Chamorro,L_to_en,54,Gago' gue'.,He's lazy.,"I’m sorry, I can’t.",8.116697886877475,6.41025641025641,10.869565217391305
+Chamorro,L_to_en,55,Gago' gue'.,She is lazy.,"I’m sorry, I can’t.",8.116697886877475,5.952380952380952,10.869565217391305
+Chamorro,L_to_en,56,Gago' gue'.,She's lazy.,"I’m sorry, I can’t.",8.116697886877475,5.952380952380952,10.869565217391305
+Chamorro,L_to_en,57,Gago' hamyo!,You are lazy!,I’m sorry!,19.716118825581447,8.025515843773027,12.195121951219512
+Chamorro,L_to_en,58,Gago' hamyo.,You're lazy.,"I’m sorry, I don’t know.",6.567274736060395,5.208333333333333,10.638297872340427
+Chamorro,L_to_en,59,Gago' hao!,You are lazy!,Hello!,18.393972058572114,8.519660755589822,13.157894736842104
+Chamorro,L_to_en,60,Gago' hao.,You're lazy.,How are you?,0.0,12.660657653146384,12.5
+Chamorro,L_to_en,61,Gago' yu'.,I am lazy.,"I’m sorry, I can’t.",9.652434877402245,8.680555555555557,21.73913043478261
+Chamorro,L_to_en,62,Gago' yu'.,I'm lazy.,I’m sorry.,27.516060407455225,10.444972826086955,24.390243902439025
+Chamorro,L_to_en,63,Gof maolek!,Very good!,Go for it!,15.97357760615681,7.575757575757574,16.12903225806452
+Chamorro,L_to_en,64,Gof tinane' yu'.,I am very busy.,I will miss you.,12.70331870386537,9.684826812508765,20.000000000000004
+Chamorro,L_to_en,65,Gosa i ha'åni-miyu.,Enjoy your day.,The person is not afraid of me.,5.522397783539471,7.575757575757576,11.363636363636363
+Chamorro,L_to_en,66,Gosa i ha'åni-mu.,Enjoy your day.,Your house is beautiful.,10.682175159905853,10.62423458821289,24.390243902439025
+Chamorro,L_to_en,67,Guaha che'lu-hu.,I have a brother.,I have my brother.,30.213753973567677,65.46493657106939,75.00000000000001
+Chamorro,L_to_en,68,Guaha che'lu-hu.,I have a sister.,I have your brother.,23.643540225079395,29.12335874525444,51.11111111111111
+Chamorro,L_to_en,69,Guaha familiå-hu.,I have a family.,I have a family.,100.00000000000004,100.0,99.6
+Chamorro,L_to_en,70,Guaha gimå'-hu.,I have a house.,I have you.,27.534765745159184,31.26017543474048,52.154195011337855
+Chamorro,L_to_en,71,Guaha karetå-hu.,I have a car.,I have a headache.,42.7287006396234,44.897897701996115,75.00000000000001
+Chamorro,L_to_en,72,Guaha lepblo-ku.,I have a book.,I have a lot of bread.,26.269098944241588,39.499280135823106,72.11538461538461
+Chamorro,L_to_en,73,Guaha na'-hu néngkanno'.,I have food.,I have no one to help me.,12.223075560872525,30.088258822160483,58.08080808080809
+Chamorro,L_to_en,74,Guaha salappe'-hu.,I have money.,I have a little money.,22.957488466614326,65.39950445589633,89.28571428571429
+Chamorro,L_to_en,75,Hafa adai.,Good day!,"Hello, how are you?",0.0,6.944444444444444,0.0
+Chamorro,L_to_en,76,Hafa adai.,Hello!,"Hello, how are you?",8.116697886877475,39.7385688198224,20.833333333333336
+Chamorro,L_to_en,77,Håfa bidáda-mu på'go?,What are you doing today?,How much did you pay?,9.652434877402245,14.379786633525447,25.0
+Chamorro,L_to_en,78,Håfa bidåda-mu?,What did you say?,How are you doing?,12.70331870386537,12.107363227413712,20.000000000000004
+Chamorro,L_to_en,79,Håfa dai!,Hello!,Hello there!,34.66806371753173,49.76769494667877,47.61904761904762
+Chamorro,L_to_en,80,Håfa gi ofisina?,How's things at the office?,How much is the office?,30.213753973567677,46.90134889560638,54.347826086956516
+Chamorro,L_to_en,81,Håfa ilek-mu?,What did you say?,How are you?,14.794015674776452,10.534278914518778,20.408163265306122
+Chamorro,L_to_en,82,Håfa malago'-mu.,Do what you want.,How are you doing?,10.682175159905853,14.632618497352794,20.000000000000004
+Chamorro,L_to_en,83,Håfa malago'-mu?,What do you want?,How are you doing?,12.70331870386537,16.98003897186469,30.0
+Chamorro,L_to_en,84,Håfa para un cho'gue på'go?,What will you do today?,How can I get a ride on a bus?,4.196114906296549,8.503401360544217,7.8125
+Chamorro,L_to_en,85,Håfa tatamanu hao?,How are you?,How are you doing?,42.7287006396234,77.1142141162888,91.46341463414633
+Chamorro,L_to_en,86,Håyi i itmas åmko'?,Who is the oldest?,What is the price of the car?,12.223075560872525,24.65875121923939,28.301886792452823
+Chamorro,L_to_en,87,Håyi na'ån-mu?,What is your name?,How are you?,12.44023474812678,12.28740041351176,10.204081632653061
+Chamorro,L_to_en,88,Håyi nå'ån-mu?,What's your name?,What are you doing?,10.682175159905853,24.18052209297315,20.000000000000004
+Chamorro,L_to_en,89,Håyi na'ån-ña?,What is her name?,Where are you going?,10.682175159905853,15.27342277913539,10.000000000000002
+Chamorro,L_to_en,90,Håyi na'ån-ña?,What is his name?,Where are you going?,10.682175159905853,9.21639231824417,10.000000000000002
+Chamorro,L_to_en,91,Håyi na'ån-ña?,What's her name?,Where are you going?,10.682175159905853,14.13186299674399,10.000000000000002
+Chamorro,L_to_en,92,Håyi na'ån-ña?,What's his name?,Where are you going?,10.682175159905853,9.21639231824417,10.000000000000002
+Chamorro,L_to_en,93,Hoben ham.,We are young.,You are welcome.,18.99589214128981,16.511281415552865,25.0
+Chamorro,L_to_en,94,Hoben ham.,We're young.,You are good.,15.97357760615681,12.42424242424242,12.5
+Chamorro,L_to_en,95,Hoben hit.,We are young.,Good job.,19.716118825581447,3.2051282051282057,12.820512820512823
+Chamorro,L_to_en,96,Hoben hit.,We're young.,The dog bit.,15.97357760615681,6.172839506172839,12.5
+Chamorro,L_to_en,97,Hu guiaya hao.,I love you.,I’m going to leave now.,8.116697886877475,12.274053237485024,22.727272727272727
+Chamorro,L_to_en,98,Hu nesisita i kemmŏn.,I have to use the bathroom.,I need the money.,9.423716574733431,9.977354262547532,22.058823529411764
+Chamorro,L_to_en,99,I na'ån hu si Andrea.,My name is Andrea.,I will see Andrea.,21.3643503198117,38.098568098568094,37.50000000000001

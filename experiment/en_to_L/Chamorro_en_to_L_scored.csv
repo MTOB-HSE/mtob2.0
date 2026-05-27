@@ -1,0 +1,101 @@
+Lang,Direction,Index,Source,Reference,LLM_Translation,BLEU,ChrF,METEOR
+Chamorro,en_to_L,0,Goodbye.,Adios.,Adiós.,49.99999999999999,28.055555555555557,25.0
+Chamorro,en_to_L,1,Call the police!,Ågang i polisia!,Tawga’ i pulisia!,18.99589214128981,35.58444409240438,24.390243902439025
+Chamorro,en_to_L,2,He is American.,Amerikanu gue'.,Håo American siya.,15.97357760615681,24.037861040022985,12.5
+Chamorro,en_to_L,3,She is American.,Amerikanu gue'.,Håo American siya.,15.97357760615681,24.037861040022985,12.5
+Chamorro,en_to_L,4,You are American.,Amerikanu hamyo.,Haole hao.,27.516060407455225,9.851055806938161,16.666666666666664
+Chamorro,en_to_L,5,You are American.,Amerikanu hao.,Haole hao.,55.03212081491043,17.745320014047124,62.5
+Chamorro,en_to_L,6,I am American.,Amerikanu yu'.,Håo Amerikano.,27.516060407455225,52.34233359233359,12.820512820512823
+Chamorro,en_to_L,7,John is older than Robert.,Åmko'ña si John kinu si Robert.,Si John mas bibu i Robert.,14.535768424205482,38.62805377114335,45.08928571428571
+Chamorro,en_to_L,8,Ken is older than Seiko.,Åmko'ña si Ken kinu si Seiko.,Si Ken mas matuod na Seiko.,14.535768424205482,28.399393740714824,45.08928571428571
+Chamorro,en_to_L,9,Mom is older than Dad.,Åmko'ña si nåna kinu si tåta.,Inay mas matinas na kayi Papa.,6.567274736060395,13.984580509702878,7.142857142857142
+Chamorro,en_to_L,10,Sami is older than Layla.,Åmko'ña si Sami kinu si Layla.,Sami na mas matuod na mas labay Layla.,10.552670315936318,26.722217278429312,35.49382716049382
+Chamorro,en_to_L,11,Tom is older than Mary.,Åmko'ña si Tom kinu si Maria.,Si Tom mas bibuha (mas matu) ki Mary.,4.456882760699064,21.128381589752504,20.27027027027027
+Chamorro,en_to_L,12,"When I was 17 or 18 years old, I started buying candy with my own money and I always bought marshmallows.","Anai mafiti pat magualu sakkan-hu, hu tutuhon mamåhan kandi ni salape'hu mismo ya todo i tiempu hu fåfahan måsmelu.","Kada iha 17 ni 18 años, kuminsíbi na kumprá i candy gi nu’ i manmanu, yan siempre kumprá i marshmallows.",2.328734903585348,16.814722263192053,9.389671361502348
+Chamorro,en_to_L,13,"Long time, no see.",Åpmam tiempo ti hu li'e hao.,"Matångga na, ta’ siha ha’åna.",6.567274736060395,7.186103549232113,5.494505494505494
+Chamorro,en_to_L,14,Until tomorrow.,Asta agupa'.,Ate biba i dumingu.,10.682175159905853,9.848722780569515,12.195121951219512
+Chamorro,en_to_L,15,Until next time.,Asta i biråda.,Håsta na’ i sunod na bes.,7.809849842300641,15.113596669037912,22.727272727272727
+Chamorro,en_to_L,16,Until next time.,Asta otro bi'åhi ta'lo.,Håsta na’ ma’åse na’ i tiempo.,6.567274736060395,12.147133812954708,8.92857142857143
+Chamorro,en_to_L,17,I'll take you there.,Bai hu konne' hao guatu guihi.,Hao na’fan hao iha.,8.515289178380433,11.691774693442108,12.658227848101264
+Chamorro,en_to_L,18,I leave in the morning.,Bai karera gi ega'an.,Håo i biyahe na mañåna.,8.116697886877475,8.241758241758241,9.803921568627452
+Chamorro,en_to_L,19,It's a cup without a saucer.,Båsȗn taifondȗ.,Iya na tasa yan maninangga na walang saucer.,4.767707020457095,7.219801742745224,13.888888888888893
+Chamorro,en_to_L,20,Good day.,Buenas dihas.,Maolek na dì.,15.97357760615681,10.017799774246768,16.12903225806452
+Chamorro,en_to_L,21,Good morning.,Buenas dihas.,Maolek na aga.,15.97357760615681,8.45959595959596,16.12903225806452
+Chamorro,en_to_L,22,"Good day, sir.","Buenas dihas, Siñot.","Maolek na adlaw, siñor.",9.652434877402245,13.85362436400451,19.607843137254903
+Chamorro,en_to_L,23,"Good day, Sir!","Buenas dihas, Siñot!","Maolek na adlaw, Senyor!",9.652434877402245,10.905450969373419,19.607843137254903
+Chamorro,en_to_L,24,Good evening.,Buenas noches.,Buenas naite.,34.66806371753173,44.66935418333083,33.33333333333333
+Chamorro,en_to_L,25,Good night.,Buenas noches.,Buenas naiti.,34.66806371753173,43.36720667522918,33.33333333333333
+Chamorro,en_to_L,26,Good afternoon.,Buenas tåtdes.,Buenas tardes.,34.66806371753173,55.26418026418026,33.33333333333333
+Chamorro,en_to_L,27,Bon voyage!,Buen biåhe.,Biba i biáhi!,0.0,8.347566182749787,0.0
+Chamorro,en_to_L,28,My hovercraft is full of eels.,Bula håsuli iyo-ku hovercraft.,Håo hovercraft-ku ayu na’maole’ i’ eels.,6.567274736060395,37.840302392853914,8.92857142857143
+Chamorro,en_to_L,29,Tom is handsome.,Bunitu si Tom.,Si Tom guapo.,18.99589214128981,18.39978967847325,63.888888888888886
+Chamorro,en_to_L,30,Don't lie!,Cha'-mu mandádagi!,Ayuda na’maolek!,27.516060407455225,11.237280436583722,15.625
+Chamorro,en_to_L,31,Don't lie.,Cha'-mu mandádagi.,Ayudae na maningkala.,15.97357760615681,13.709618638227674,16.12903225806452
+Chamorro,en_to_L,32,"Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, hundred.","Dies, beinti, treinta, kuarenta, sinkuenta, sisenta, sitenta, ochenta, nobenta, siento.","Sampu, bintis, trenta, kwarenta, singkuenta, sesenta, setenta, otenta, nobenta, sentu.",9.86215708040141,55.52969288593539,39.938016528925615
+Chamorro,en_to_L,33,Listen to me!,Ekungok yu'!,"Håfa adai, paki-ati siha!",8.116697886877475,2.525252525252525,11.904761904761905
+Chamorro,en_to_L,34,Listen to me.,Ekungok yu'.,"Håfa adai, pame’ i’ sinigåo.",6.567274736060395,4.901960784313726,11.111111111111112
+Chamorro,en_to_L,35,He is Spanish.,Españot gue'.,Hayi i Espanyol.,15.97357760615681,17.429379494951615,12.5
+Chamorro,en_to_L,36,I am Spanish.,Españot yu'.,Ha’ i Espanyol.,15.97357760615681,20.573057900090998,12.195121951219512
+Chamorro,en_to_L,37,He is a student.,Estudiånte gue'.,Håo siña’ i estudyante.,10.682175159905853,21.868713442448634,11.904761904761905
+Chamorro,en_to_L,38,She is a student.,Estudiånte gue'.,Siha estudenti.,27.516060407455225,20.108865934665403,12.820512820512823
+Chamorro,en_to_L,39,She's a student.,Estudiånte gue'.,Siha estu na estudyante.,10.682175159905853,21.584844711044703,12.195121951219512
+Chamorro,en_to_L,40,We are students.,Estudiånte ham.,Haole taotao i estudyante.,10.682175159905853,21.108512601943918,15.625
+Chamorro,en_to_L,41,We're students.,Estudiånte ham.,Håo na estudyante.,15.97357760615681,23.287633830270867,16.12903225806452
+Chamorro,en_to_L,42,You are a student.,Estudiånte hao.,Siña estu un estudyante.,10.682175159905853,21.687944231533557,15.625
+Chamorro,en_to_L,43,We are students.,Estudiånte hit.,Ha’mi estudiante.,27.516060407455225,28.94062515210561,15.625
+Chamorro,en_to_L,44,We're students.,Estudiånte hit.,Håo siha estudyante.,15.97357760615681,23.74606258288775,16.12903225806452
+Chamorro,en_to_L,45,I am a student.,Estudiånte yu'.,Ha’ i estudyante.,15.97357760615681,23.63679129069119,12.195121951219512
+Chamorro,en_to_L,46,I'm a student.,Estudiånte yu'.,Ha’ iha’ estudyante.,15.97357760615681,22.619895211077168,11.904761904761905
+Chamorro,en_to_L,47,I am a teacher.,Fáfa'na'gue yu'.,Ha’ i maestra.,15.97357760615681,4.62962962962963,12.195121951219512
+Chamorro,en_to_L,48,I'm a teacher.,Fáfa'na'gue yu'.,Ha’ i maestru.,15.97357760615681,5.787037037037036,12.195121951219512
+Chamorro,en_to_L,49,We are friends.,Ga'chong ham.,Ha’ iha taotao iha’amigo.,10.682175159905853,12.088628217660476,14.285714285714288
+Chamorro,en_to_L,50,We are friends.,Ga'chong hit.,"Håfa adai, taotao iñiha na amigu.",5.522397783539471,8.771929824561402,14.285714285714288
+Chamorro,en_to_L,51,You are my friend.,Ga'chong-hu hao.,Siña na’ma’ i kaibigan ko.,8.116697886877475,7.179903327100165,13.888888888888893
+Chamorro,en_to_L,52,You're my friend.,Ga'chong-hu hao.,Siña i amigo ko.,10.682175159905853,8.074823822025703,15.625
+Chamorro,en_to_L,53,He is lazy.,Gago' gue'.,Håo’ i manhåsi.,15.97357760615681,4.716981132075472,10.000000000000002
+Chamorro,en_to_L,54,He's lazy.,Gago' gue'.,Hiyo maole’ na’ma’ga.,15.97357760615681,7.062146892655368,9.25925925925926
+Chamorro,en_to_L,55,She is lazy.,Gago' gue'.,Siha na’ma’gas.,27.516060407455225,4.629629629629629,9.615384615384617
+Chamorro,en_to_L,56,She's lazy.,Gago' gue'.,Siña’ malaguña.,27.516060407455225,9.574613595951307,10.204081632653061
+Chamorro,en_to_L,57,You are lazy!,Gago' hamyo!,Gua’hu ka’yo’!,27.516060407455225,11.836539156844312,11.363636363636363
+Chamorro,en_to_L,58,You're lazy.,Gago' hamyo.,Gua'ya' na'ga'lao.,27.516060407455225,12.417374348781884,25.0
+Chamorro,en_to_L,59,You are lazy!,Gago' hao!,Haole’ yu’ taotao!,15.97357760615681,13.548307386254516,11.904761904761905
+Chamorro,en_to_L,60,You're lazy.,Gago' hao.,Gumanao ka.,27.516060407455225,11.090534979423868,12.820512820512823
+Chamorro,en_to_L,61,I am lazy.,Gago' yu'.,Haole’lao guaha guatu.,15.97357760615681,9.075827857234895,9.803921568627452
+Chamorro,en_to_L,62,I'm lazy.,Gago' yu'.,Haole’lao guaha’ miña.,15.97357760615681,7.440476190476191,9.615384615384617
+Chamorro,en_to_L,63,Very good!,Gof maolek!,Maolek gid!,27.516060407455225,31.197089947089946,33.33333333333333
+Chamorro,en_to_L,64,I am very busy.,Gof tinane' yu'.,Gua’ busy kaayo.,15.97357760615681,7.142857142857142,8.47457627118644
+Chamorro,en_to_L,65,Enjoy your day.,Gosa i ha'åni-miyu.,Gozai i adlaw mo.,12.70331870386537,10.294627383015596,24.390243902439025
+Chamorro,en_to_L,66,Enjoy your day.,Gosa i ha'åni-mu.,Gozai i adlaw mo.,12.70331870386537,11.424475585851788,24.390243902439025
+Chamorro,en_to_L,67,I have a brother.,Guaha che'lu-hu.,Håo na’ i mananåo.,10.682175159905853,3.3333333333333335,15.151515151515152
+Chamorro,en_to_L,68,I have a sister.,Guaha che'lu-hu.,Håo na’ i manangko.,10.682175159905853,3.289473684210526,15.151515151515152
+Chamorro,en_to_L,69,I have a family.,Guaha familiå-hu.,Håo i famagu'on.,15.97357760615681,12.055683968460608,16.12903225806452
+Chamorro,en_to_L,70,I have a house.,Guaha gimå'-hu.,Håo na’ i ha’om na’ i hale.,5.522397783539471,9.815546045471923,12.820512820512823
+Chamorro,en_to_L,71,I have a car.,Guaha karetå-hu.,Ha’åo un sakyanan.,15.97357760615681,8.849150875012944,15.151515151515152
+Chamorro,en_to_L,72,I have a book.,Guaha lepblo-ku.,Håo na libru.,15.97357760615681,9.567673790223532,16.12903225806452
+Chamorro,en_to_L,73,I have food.,Guaha na'-hu néngkanno'.,Håo i manñuk.,15.97357760615681,5.937206190786143,10.204081632653061
+Chamorro,en_to_L,74,I have money.,Guaha salappe'-hu.,Håo i mani.,15.97357760615681,2.164502164502165,16.12903225806452
+Chamorro,en_to_L,75,Good day!,Hafa adai.,Maolek na dì!,0.0,7.303407177095478,0.0
+Chamorro,en_to_L,76,Hello!,Hafa adai.,Håfa adai!,27.516060407455225,52.070105820105816,16.666666666666664
+Chamorro,en_to_L,77,What are you doing today?,Håfa bidáda-mu på'go?,Håfa yu’ iha’ mo’na’ i tano’ i gima’?,5.669791110976001,13.776069794083542,19.230769230769234
+Chamorro,en_to_L,78,What did you say?,Håfa bidåda-mu?,Ta na’maole’ siña?,15.97357760615681,5.787037037037038,14.705882352941178
+Chamorro,en_to_L,79,Hello!,Håfa dai!,Håfa adai!,34.66806371753173,59.49750848433022,33.33333333333333
+Chamorro,en_to_L,80,How's things at the office?,Håfa gi ofisina?,Håo na’ga’na i trabahun na opisina?,6.567274736060395,29.63760617307077,10.638297872340427
+Chamorro,en_to_L,81,What did you say?,Håfa ilek-mu?,Ma’aseguro hao?,27.516060407455225,5.376344086021505,15.625
+Chamorro,en_to_L,82,Do what you want.,Håfa malago'-mu.,Hågo hao i maolek hao.,8.116697886877475,14.10848279337065,15.151515151515152
+Chamorro,en_to_L,83,What do you want?,Håfa malago'-mu?,Maolek hao i taotao?,10.682175159905853,6.493506493506493,15.625
+Chamorro,en_to_L,84,What will you do today?,Håfa para un cho'gue på'go?,Maolek mo’na iha yan?,8.745825313180632,6.8181818181818175,8.196721311475411
+Chamorro,en_to_L,85,How are you?,Håfa tatamanu hao?,Maolek ka?,19.716118825581447,5.7919938139424225,12.820512820512823
+Chamorro,en_to_L,86,Who is the oldest?,Håyi i itmas åmko'?,Ta’lo i manaina?,14.794015674776452,7.551821977722435,16.666666666666664
+Chamorro,en_to_L,87,What is your name?,Håyi na'ån-mu?,Mano na’ngngaran mo?,15.97357760615681,7.234537967132355,15.151515151515152
+Chamorro,en_to_L,88,What's your name?,Håyi nå'ån-mu?,Mano na’ngngae hao?,15.97357760615681,3.6231884057971016,15.151515151515152
+Chamorro,en_to_L,89,What is her name?,Håyi na'ån-ña?,Mano’ siha na ngaran na?,8.116697886877475,9.432311353772924,14.705882352941178
+Chamorro,en_to_L,90,What is his name?,Håyi na'ån-ña?,Mano ang iya ngaran?,10.682175159905853,8.454106280193235,15.625
+Chamorro,en_to_L,91,What's her name?,Håyi na'ån-ña?,Mano na’ngaran na iya?,10.682175159905853,10.741471129021502,14.705882352941178
+Chamorro,en_to_L,92,What's his name?,Håyi na'ån-ña?,Mano na’ngngai i ngaran na?,8.116697886877475,10.238724599372212,14.285714285714288
+Chamorro,en_to_L,93,We are young.,Hoben ham.,Hågu i taotao gi kabåyan.,8.116697886877475,8.771929824561402,15.151515151515152
+Chamorro,en_to_L,94,We're young.,Hoben ham.,Håo i kabåyo-tao.,15.97357760615681,8.169934640522877,16.12903225806452
+Chamorro,en_to_L,95,We are young.,Hoben hit.,Hågu i kabalen taotao gi kabataan.,6.567274736060395,11.647368952121488,14.705882352941178
+Chamorro,en_to_L,96,We're young.,Hoben hit.,Hågu taotao iñiha iha kabataan.,8.116697886877475,10.582010582010582,15.151515151515152
+Chamorro,en_to_L,97,I love you.,Hu guiaya hao.,Gininanao hao.,39.43223765116288,19.106913695170174,48.07692307692308
+Chamorro,en_to_L,98,I have to use the bathroom.,Hu nesisita i kemmŏn.,Gotta naña i banyo.,12.70331870386537,7.689862316934139,19.607843137254903
+Chamorro,en_to_L,99,My name is Andrea.,I na'ån hu si Andrea.,Guaha na’famaguon ko si Andrea.,30.213753973567677,44.065316280740454,47.491039426523294

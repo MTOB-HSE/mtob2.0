@@ -1,0 +1,93 @@
+Lang,Index,Source,Reference,LLM_Translation,Status,BLEU,ChrF,METEOR
+Chamorro,0,['hafa tatatmanu hao'],how are you,How are you?,completed,31.947155212313625,80.7971795938625,94.98207885304659
+Chamorro,1,['hafa tatatmanu hao'],how are you doing,What are you doing?,completed,39.76353643835254,71.98217025494581,71.81571815718158
+Chamorro,2,['hafa bidada mu'],what are you doing,What did you do? (or: What have you done?),completed,2.8398387225677895,29.696829424608566,30.000000000000004
+Chamorro,3,['Hu guaiya hao'],I love you,I love you.,completed,59.460355750136046,96.17320480751631,94.98207885304659
+Chamorro,4,['ginen manu hao'],where are you from,Where are you from?,completed,39.76353643835254,90.37642787234118,96.79878048780488
+Chamorro,5,['kuantos anos hao'],how old are you,How old are you?,completed,39.76353643835254,87.22832118323053,96.79878048780488
+Chamorro,6,"[""hafa un cho'cho'gui pagu""]",what are you doing now,What are you doing now?,completed,50.81327481546147,92.26506423113229,97.64705882352942
+Chamorro,7,"[""gatbo lumi'e hao""]",nice to meet you,I can see you.,completed,10.682175159905853,15.142196626566239,45.731707317073166
+Chamorro,8,['Ti hu komprendi'],I don't understand,I don’t understand.,completed,18.99589214128981,72.45324739600863,23.80952380952381
+Chamorro,9,['hafa tatatmanu hao pagu'],how are you doing today,What are you doing now?,completed,30.213753973567677,56.297770570216386,77.8186274509804
+Chamorro,10,"[""Si Yu'os ma'ase pot i pinasensia-mu mentras in inbestitiga i binatko""]",Thank you for your patience while we investigate shipment,Thank you for your patience while we investigate the accident.,completed,67.86502681586727,84.07625664558151,86.87160326086956
+Chamorro,11,"[""Ti hu tungo'""]",I don't know,I don’t know.,completed,18.99589214128981,47.18447798311147,23.80952380952381
+Chamorro,12,['manu ni gaigui hao'],where are you,Where are you?,completed,31.947155212313625,85.64453649560136,94.98207885304659
+Chamorro,13,"[""hayi na'an-mu""]",what is your name,Who is your name?,completed,39.76353643835254,65.61013061013061,71.81571815718158
+Chamorro,14,['Mahalang yu nu hagu'],I miss you,I miss you.,completed,59.460355750136046,96.17320480751631,94.98207885304659
+Chamorro,15,['buen prubecho'],you are welcome,Enjoy your meal.,completed,0.0,16.95013918109087,0.0
+Chamorro,16,['hafa kumeke ilek-mu'],what do you mean,What are you trying to say?,completed,6.567274736060395,18.698940648855537,23.255813953488374
+Chamorro,17,['esta guinaiya-ku'],okay my love,My love,completed,30.326532985631665,32.818103141278876,64.6551724137931
+Chamorro,18,"[""dangkulo na si Yu'os ma'ase""]",thank you so much,"Thank you very much, God.",completed,7.809849842300641,46.445803789191565,59.43152454780362
+Chamorro,19,['hunggan guinaiya-hu'],yes my love,"Yes, my love.",completed,21.3643503198117,52.90627164833901,79.86111111111111
+Chamorro,20,['Hu sen guiya hao'],I love you so much,I really like you.,completed,12.70331870386537,15.050556263204456,20.000000000000004
+Chamorro,21,['put i otro'],by the way,because of the other,completed,15.97357760615681,14.439430881743034,16.12903225806452
+Chamorro,22,['ya hafa hagu'],what about you,And what about you?,completed,39.76353643835254,92.064567923982,92.0138888888889
+Chamorro,23,['kao umasagua hao'],are you married,Did you get married?,completed,12.70331870386537,47.254990929257005,31.25
+Chamorro,24,['hayi hao'],who are you,Who are you?,completed,31.947155212313625,80.7971795938625,94.98207885304659
+Chamorro,25,"[""dangkulo na si Yu'os ma'ase""]",thank you very much,"Thank you very much, God.",completed,24.446151121745054,86.03087155889287,92.29651162790698
+Chamorro,26,['biba anu nuebu'],happy new year,Long live the New Year.,completed,0.0,14.20231397982284,56.81818181818182
+Chamorro,27,['manu gaigi hao pagu'],where are you now,Where are you now?,completed,39.76353643835254,89.51894699574923,96.79878048780488
+Chamorro,28,['buenas hafa tatatmanu hao'],hello how are you,"Hello, how are you?",completed,30.213753973567677,66.16897786610095,89.28571428571429
+Chamorro,29,['kao gaigi hao guenao'],are you there,Are you there? (over there)?,completed,9.535414040914189,67.0155282772822,70.98765432098766
+Chamorro,30,['esta guinaiya-ku'],ok my love,My love,completed,30.326532985631665,41.95175911936111,64.6551724137931
+Chamorro,31,"[""i na'an-hu si""]",my name is,my name is Si,completed,59.460355750136046,92.72100013663068,94.98207885304659
+Chamorro,32,['hafa ofisiu-mu'],what do you do,What is your job/profession?,completed,0.0,17.702712402231285,12.195121951219512
+Chamorro,33,['kao umasagua hao pat sino mamaisa'],are you married or single,"Did you get married, or did someone marry you?",completed,4.932351569489709,32.54302054810106,26.785714285714285
+Chamorro,34,['manu sumasaga hao'],where do you live,Where do you live?,completed,39.76353643835254,89.51894699574923,96.79878048780488
+Chamorro,35,['na bunito dia-mu'],have a nice day,Have a nice day.,completed,39.76353643835254,87.22832118323053,96.79878048780488
+Chamorro,36,['tumaimanu i dia-mu'],how was your day,How is your day?,completed,21.3643503198117,55.01327376327376,62.33062330623306
+Chamorro,37,['Yahu hao'],I like you,I love you.,completed,18.99589214128981,30.038060761124484,32.25806451612904
+Chamorro,38,['Hu guaiya hao lokkue'],I love you too,I love you too.,completed,66.87403049764218,97.61490149794774,96.79878048780488
+Chamorro,39,"[""hafa un chochogui para linala'-mu""]",what do you do for a living,What did you do for your life?,completed,20.556680845025987,40.22533243019996,70.14084507042254
+Chamorro,40,"[""Maolek ha yu'""]",I am fine,I’m fine.,completed,27.516060407455225,47.421738439536,31.25
+Chamorro,41,"[""cha'mu papara""]",never give up,Don’t use many words.,completed,0.0,5.376344086021505,0.0
+Chamorro,42,['tumaimanu i puengi-mu'],how was your night,How was your evening?,completed,21.3643503198117,53.08945433475111,71.81571815718158
+Chamorro,43,['kao bisi hao'],are you busy,Are you vicious?,completed,15.97357760615681,31.729540811655056,60.48387096774195
+Chamorro,44,"[""Mahalang yu' mampus nu hagu""]",I miss you so much,I miss you so much.,completed,75.98356856515926,98.2553168750668,97.64705882352942
+Chamorro,45,"[""na chaddek hao homlu'""]",get well soon,You got well quickly.,completed,10.682175159905853,26.960361472897564,58.59375
+Chamorro,46,['yan lokkue'],as well as,and also,completed,0.0,8.547008547008547,0.0
+Chamorro,47,"[""Maolek oga'an guinaiya-ku""]",good morning my love,"Good morning, my love.",completed,17.965205598154213,72.13158325845589,89.28571428571429
+Chamorro,48,['Ti hu komprendi'],I don’t understand,I don’t understand.,completed,59.460355750136046,98.51816410863887,97.64705882352942
+Chamorro,49,['Ti hu komprendi hao'],I don't understand you,I don’t understand you.,completed,23.643540225079395,77.71733181498021,49.14529914529914
+Chamorro,50,['taya guaha'],not at all,There is nothing.,completed,0.0,11.547240649209886,0.0
+Chamorro,51,"[""malagu' lumi'e hao""]",I want to see you,I want to see you.,completed,75.98356856515926,98.08468777958981,97.64705882352942
+Chamorro,52,['ya hagu'],how about you,I like you.,completed,15.97357760615681,10.1276978086624,16.12903225806452
+Chamorro,53,"[""ti chagugu' bai li'e hao""]",see you soon,I won’t see you.,completed,21.3643503198117,45.38440401159299,55.14705882352941
+Chamorro,54,"[""esta la'mona""]",see you later,The monkey is already there.,completed,0.0,14.901791237838138,0.0
+Chamorro,55,['san menan i'],in front of,at the front of the,completed,21.3643503198117,56.41195126618057,58.59375
+Chamorro,56,['hunggan siempri'],yes of course,"Yes, always.",completed,0.0,7.727272727272727,16.12903225806452
+Chamorro,57,['buenas hafa tatmanu hao'],hello how are you doing,"Hello, how are you?",completed,30.213753973567677,49.79945586016639,73.52941176470588
+Chamorro,58,"[""hafa che'cho'cho'-mu""]",what is your job,What is your job/work?,completed,24.446151121745054,82.01687630285393,71.81571815718158
+Chamorro,59,['Ti hu komprendi'],I do not understand,I don’t understand.,completed,18.99589214128981,72.45324739600863,23.80952380952381
+Chamorro,60,['pot para hu'],in order to,for me to (do it),completed,6.567274736060395,15.6934419149855,14.705882352941178
+Chamorro,61,"['gof bunito hao (masculine)', 'gof bunita hao (feminine)']",you are so beautiful,You are very handsome. / You are very beautiful.,completed,4.456882760699064,49.058246753844905,54.37352245862884
+Chamorro,62,"[""na hanaogui yu' litratu-mu""]",send me your picture,Show me your picture.,completed,39.76353643835254,71.03438018044696,71.81571815718158
+Chamorro,63,"[""hafa bidada-mu pagugu ha'""]",what are you doing right now,"What is your problem, really?",completed,0.0,13.824894574614904,8.196721311475411
+Chamorro,64,['hafa tatatmanu hao pagu'],how are you today,What are you doing now?,completed,16.233395773754946,35.58960470246315,60.84656084656085
+Chamorro,65,['kao esta chumochu hao'],have you eaten,Did you eat already?,completed,10.682175159905853,34.06982402295806,15.625
+Chamorro,66,"[""Malagu yu' nu hagu""]",I want you,I want you.,completed,59.460355750136046,96.17320480751631,94.98207885304659
+Chamorro,67,['Mision mami: para otganisa i infotmasion todu i tano yan para hu abundansia yan sumetbi.'],Our mission: to organize the world's information and make it universally accessible and useful.,Our mission: to organize information for the whole world and to make it abundant and useful.,completed,31.55365536525736,57.42593600965714,70.99594223654373
+Chamorro,68,"['Mision mami: para mana sina todus, maseha manu na lugat para uma komprendi todu i tano yan ma ekspresia siha gi todu linguahi siha.']","Our mission: to enable everyone, everywhere to understand the world and express themselves across languages.","Our mission: to enable everyone, no matter where, to understand the whole world and have it expressed in all languages.",completed,33.8796999974464,66.64770513812319,78.06451612903227
+Chamorro,69,"[""Ti hu tungo'""]",I do not know,I don’t know.,completed,18.99589214128981,47.18447798311147,23.80952380952381
+Chamorro,70,"[""nai'e animu""]",keep it up,Give it your best effort.,completed,8.116697886877475,9.60019779765595,15.151515151515152
+Chamorro,71,['hafa esti'],what is this,What is this?,completed,31.947155212313625,83.58891462582321,94.98207885304659
+Chamorro,72,"['bunito hao (masculine)', 'bunita hao (feminine)']",you are beautiful,You are handsome. / You are beautiful.,completed,9.535414040914189,72.10889663518925,81.79012345679013
+Chamorro,73,['na maolek dia-mu'],have a good day,Have a good day.,completed,39.76353643835254,87.22832118323053,96.79878048780488
+Chamorro,74,['sin kulot betdi idea siha maigo sen fotmat'],colorless green ideas slept furiously,"Without color, the ideas are very different; they’re too formal.",completed,3.0890553181566975,21.493754585433614,8.333333333333336
+Chamorro,75,['Hu guaiya si nana-hu'],I love my mother,I love my mother.,completed,66.87403049764218,98.08468777958981,96.79878048780488
+Chamorro,76,"[""Hu guaiya si patgon chelu-hu palao'an""]",I love my little sister,I love my sister’s daughter.,completed,30.213753973567677,45.89100956841611,70.75471698113208
+Chamorro,77,['Hu guaiya si patgon chelu-hu lahi'],I love my little brother,"I love my brother’s son, the child.",completed,17.747405280050266,48.48219067527592,66.96428571428572
+Chamorro,78,['Hu guaiya si tata-hu'],I love my father,I love my father.,completed,66.87403049764218,98.08468777958981,96.79878048780488
+Chamorro,79,"[""Hu guiaya si amko chelu-hu palao'an""]",I love my big sister,I love my older sister.,completed,32.46679154750989,54.58526087972666,73.52941176470588
+Chamorro,80,['Hu guiaya si amko chelu-hu lahi'],I love my big brother,I love my older brother.,completed,32.46679154750989,57.769641041830845,73.52941176470588
+Chamorro,89,['meggai meggai magof na hinalom salappi i dia'],many many happy returns of the day,There is so much joy deep inside the heart today.,completed,3.7477767366779213,16.12567807296972,6.756756756756757
+Chamorro,90,"[""anakko na tiempo ti man ali'e""]",long time no see,It’s been a long time since they were seen.,completed,8.392229812593097,44.14666587283176,53.24074074074075
+Chamorro,91,"[""uttimo laot ti mas didde'""]",last but not least,"The last one, but not the very smallest.",completed,9.287528999566801,36.751317768256094,55.55555555555556
+Chamorro,92,"[""chogui ha'""]",just do it,Do it already.,completed,15.97357760615681,14.304639494898245,60.48387096774195
+Chamorro,93,['hafa tatatmanu hao'],how do you do,What are you doing?,completed,10.682175159905853,27.306699291062454,45.731707317073166
+Chamorro,94,['buenas hafa tatatmanu hao'],hi how are you,"Hello, how are you?",completed,30.213753973567677,67.42147757651728,89.28571428571429
+Chamorro,95,"[""si yu'os un binendisi""]",god bless you,God bless you.,completed,31.947155212313625,85.64453649560136,94.98207885304659
+Chamorro,96,['hanao maigo'],go to bed,Go to sleep.,completed,15.97357760615681,16.804532333807245,60.48387096774195
+Chamorro,97,['kuniadu'],brother in law,brother-in-law,completed,0.0,56.46020433265539,0.0
+Chamorro,98,['buena suetti'],best of luck,Good luck.,completed,27.516060407455225,20.910519717771624,16.666666666666664
+Chamorro,99,['todu i maolek'],all the best,all the good things,completed,31.947155212313625,40.812784573775616,60.48387096774195

@@ -1,0 +1,101 @@
+Lang,Index,Source,Reference,LLM_Translation,Reasoning_Summary,ChrF
+Chamorro,0,Ågang i polisia!,Call the police!,Call the police!,,100.0
+Chamorro,1,Amerikanu gue'.,He is American.,He is American.,,100.0
+Chamorro,2,Amerikanu gue'.,She is American.,He is American.,,83.69
+Chamorro,3,Amerikanu hamyo.,You are American.,You (plural) are Americans.,,66.1
+Chamorro,4,Amerikanu hao.,You are American.,You are an American.,,75.31
+Chamorro,5,Amerikanu yu'.,I am American.,I’m American.,,79.62
+Chamorro,6,Åmko'ña si John kinu si Robert.,John is older than Robert.,John is older than Robert.,,100.0
+Chamorro,7,Åmko'ña si Ken kinu si Seiko.,Ken is older than Seiko.,Ken is older than Seiko.,,100.0
+Chamorro,8,Åmko'ña si nåna kinu si tåta.,Mom is older than Dad.,Mother is older than Father.,,54.77
+Chamorro,9,Åmko'ña si Sami kinu si Layla.,Sami is older than Layla.,Sami is older than Layla.,,100.0
+Chamorro,10,Åmko'ña si Tom kinu si Maria.,Tom is older than Mary.,Tom is older than Maria.,,87.55
+Chamorro,11,"Anai mafiti pat magualu sakkan-hu, hu tutuhon mamåhan kandi ni salape'hu mismo ya todo i tiempu hu fåfahan måsmelu.","When I was 17 or 18 years old, I started buying candy with my own money and I always bought marshmallows.","When I was really sick or my illness got worse, I started buying candy with my own money, and I kept buying more all the time.",,52.03
+Chamorro,12,Åpmam tiempo ti hu li'e hao.,"Long time, no see.",It’s been a long time; I haven’t seen you.,,35.03
+Chamorro,13,Asta agupa'.,Until tomorrow.,Until tomorrow.,,100.0
+Chamorro,14,Asta i biråda.,Until next time.,See you later.,,6.13
+Chamorro,15,Asta otro bi'åhi ta'lo.,Until next time.,Until next time.,,100.0
+Chamorro,16,Bai hu konne' hao guatu guihi.,I'll take you there.,I’ll take you over there.,,64.59
+Chamorro,17,Bai karera gi ega'an.,I leave in the morning.,I will run in the morning.,,63.46
+Chamorro,18,Båsȗn taifondȗ.,It's a cup without a saucer.,The trash is endless.,,7.61
+Chamorro,19,Buenas dihas.,Good day.,Good morning.,,23.67
+Chamorro,20,Buenas dihas.,Good morning.,Good morning.,,100.0
+Chamorro,21,"Buenas dihas, Siñot.","Good day, sir.","Good day, sir.",,100.0
+Chamorro,22,"Buenas dihas, Siñot!","Good day, Sir!","Good morning, sir!",,23.81
+Chamorro,23,Buenas noches.,Good evening.,Good evening.,,100.0
+Chamorro,24,Buenas noches.,Good night.,Good evening.,,26.14
+Chamorro,25,Buenas tåtdes.,Good afternoon.,Good afternoon.,,100.0
+Chamorro,26,Buen biåhe.,Bon voyage!,Have a good trip.,,10.96
+Chamorro,27,Bula håsuli iyo-ku hovercraft.,My hovercraft is full of eels.,My hovercraft is full of eels.,,100.0
+Chamorro,28,Bunitu si Tom.,Tom is handsome.,Tom is handsome.,,100.0
+Chamorro,29,Cha'-mu mandádagi!,Don't lie!,Don’t argue!,,18.84
+Chamorro,30,Cha'-mu mandádagi.,Don't lie.,Don’t be late.,,20.16
+Chamorro,31,"Dies, beinti, treinta, kuarenta, sinkuenta, sisenta, sitenta, ochenta, nobenta, siento.","Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, hundred.","Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.",,95.09
+Chamorro,32,Ekungok yu'!,Listen to me!,Listen to me!,,100.0
+Chamorro,33,Ekungok yu'.,Listen to me.,I’m tired.,,7.86
+Chamorro,34,Españot gue'.,He is Spanish.,That’s Spanish.,,64.59
+Chamorro,35,Españot yu'.,I am Spanish.,I’m Spanish.,,76.96
+Chamorro,36,Estudiånte gue'.,He is a student.,He is a student.,,100.0
+Chamorro,37,Estudiånte gue'.,She is a student.,He is a student.,,83.69
+Chamorro,38,Estudiånte gue'.,She's a student.,He is a student.,,66.78
+Chamorro,39,Estudiånte ham.,We are students.,We are students.,,100.0
+Chamorro,40,Estudiånte ham.,We're students.,We are students.,,76.98
+Chamorro,41,Estudiånte hao.,You are a student.,You are a student.,,100.0
+Chamorro,42,Estudiånte hit.,We are students.,We are students.,,100.0
+Chamorro,43,Estudiånte hit.,We're students.,We are students.,,76.98
+Chamorro,44,Estudiånte yu'.,I am a student.,I’m a student.,,79.62
+Chamorro,45,Estudiånte yu'.,I'm a student.,I’m a student.,,79.62
+Chamorro,46,Fáfa'na'gue yu'.,I am a teacher.,Teach me.,,20.98
+Chamorro,47,Fáfa'na'gue yu'.,I'm a teacher.,Forgive me.,,7.18
+Chamorro,48,Ga'chong ham.,We are friends.,We have company.,,8.94
+Chamorro,49,Ga'chong hit.,We are friends.,We are friends.,,100.0
+Chamorro,50,Ga'chong-hu hao.,You are my friend.,You are my companion.,,44.18
+Chamorro,51,Ga'chong-hu hao.,You're my friend.,You are my friend.,,74.38
+Chamorro,52,Gago' gue'.,He is lazy.,That’s crazy.,,21.41
+Chamorro,53,Gago' gue'.,He's lazy.,He’s crazy.,,28.13
+Chamorro,54,Gago' gue'.,She is lazy.,That one is crazy.,,28.1
+Chamorro,55,Gago' gue'.,She's lazy.,That one is crazy.,,21.4
+Chamorro,56,Gago' hamyo!,You are lazy!,You’re all crazy!,,31.8
+Chamorro,57,Gago' hamyo.,You're lazy.,You guys are crazy.,,28.45
+Chamorro,58,Gago' hao!,You are lazy!,You’re stupid!,,15.35
+Chamorro,59,Gago' hao.,You're lazy.,You’re crazy.,,30.66
+Chamorro,60,Gago' yu'.,I am lazy.,I’m crazy.,,27.72
+Chamorro,61,Gago' yu'.,I'm lazy.,I’m crazy.,,27.72
+Chamorro,62,Gof maolek!,Very good!,Very good!,,100.0
+Chamorro,63,Gof tinane' yu'.,I am very busy.,I’m very tired.,,26.07
+Chamorro,64,Gosa i ha'åni-miyu.,Enjoy your day.,Enjoy your day.,,100.0
+Chamorro,65,Gosa i ha'åni-mu.,Enjoy your day.,Enjoy your day.,,100.0
+Chamorro,66,Guaha che'lu-hu.,I have a brother.,I have a sibling.,,31.22
+Chamorro,67,Guaha che'lu-hu.,I have a sister.,I have a sibling.,,51.37
+Chamorro,68,Guaha familiå-hu.,I have a family.,I have a family.,,100.0
+Chamorro,69,Guaha gimå'-hu.,I have a house.,I have a house.,,100.0
+Chamorro,70,Guaha karetå-hu.,I have a car.,I have a car.,,100.0
+Chamorro,71,Guaha lepblo-ku.,I have a book.,I have my book.,,51.58
+Chamorro,72,Guaha na'-hu néngkanno'.,I have food.,I have food.,,100.0
+Chamorro,73,Guaha salappe'-hu.,I have money.,I have money.,,100.0
+Chamorro,74,Hafa adai.,Good day!,What the heck?,,1.89
+Chamorro,75,Håfa bidáda-mu på'go?,What are you doing today?,What are you doing now?,,70.4
+Chamorro,76,Håfa bidåda-mu?,What did you say?,What happened to you?,,22.62
+Chamorro,77,Håfa gi ofisina?,How's things at the office?,What’s in the office?,,44.12
+Chamorro,78,Håfa ilek-mu?,What did you say?,What did you say?,,100.0
+Chamorro,79,Håfa malago'-mu.,Do what you want.,What do you want?,,46.45
+Chamorro,80,Håfa malago'-mu?,What do you want?,What do you want?,,100.0
+Chamorro,81,Håfa para un cho'gue på'go?,What will you do today?,What are you going to do now?,,24.46
+Chamorro,82,Håfa tatamanu hao?,How are you?,How are you doing?,,77.11
+Chamorro,83,Håyi i itmas åmko'?,Who is the oldest?,Who is the oldest?,,100.0
+Chamorro,84,Håyi na'ån-mu?,What is your name?,What is your name?,,100.0
+Chamorro,85,Håyi nå'ån-mu?,What's your name?,What is your name?,,71.2
+Chamorro,86,Håyi na'ån-ña?,What is her name?,What is his/her name?,,77.83
+Chamorro,87,Håyi na'ån-ña?,What is his name?,What is his/her name?,,70.66
+Chamorro,88,Håyi na'ån-ña?,What's her name?,What is his/her name?,,58.11
+Chamorro,89,Håyi na'ån-ña?,What's his name?,What’s his name?,,68.43
+Chamorro,90,Hoben ham.,We are young.,We are young.,,100.0
+Chamorro,91,Hoben ham.,We're young.,We are young.,,67.87
+Chamorro,92,Hoben hit.,We are young.,We are young.,,100.0
+Chamorro,93,Hoben hit.,We're young.,We are young.,,67.87
+Chamorro,94,Hu guiaya hao.,I love you.,I love you.,,100.0
+Chamorro,95,Hu nesisita i kemmŏn.,I have to use the bathroom.,I need the truck.,,11.65
+Chamorro,96,I na'ån hu si Andrea.,My name is Andrea.,My name is Andrea.,,100.0
+Chamorro,97,I na'ån hu si Hopkins.,My name is Hopkins.,My name is Hopkins.,,100.0
+Chamorro,98,I na'ån hu si Jack.,My name is Jack.,My name is Jack.,,100.0
+Chamorro,99,I na'ån hu si Tom.,My name is Tom.,My name is Tom.,,100.0
